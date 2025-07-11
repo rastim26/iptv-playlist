@@ -398,9 +398,6 @@ http://s.only4.tv/9849/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Viju TV1000 Romantica
 #EXTGRP:Кино 
 http://s.only4.tv/10253/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,TV1000 Русское Кино
-#EXTGRP:Кино 
-http://s.only4.tv/9764/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Viasat Kino World
 #EXTGRP:Кино 
 http://s.only4.tv/6300/video.m3u8?token=1wDV2J1xtv
@@ -428,39 +425,15 @@ http://s.only4.tv/0147/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,ЕвроКино HD
 #EXTGRP:Кино 
 http://s.only4.tv/6453/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Русский Иллюзион HD
-#EXTGRP:Кино 
-http://s.only4.tv/6454/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Родное Кино
-#EXTGRP:Кино 
-http://s.only4.tv/115/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Наше Новое Кино HD
-#EXTGRP:Кино 
-http://s.only4.tv/6331/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Любимое Кино HD
 #EXTGRP:Кино 
 http://s.only4.tv/722/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Наше Улюблене Кіно (UА)
-#EXTGRP:Кино 
-http://s.only4.tv/10673/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Комедия (ВГТРК)
 #EXTGRP:Кино 
 http://s.only4.tv/1115/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Русский Бестселлер
-#EXTGRP:Кино 
-http://s.only4.tv/421/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Русский Роман HD
-#EXTGRP:Кино 
-http://s.only4.tv/6455/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Любимое HD
 #EXTGRP:Кино 
 http://s.only4.tv/0139/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Наше HD
-#EXTGRP:Кино 
-http://s.only4.tv/0123/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Душевное HD
-#EXTGRP:Кино 
-http://s.only4.tv/0107/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Hollywood HD
 #EXTGRP:Кино 
 http://s.only4.tv/17108/video.m3u8?token=1wDV2J1xtv
@@ -473,21 +446,6 @@ http://s.only4.tv/6330/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Мир Сериала
 #EXTGRP:Кино 
 http://s.only4.tv/719/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Дом Кино
-#EXTGRP:Кино 
-http://s.only4.tv/820/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,HTB Сериал HD
-#EXTGRP:Кино 
-http://s.only4.tv/9861/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,HTB Сериал
-#EXTGRP:Кино 
-http://s.only4.tv/408/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,HTB Хит HD
-#EXTGRP:Кино 
-http://s.only4.tv/9860/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,HTB Хит
-#EXTGRP:Кино 
-http://s.only4.tv/412/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Индия
 #EXTGRP:Кино 
 http://s.only4.tv/707/video.m3u8?token=1wDV2J1xtv
@@ -527,21 +485,12 @@ http://s.only4.tv/5558/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,FilmBox Arthouse
 #EXTGRP:Кино 
 http://s.only4.tv/5536/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Русский Детектив
-#EXTGRP:Кино 
-http://s.only4.tv/0277/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,КиноУжас HD
 #EXTGRP:Кино 
 http://s.only4.tv/5570/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Арсенал HD
 #EXTGRP:Кино 
 http://s.only4.tv/0222/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Победа HD
-#EXTGRP:Кино 
-http://s.only4.tv/6230/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,День Победы
-#EXTGRP:Кино 
-http://s.only4.tv/6214/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Блокбастер HD
 #EXTGRP:Кино 
 http://s.only4.tv/6206/video.m3u8?token=1wDV2J1xtv
@@ -551,9 +500,6 @@ http://s.only4.tv/6207/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,КиноПоказ HD
 #EXTGRP:Кино 
 http://s.only4.tv/6208/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Наш КиноПоказ HD
-#EXTGRP:Кино 
-http://s.only4.tv/6209/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Про Любовь HD
 #EXTGRP:Кино 
 http://s.only4.tv/6210/video.m3u8?token=1wDV2J1xtv
@@ -599,15 +545,9 @@ http://s.only4.tv/121/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Ретро
 #EXTGRP:Кино 
 http://s.only4.tv/6263/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Наше Мужское HD
-#EXTGRP:Кино 
-http://s.only4.tv/6267/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Страшное HD
 #EXTGRP:Кино 
 http://s.only4.tv/0218/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Мосфильм (+4)
-#EXTGRP:Кино 
-http://s.only4.tv/6295/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Film.UA Drama HD
 #EXTGRP:Кино 
 http://s.only4.tv/6302/video.m3u8?token=1wDV2J1xtv
@@ -623,9 +563,6 @@ http://s.only4.tv/7198/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Thriller HD
 #EXTGRP:Кино 
 http://s.only4.tv/6500/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,РуКино HD
-#EXTGRP:Кино 
-http://s.only4.tv/6501/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Serial HD
 #EXTGRP:Кино 
 http://s.only4.tv/6502/video.m3u8?token=1wDV2J1xtv
@@ -635,9 +572,6 @@ http://s.only4.tv/6559/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Victory HD
 #EXTGRP:Кино 
 http://s.only4.tv/6560/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,USSR HD
-#EXTGRP:Кино 
-http://s.only4.tv/6601/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Paradox HD
 #EXTGRP:Кино 
 http://s.only4.tv/6503/video.m3u8?token=1wDV2J1xtv
@@ -671,6 +605,312 @@ http://s.only4.tv/9661/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Aladdin
 #EXTGRP:Кино 
 http://s.only4.tv/6614/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,TV1000 Русское Кино
+#EXTGRP:Кино Русское 
+http://s.only4.tv/9764/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Русский Иллюзион HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/6454/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Родное Кино
+#EXTGRP:Кино Русское
+http://s.only4.tv/115/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Наше Новое Кино HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/6331/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Наше Улюблене Кіно (UА)
+#EXTGRP:Кино Русское
+http://s.only4.tv/10673/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Русский Бестселлер
+#EXTGRP:Кино Русское
+http://s.only4.tv/421/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Русский Роман HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/6455/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Наше HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/0123/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Душевное HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/0107/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Дом Кино
+#EXTGRP:Кино Русское
+http://s.only4.tv/820/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,HTB Сериал HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/9861/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,HTB Сериал
+#EXTGRP:Кино Русское
+http://s.only4.tv/408/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,HTB Хит HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/9860/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,HTB Хит
+#EXTGRP:Кино Русское
+http://s.only4.tv/412/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Русский Детектив
+#EXTGRP:Кино Русское
+http://s.only4.tv/0277/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Победа HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/6230/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,День Победы
+#EXTGRP:Кино Русское
+http://s.only4.tv/6214/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Наш КиноПоказ HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/6209/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Наше Мужское HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/6267/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Мосфильм (+4)
+#EXTGRP:Кино Русское
+http://s.only4.tv/6295/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,РуКино HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/6501/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,USSR HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/6601/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,UZ-Сваты HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/7217/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,UZ-Ru Serial HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/8245/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,TOP: USSR
+#EXTGRP:Кино Русское
+http://s.only4.tv/6805/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Кинозал! Интерны
+#EXTGRP:Кино Русское
+http://s.only4.tv/6823/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Кинозал! СССР
+#EXTGRP:Кино Русское
+http://s.only4.tv/6824/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Кинозал! Сваты
+#EXTGRP:Кино Русское
+http://s.only4.tv/6825/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Кинозал! Универ
+#EXTGRP:Кино Русское
+http://s.only4.tv/6827/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Ольга HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/8348/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Однажды в Милиции
+#EXTGRP:Кино Русское
+http://s.only4.tv/9343/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Sky2000 Russian HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/6921/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Громовы
+#EXTGRP:Кино Русское
+http://s.only4.tv/8512/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,CineMan РуКино
+#EXTGRP:Кино Русское 
+http://s.only4.tv/6838/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,CineMan Сваты
+#EXTGRP:Кино Русское 
+http://s.only4.tv/6843/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Dosug TV Russian
+#EXTGRP:Кино Русское
+http://s.only4.tv/6909/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Dosug TV Сваты
+#EXTGRP:Кино Русское
+http://s.only4.tv/6911/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Dosug TV Сериал
+#EXTGRP:Кино Русское
+http://s.only4.tv/6912/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Dosug TV СССР
+#EXTGRP:Кино Русское
+http://s.only4.tv/6913/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Yosso TV Русские Фильмы
+#EXTGRP:Кино Русское
+http://s.only4.tv/7188/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Yosso TV Советские Фильмы
+#EXTGRP:Кино Русское
+http://s.only4.tv/7189/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Yosso TV Наше Детское
+#EXTGRP:Кино Русское
+http://s.only4.tv/8250/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Z! Russian HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/8052/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,KLI Russian HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/8037/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,KLI СССР HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/8040/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,VB Российские Сериалы
+#EXTGRP:Кино Русское
+http://s.only4.tv/8268/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,VB Спецназ-Диверсант
+#EXTGRP:Кино Русское
+http://s.only4.tv/8754/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,VB Сваты
+#EXTGRP:Кино Русское
+http://s.only4.tv/9372/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,CPS USSR
+#EXTGRP:Кино Русское
+http://s.only4.tv/7658/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Домашний HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/6254/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Домашний (+2)
+#EXTGRP:Кино Русское
+http://s.only4.tv/6296/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Домашний (+4)
+#EXTGRP:Кино Русское
+http://s.only4.tv/6297/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Советская КиноКлассика
+#EXTGRP:Кино Русское
+http://s.only4.tv/10769/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,TVPlay Новьё RUS HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/9254/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,TVPlay Фантастика RUS HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/9381/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - RU Кино FHD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/10001/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - RU Сериал HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/10004/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - СССР 90-е
+#EXTGRP:Кино Русское
+http://s.only4.tv/10021/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - СССР 80-е
+#EXTGRP:Кино Русское 
+http://s.only4.tv/10022/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - СССР 70-е
+#EXTGRP:Кино Русское
+http://s.only4.tv/10023/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - СССР 60-е
+#EXTGRP:Кино Русское
+http://s.only4.tv/10024/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - СССР 50-е
+#EXTGRP:Кино Русское 
+http://s.only4.tv/10025/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - СССР 40-е
+#EXTGRP:Кино Русское 
+http://s.only4.tv/10026/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - СССР 30-е
+#EXTGRP:Кино Русское
+http://s.only4.tv/10027/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - СССР 20-е
+#EXTGRP:Кино Русское 
+http://s.only4.tv/10028/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - СССР Сериал
+#EXTGRP:Кино Русское 
+http://s.only4.tv/10029/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - Россия 90-e FHD
+#EXTGRP:Кино Русское
+http://s.only4.tv/10035/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - Назад в СССР FHD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/9993/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - RU Мелодрама HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/10032/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - СССР Нетленка HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/10033/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Чебур ТВ - RU Комедия FHD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/10150/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,SKY High Russian HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/7963/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Fresh Russian
+#EXTGRP:Кино Русское 
+http://s.only4.tv/8081/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Magic Russian
+#EXTGRP:Кино Русское 
+http://s.only4.tv/8506/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,VeleS СССР
+#EXTGRP:Кино Русское
+http://s.only4.tv/9390/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Velilla TV Русский Сериал HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/9444/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Velilla TV Домашний HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/10276/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,VeleS Наше Кино
+#EXTGRP:Кино Русское
+http://s.only4.tv/9530/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Kernel TV Интерны
+#EXTGRP:Кино Русское
+http://s.only4.tv/10591/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Kernel TV Сваты
+#EXTGRP:Кино Русское
+http://s.only4.tv/10612/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,BCU Russian HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/6284/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,BCU RUSerial HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/6292/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,BCU СССР HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/6293/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,BCU Сваты HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/6641/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,MM NewFilm RU HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/7129/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,MM USSR 1941-1945 HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/7133/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,MM USSR Детектив HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/7134/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,MM USSR Комедия HD
+#EXTGRP:Кино Русское 
+http://s.only4.tv/7135/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,MM USSR Драма HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/7138/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,MM Сваты HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/7167/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,MM USSR Приключения HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/7233/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,LIBERTY Сваты FHD
+#EXTGRP:Кино Русское
+http://s.only4.tv/9466/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,KBC-Russian Комедия
+#EXTGRP:Кино Русское
+http://s.only4.tv/6572/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,KBC-Страна СССР
+#EXTGRP:Кино Русское
+http://s.only4.tv/6579/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,BCU Сваты 4K
+#EXTGRP:Кино Русское
+http://s.only4.tv/9532/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Yosso TV Советские Фильмы 4K
+#EXTGRP:Кино Русское 
+http://s.only4.tv/8252/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,НАШЕ Music UHD
+#EXTGRP:Кино Русское
+http://s.only4.tv/7743/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Clarity4K КиноСССР
+#EXTGRP:Кино Русское 
+http://s.only4.tv/8939/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Clarity4K Русский Cериал
+#EXTGRP:Кино Русское 
+http://s.only4.tv/8944/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Clarity4K Комедия СССР 2
+#EXTGRP:Кино Русское 
+http://s.only4.tv/9239/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,Clarity4K Комедия СССР 1
+#EXTGRP:Кино Русское 
+http://s.only4.tv/9240/video.m3u8?token=1wDV2J1xtv
+#EXTINF:-1,TVPlay Советское Кино HD
+#EXTGRP:Кино Русское
+http://s.only4.tv/9375/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,UZ-Союз Фильмы HD
 #EXTGRP:Кино UZ 
 http://s.only4.tv/6625/video.m3u8?token=1wDV2J1xtv
@@ -680,9 +920,6 @@ http://s.only4.tv/6701/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,UZ-Катастрофа HD
 #EXTGRP:Кино UZ 
 http://s.only4.tv/7194/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,UZ-Сваты HD
-#EXTGRP:Кино UZ 
-http://s.only4.tv/7217/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,UZ-TV HD
 #EXTGRP:Кино UZ 
 http://s.only4.tv/7222/video.m3u8?token=1wDV2J1xtv
@@ -731,9 +968,6 @@ http://s.only4.tv/6934/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,UZ-КиноКомфорт
 #EXTGRP:Кино UZ 
 http://s.only4.tv/7227/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,UZ-Ru Serial HD
-#EXTGRP:Кино UZ 
-http://s.only4.tv/8245/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,UZ-Films 60 fps HD
 #EXTGRP:Кино UZ 
 http://s.only4.tv/8218/video.m3u8?token=1wDV2J1xtv
@@ -758,9 +992,6 @@ http://s.only4.tv/6803/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,TOP: Cinema HD
 #EXTGRP:Кино 
 http://s.only4.tv/6804/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,TOP: USSR
-#EXTGRP:Кино 
-http://s.only4.tv/6805/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,TOP: Mix
 #EXTGRP:Кино 
 http://s.only4.tv/6806/video.m3u8?token=1wDV2J1xtv
@@ -782,27 +1013,9 @@ http://s.only4.tv/6816/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Кинозал! VHS HD
 #EXTGRP:Кино 
 http://s.only4.tv/6822/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Кинозал! Интерны
-#EXTGRP:Кино 
-http://s.only4.tv/6823/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Кинозал! СССР
-#EXTGRP:Кино 
-http://s.only4.tv/6824/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Кинозал! Сваты
-#EXTGRP:Кино 
-http://s.only4.tv/6825/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Кинозал! Универ
-#EXTGRP:Кино 
-http://s.only4.tv/6827/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Кинозал! ХИТ HD
 #EXTGRP:Кино 
 http://s.only4.tv/6828/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Ольга HD
-#EXTGRP:Кино 
-http://s.only4.tv/8348/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Однажды в Милиции
-#EXTGRP:Кино 
-http://s.only4.tv/9343/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Страх HD
 #EXTGRP:Кино 
 http://s.only4.tv/6832/video.m3u8?token=1wDV2J1xtv
@@ -821,9 +1034,6 @@ http://s.only4.tv/6813/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Sky2000 Cinema HD
 #EXTGRP:Кино 
 http://s.only4.tv/6920/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Sky2000 Russian HD
-#EXTGRP:Кино 
-http://s.only4.tv/6921/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Sky2000 VHS HD
 #EXTGRP:Кино 
 http://s.only4.tv/7218/video.m3u8?token=1wDV2J1xtv
@@ -839,18 +1049,12 @@ http://s.only4.tv/8247/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Байки из Склепа
 #EXTGRP:Кино 
 http://s.only4.tv/8511/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Громовы
-#EXTGRP:Кино 
-http://s.only4.tv/8512/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Коломбо
 #EXTGRP:Кино 
 http://s.only4.tv/8513/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,CineMan
 #EXTGRP:Кино CineMan 
 http://s.only4.tv/6837/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,CineMan РуКино
-#EXTGRP:Кино CineMan 
-http://s.only4.tv/6838/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,CineMan Top
 #EXTGRP:Кино CineMan 
 http://s.only4.tv/6839/video.m3u8?token=1wDV2J1xtv
@@ -869,9 +1073,6 @@ http://s.only4.tv/6855/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,CineMan Мелодрама
 #EXTGRP:Кино CineMan 
 http://s.only4.tv/6856/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,CineMan Сваты
-#EXTGRP:Кино CineMan 
-http://s.only4.tv/6843/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,CineMan Ужасы
 #EXTGRP:Кино CineMan 
 http://s.only4.tv/6914/video.m3u8?token=1wDV2J1xtv
@@ -935,21 +1136,9 @@ http://s.only4.tv/6907/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Dosug TV Marvel
 #EXTGRP:Кино 
 http://s.only4.tv/6908/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Dosug TV Russian
-#EXTGRP:Кино 
-http://s.only4.tv/6909/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Dosug TV VHS
 #EXTGRP:Кино 
 http://s.only4.tv/6910/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Dosug TV Сваты
-#EXTGRP:Кино 
-http://s.only4.tv/6911/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Dosug TV Сериал
-#EXTGRP:Кино 
-http://s.only4.tv/6912/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Dosug TV СССР
-#EXTGRP:Кино 
-http://s.only4.tv/6913/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Dosug TV New
 #EXTGRP:Кино 
 http://s.only4.tv/7204/video.m3u8?token=1wDV2J1xtv
@@ -959,12 +1148,6 @@ http://s.only4.tv/7185/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Yosso TV VHS
 #EXTGRP:Кино 
 http://s.only4.tv/7186/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Yosso TV Русские Фильмы
-#EXTGRP:Кино 
-http://s.only4.tv/7188/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Yosso TV Советские Фильмы
-#EXTGRP:Кино 
-http://s.only4.tv/7189/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Yosso TV New Кино
 #EXTGRP:Кино 
 http://s.only4.tv/7191/video.m3u8?token=1wDV2J1xtv
@@ -992,9 +1175,6 @@ http://s.only4.tv/7539/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Yosso TV Thriller
 #EXTGRP:Кино 
 http://s.only4.tv/7545/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Yosso TV Наше Детское
-#EXTGRP:Кино 
-http://s.only4.tv/8250/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Yosso TV Мелодрама
 #EXTGRP:Кино 
 http://s.only4.tv/8251/video.m3u8?token=1wDV2J1xtv
@@ -1070,9 +1250,6 @@ http://s.only4.tv/8050/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Z! History HD
 #EXTGRP:Кино 
 http://s.only4.tv/8051/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Z! Russian HD
-#EXTGRP:Кино 
-http://s.only4.tv/8052/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Z! Thriller HD
 #EXTGRP:Кино 
 http://s.only4.tv/8053/video.m3u8?token=1wDV2J1xtv
@@ -1121,18 +1298,12 @@ http://s.only4.tv/8035/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,KLI Premium HD
 #EXTGRP:Кино KLI 
 http://s.only4.tv/8036/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,KLI Russian HD
-#EXTGRP:Кино KLI 
-http://s.only4.tv/8037/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,KLI Fantastic HD
 #EXTGRP:Кино KLI 
 http://s.only4.tv/8038/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,KLI Thriller HD
 #EXTGRP:Кино KLI 
 http://s.only4.tv/8039/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,KLI СССР HD
-#EXTGRP:Кино KLI 
-http://s.only4.tv/8040/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,KLI VHS HD
 #EXTGRP:Кино KLI 
 http://s.only4.tv/8042/video.m3u8?token=1wDV2J1xtv
@@ -1175,21 +1346,12 @@ http://s.only4.tv/8126/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Film Zone Plus HD
 #EXTGRP:Кино 
 http://s.only4.tv/8127/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,VB Российские Сериалы
-#EXTGRP:Кино 
-http://s.only4.tv/8268/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,VB VHS Classic
 #EXTGRP:Кино 
 http://s.only4.tv/8269/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,VB Контент Моего Детства
 #EXTGRP:Кино 
 http://s.only4.tv/8741/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,VB Спецназ-Диверсант
-#EXTGRP:Кино 
-http://s.only4.tv/8754/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,VB Сваты
-#EXTGRP:Кино 
-http://s.only4.tv/9372/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,CPS Drama
 #EXTGRP:Кино 
 http://s.only4.tv/6833/video.m3u8?token=1wDV2J1xtv
@@ -1211,9 +1373,6 @@ http://s.only4.tv/7195/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,CPS Action
 #EXTGRP:Кино 
 http://s.only4.tv/7196/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,CPS USSR
-#EXTGRP:Кино 
-http://s.only4.tv/7658/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,CPS Fresh
 #EXTGRP:Кино 
 http://s.only4.tv/7664/video.m3u8?token=1wDV2J1xtv
@@ -1238,15 +1397,6 @@ http://s.only4.tv/2011/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Сапфир
 #EXTGRP:Кино 
 http://s.only4.tv/2012/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Домашний HD
-#EXTGRP:Кино 
-http://s.only4.tv/6254/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Домашний (+2)
-#EXTGRP:Кино 
-http://s.only4.tv/6296/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Домашний (+4)
-#EXTGRP:Кино 
-http://s.only4.tv/6297/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,СТС HD
 #EXTGRP:Кино 
 http://s.only4.tv/5580/video.m3u8?token=1wDV2J1xtv
@@ -1310,9 +1460,6 @@ http://s.only4.tv/10676/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,KinoSweet HD
 #EXTGRP:Кино 
 http://s.only4.tv/10677/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Советская КиноКлассика
-#EXTGRP:Кино 
-http://s.only4.tv/10769/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Кино 1 International
 #EXTGRP:Кино 
 http://s.only4.tv/10820/video.m3u8?token=1wDV2J1xtv
@@ -1352,9 +1499,6 @@ http://s.only4.tv/9252/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,TVPlay Лихие 90е Кино
 #EXTGRP:Кино TVPlay 
 http://s.only4.tv/9253/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,TVPlay Новьё RUS HD
-#EXTGRP:Кино TVPlay 
-http://s.only4.tv/9254/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,TVPlay Новьё Мир HD
 #EXTGRP:Кино TVPlay 
 http://s.only4.tv/9255/video.m3u8?token=1wDV2J1xtv
@@ -1373,9 +1517,6 @@ http://s.only4.tv/9373/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,TVPlay Фантастика HD
 #EXTGRP:Кино TVPlay 
 http://s.only4.tv/9374/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,TVPlay Советское Кино HD
-#EXTGRP:Кино TVPlay 
-http://s.only4.tv/9375/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,TVPlay Аниме HD
 #EXTGRP:Кино TVPlay 
 http://s.only4.tv/9377/video.m3u8?token=1wDV2J1xtv
@@ -1388,9 +1529,6 @@ http://s.only4.tv/9379/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,TVPlay Зачарованные HD
 #EXTGRP:Кино TVPlay 
 http://s.only4.tv/9380/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,TVPlay Фантастика RUS HD
-#EXTGRP:Кино TVPlay 
-http://s.only4.tv/9381/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,TVPlay GameZone
 #EXTGRP:Кино TVPlay 
 http://s.only4.tv/9382/video.m3u8?token=1wDV2J1xtv
@@ -1445,15 +1583,9 @@ http://s.only4.tv/9997/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Чебур ТВ - Драма FHD
 #EXTGRP:Кино Чебур ТВ 
 http://s.only4.tv/10000/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - RU Кино FHD
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10001/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Чебур ТВ - Вестерн HD
 #EXTGRP:Кино Чебур ТВ 
 http://s.only4.tv/10003/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - RU Сериал HD
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10004/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Чебур ТВ - История FHD
 #EXTGRP:Кино Чебур ТВ 
 http://s.only4.tv/10005/video.m3u8?token=1wDV2J1xtv
@@ -1487,57 +1619,18 @@ http://s.only4.tv/10017/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Чебур ТВ - Мистика FHD
 #EXTGRP:Кино Чебур ТВ 
 http://s.only4.tv/10018/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - СССР 90-е
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10021/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - СССР 80-е
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10022/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - СССР 70-е
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10023/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - СССР 60-е
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10024/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - СССР 50-е
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10025/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - СССР 40-е
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10026/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - СССР 30-е
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10027/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - СССР 20-е
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10028/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - СССР Сериал
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10029/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - Россия 90-e FHD
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10035/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Чебур ТВ - Чебурашкин MIX
 #EXTGRP:Кино Чебур ТВ 
 http://s.only4.tv/10030/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Чебур ТВ - Супергерои FHD
 #EXTGRP:Кино Чебур ТВ 
 http://s.only4.tv/10007/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - Назад в СССР FHD
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/9993/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Чебур ТВ - Смешной FHD
 #EXTGRP:Кино Чебур ТВ 
 http://s.only4.tv/9992/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Чебур ТВ - Стрелялки HD
 #EXTGRP:Кино Чебур ТВ 
 http://s.only4.tv/10015/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - RU Мелодрама HD
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10032/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - СССР Нетленка HD
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10033/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Чебур ТВ - Фантастика HD
 #EXTGRP:Кино Чебур ТВ 
 http://s.only4.tv/9987/video.m3u8?token=1wDV2J1xtv
@@ -1550,9 +1643,6 @@ http://s.only4.tv/9998/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Чебур ТВ - Детектив HD
 #EXTGRP:Кино Чебур ТВ 
 http://s.only4.tv/9999/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Чебур ТВ - RU Комедия FHD
-#EXTGRP:Кино Чебур ТВ 
-http://s.only4.tv/10150/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Чебур ТВ - Зита-Гита
 #EXTGRP:Кино Чебур ТВ 
 http://s.only4.tv/10152/video.m3u8?token=1wDV2J1xtv
@@ -1667,9 +1757,6 @@ http://s.only4.tv/7957/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,SKY High CHBU HD
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/7958/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,SKY High Russian HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/7963/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,SKY High Noir HD
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/7964/video.m3u8?token=1wDV2J1xtv
@@ -1712,9 +1799,6 @@ http://s.only4.tv/8079/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Fresh Romantic
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/8080/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Fresh Russian
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8081/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Fresh Thriller
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/8082/video.m3u8?token=1wDV2J1xtv
@@ -1748,9 +1832,6 @@ http://s.only4.tv/8109/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Magic Love
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/8110/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Magic Russian
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/8506/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Magic Adventure
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/8655/video.m3u8?token=1wDV2J1xtv
@@ -1901,24 +1982,15 @@ http://s.only4.tv/9388/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,VeleS Страшное
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/9389/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,VeleS СССР
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/9390/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,VeleS Movie Hits
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/9392/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Velilla TV Action War Films HD
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/9443/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Velilla TV Русский Сериал HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/9444/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Velilla TV Мосгаз HD
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/9866/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Velilla TV Домашний HD
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/10276/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Velilla TV Морские Дьяволы HD
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/10293/video.m3u8?token=1wDV2J1xtv
@@ -1946,9 +2018,6 @@ http://s.only4.tv/9528/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,VeleS Вестерн
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/9529/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,VeleS Наше Кино
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/9530/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,VeleS Гоблин
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/10372/video.m3u8?token=1wDV2J1xtv
@@ -1985,9 +2054,6 @@ http://s.only4.tv/10580/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Kernel TV Счастливого Нового Года
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/10590/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Kernel TV Интерны
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/10591/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Kernel TV Космос
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/10592/video.m3u8?token=1wDV2J1xtv
@@ -2003,9 +2069,6 @@ http://s.only4.tv/10605/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Kernel TV Звёздные Войны
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/10611/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Kernel TV Сваты
-#EXTGRP:КиноПлюс 
-http://s.only4.tv/10612/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Kernel TV Время
 #EXTGRP:КиноПлюс 
 http://s.only4.tv/10613/video.m3u8?token=1wDV2J1xtv
@@ -2048,9 +2111,6 @@ http://s.only4.tv/6282/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,BCU Romantic HD
 #EXTGRP:КиноПлюс BCU 
 http://s.only4.tv/6283/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,BCU Russian HD
-#EXTGRP:КиноПлюс BCU 
-http://s.only4.tv/6284/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,BCU VHS HD
 #EXTGRP:КиноПлюс BCU 
 http://s.only4.tv/6285/video.m3u8?token=1wDV2J1xtv
@@ -2078,12 +2138,6 @@ http://s.only4.tv/6857/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,BCU Survival HD
 #EXTGRP:КиноПлюс BCU 
 http://s.only4.tv/6860/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,BCU RUSerial HD
-#EXTGRP:КиноПлюс BCU 
-http://s.only4.tv/6292/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,BCU СССР HD
-#EXTGRP:КиноПлюс BCU 
-http://s.only4.tv/6293/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,BCU Stars HD
 #EXTGRP:КиноПлюс BCU 
 http://s.only4.tv/6311/video.m3u8?token=1wDV2J1xtv
@@ -2093,9 +2147,6 @@ http://s.only4.tv/6294/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,BCU Media HD
 #EXTGRP:КиноПлюс BCU 
 http://s.only4.tv/6332/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,BCU Сваты HD
-#EXTGRP:КиноПлюс BCU 
-http://s.only4.tv/6641/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,BCU Criminal HD
 #EXTGRP:КиноПлюс BCU 
 http://s.only4.tv/6642/video.m3u8?token=1wDV2J1xtv
@@ -2123,24 +2174,9 @@ http://s.only4.tv/7127/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,MM NewFilm 3 HD
 #EXTGRP:КиноПлюс MM 
 http://s.only4.tv/7128/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,MM NewFilm RU HD
-#EXTGRP:КиноПлюс MM 
-http://s.only4.tv/7129/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,MM UFO HD
 #EXTGRP:КиноПлюс MM 
 http://s.only4.tv/7132/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,MM USSR 1941-1945 HD
-#EXTGRP:КиноПлюс MM 
-http://s.only4.tv/7133/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,MM USSR Детектив HD
-#EXTGRP:КиноПлюс MM 
-http://s.only4.tv/7134/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,MM USSR Комедия HD
-#EXTGRP:КиноПлюс MM 
-http://s.only4.tv/7135/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,MM USSR Драма HD
-#EXTGRP:КиноПлюс MM 
-http://s.only4.tv/7138/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,MM Агата Кристи HD
 #EXTGRP:КиноПлюс MM 
 http://s.only4.tv/7140/video.m3u8?token=1wDV2J1xtv
@@ -2207,9 +2243,6 @@ http://s.only4.tv/7165/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,MM РосКино HD
 #EXTGRP:КиноПлюс MM 
 http://s.only4.tv/7166/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,MM Сваты HD
-#EXTGRP:КиноПлюс MM 
-http://s.only4.tv/7167/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,MM Семейный 1 HD
 #EXTGRP:КиноПлюс MM 
 http://s.only4.tv/7168/video.m3u8?token=1wDV2J1xtv
@@ -2264,9 +2297,6 @@ http://s.only4.tv/7184/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,MM Celebrity HD
 #EXTGRP:КиноПлюс MM 
 http://s.only4.tv/7548/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,MM USSR Приключения HD
-#EXTGRP:КиноПлюс MM 
-http://s.only4.tv/7233/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,MM КиноФестиваль HD
 #EXTGRP:КиноПлюс MM 
 http://s.only4.tv/9029/video.m3u8?token=1wDV2J1xtv
@@ -2285,9 +2315,6 @@ http://s.only4.tv/9462/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,LIBERTY Боевики FHD
 #EXTGRP:КиноПлюс LIBERTY 
 http://s.only4.tv/9463/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,LIBERTY Сваты FHD
-#EXTGRP:КиноПлюс LIBERTY 
-http://s.only4.tv/9466/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,LIBERTY Комедии FHD
 #EXTGRP:КиноПлюс LIBERTY 
 http://s.only4.tv/9468/video.m3u8?token=1wDV2J1xtv
@@ -2339,9 +2366,6 @@ http://s.only4.tv/6570/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,KBC-СпортМикс
 #EXTGRP:КиноПлюс KBC 
 http://s.only4.tv/6571/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,KBC-Russian Комедия
-#EXTGRP:КиноПлюс KBC 
-http://s.only4.tv/6572/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,KBC-Видак
 #EXTGRP:КиноПлюс KBC 
 http://s.only4.tv/6573/video.m3u8?token=1wDV2J1xtv
@@ -2357,9 +2381,6 @@ http://s.only4.tv/6576/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,KBC-Кошмарное
 #EXTGRP:КиноПлюс KBC 
 http://s.only4.tv/6577/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,KBC-Страна СССР
-#EXTGRP:КиноПлюс KBC 
-http://s.only4.tv/6579/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,KBC-Шпионское
 #EXTGRP:КиноПлюс KBC 
 http://s.only4.tv/6581/video.m3u8?token=1wDV2J1xtv
@@ -2648,9 +2669,6 @@ http://s.only4.tv/7230/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,BCU Kids 4K
 #EXTGRP:UHD 
 http://s.only4.tv/7881/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,BCU Сваты 4K
-#EXTGRP:UHD 
-http://s.only4.tv/9532/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,UZ-Nature 4K HDR
 #EXTGRP:UHD 
 http://s.only4.tv/8769/video.m3u8?token=1wDV2J1xtv
@@ -2666,15 +2684,9 @@ http://s.only4.tv/9397/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Yosso TV 4K
 #EXTGRP:UHD 
 http://s.only4.tv/7640/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Yosso TV Советские Фильмы 4K
-#EXTGRP:UHD 
-http://s.only4.tv/8252/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Yosso TV 4K HDR
 #EXTGRP:UHD 
 http://s.only4.tv/9212/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,НАШЕ Music UHD
-#EXTGRP:UHD 
-http://s.only4.tv/7743/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Глазами Туриста UHD
 #EXTGRP:UHD 
 http://s.only4.tv/7752/video.m3u8?token=1wDV2J1xtv
@@ -2747,9 +2759,6 @@ http://s.only4.tv/8908/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Clarity4K Netflix
 #EXTGRP:UHD 
 http://s.only4.tv/8938/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Clarity4K КиноСССР
-#EXTGRP:UHD 
-http://s.only4.tv/8939/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Clarity4K Приключения
 #EXTGRP:UHD 
 http://s.only4.tv/8940/video.m3u8?token=1wDV2J1xtv
@@ -2762,9 +2771,6 @@ http://s.only4.tv/8942/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Clarity4K Драмы
 #EXTGRP:UHD 
 http://s.only4.tv/8943/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Clarity4K Русский Cериал
-#EXTGRP:UHD 
-http://s.only4.tv/8944/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Clarity4K World Music
 #EXTGRP:UHD 
 http://s.only4.tv/8945/video.m3u8?token=1wDV2J1xtv
@@ -2864,12 +2870,6 @@ http://s.only4.tv/9215/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Clarity4K КиноШарм
 #EXTGRP:UHD 
 http://s.only4.tv/9216/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Clarity4K Комедия СССР 2
-#EXTGRP:UHD 
-http://s.only4.tv/9239/video.m3u8?token=1wDV2J1xtv
-#EXTINF:-1,Clarity4K Комедия СССР 1
-#EXTGRP:UHD 
-http://s.only4.tv/9240/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Clarity4K BluesString
 #EXTGRP:UHD 
 http://s.only4.tv/9241/video.m3u8?token=1wDV2J1xtv
