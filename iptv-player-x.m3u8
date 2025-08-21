@@ -912,7 +912,7 @@ http://s.only4.tv/9240/video.m3u8?token=1wDV2J1xtv
 #EXTGRP:Кино Русское
 http://s.only4.tv/9375/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,UZ-Союз Фильмы HD
-#EXTGRP:Кино UZ 
+#EXTGRP:Кино Русское 
 http://s.only4.tv/6625/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,UZ-Фантастика HD
 #EXTGRP:Кино UZ 
@@ -951,7 +951,7 @@ http://s.only4.tv/6714/video.m3u8?token=1wDV2J1xtv
 #EXTGRP:Кино UZ 
 http://s.only4.tv/7215/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,UZ-Swiridenko TV HD
-#EXTGRP:Кино UZ 
+#EXTGRP:Кино Русское 
 http://s.only4.tv/7549/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,UZ-Боевики HD
 #EXTGRP:Кино UZ 
@@ -2679,7 +2679,7 @@ http://s.only4.tv/7547/video.m3u8?token=1wDV2J1xtv
 #EXTGRP:UHD 
 http://s.only4.tv/9098/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,UZ-Союз Фильмы 4K
-#EXTGRP:UHD 
+#EXTGRP:Кино Русское 
 http://s.only4.tv/9397/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,Yosso TV 4K
 #EXTGRP:UHD 
@@ -2964,7 +2964,7 @@ http://s.only4.tv/9484/video.m3u8?token=1wDV2J1xtv
 #EXTGRP:UHD 
 http://s.only4.tv/9485/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,LIBERTY Союз 4К
-#EXTGRP:UHD 
+#EXTGRP:Кино Русское 
 http://s.only4.tv/9488/video.m3u8?token=1wDV2J1xtv
 #EXTINF:-1,LIBERTY Кино ENG 4К
 #EXTGRP:UHD 
