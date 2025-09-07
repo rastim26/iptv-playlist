@@ -263,21 +263,12 @@
 #EXTINF:-1,News Front
   #EXTGRP:Русские 
   http://s.only4.tv/10648/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,Viju+ Megahit HD (orig)
-  #EXTGRP:Кино 1-50
-  http://s.only4.tv/17113/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,Viju+ Megahit HD
   #EXTGRP:Кино 1-50
   http://s.only4.tv/17103/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,Viju+ Premiere HD (orig)
-  #EXTGRP:Кино 1-50
-  http://s.only4.tv/17114/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,Viju+ Premiere HD
   #EXTGRP:Кино 1-50
   http://s.only4.tv/17104/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,Viju+ Comedy HD (orig)
-  #EXTGRP:Кино 1-50
-  http://s.only4.tv/17112/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,Viju+ Comedy HD
   #EXTGRP:Кино 1-50
   http://s.only4.tv/17102/video.m3u8?token=tUQhQrkBPo
@@ -308,9 +299,6 @@
 #EXTINF:-1,Amedia Premium HD
   #EXTGRP:Кино 1-50
   http://s.only4.tv/6449/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,КиноПремьера HD (orig)
-  #EXTGRP:Кино 1-50
-  http://s.only4.tv/12111/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,КиноПремьера HD
   #EXTGRP:Кино 1-50
   http://s.only4.tv/12101/video.m3u8?token=tUQhQrkBPo
@@ -434,9 +422,6 @@
 #EXTINF:-1,Иллюзион+ HD
   #EXTGRP:Кино 2-50 
   http://s.only4.tv/8179/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,Иллюзион+
-  #EXTGRP:Кино 2-50 
-  http://s.only4.tv/0293/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,Индийское Кино
   #EXTGRP:Кино 2-50 
   http://s.only4.tv/104/video.m3u8?token=tUQhQrkBPo
@@ -458,9 +443,6 @@
 #EXTINF:-1,Феникс плюс Кино HD
   #EXTGRP:Кино 2-50 
   http://s.only4.tv/9657/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,Феникс плюс Кино
-  #EXTGRP:Кино 2-50 
-  http://s.only4.tv/5535/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,FilmBox
   #EXTGRP:Кино 2-50 
   http://s.only4.tv/5558/video.m3u8?token=tUQhQrkBPo
@@ -893,27 +875,12 @@
 #EXTINF:-1,СТС HD
   #EXTGRP:Кино 5-50 
   http://s.only4.tv/5580/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,СТС (+2)
-  #EXTGRP:Кино 5-50 
-  http://s.only4.tv/0224/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,СТС (+4)
-  #EXTGRP:Кино 5-50 
-  http://s.only4.tv/0354/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,СТС (+7)
-  #EXTGRP:Кино 5-50 
-  http://s.only4.tv/7557/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,СТС Int
   #EXTGRP:Кино 5-50 
   http://s.only4.tv/7837/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,СТС Love
   #EXTGRP:Кино 5-50 
   http://s.only4.tv/1106/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,СТС Love (+2)
-  #EXTGRP:Кино 5-50 
-  http://s.only4.tv/7575/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,СТС Love (+4)
-  #EXTGRP:Кино 5-50 
-  http://s.only4.tv/7576/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,Суббота HD
   #EXTGRP:Кино 5-50 
   http://s.only4.tv/6464/video.m3u8?token=tUQhQrkBPo
@@ -993,15 +960,9 @@
 #EXTINF:-1,HTB Сериал HD
   #EXTGRP:Кино Русское
   http://s.only4.tv/9861/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,HTB Сериал
-  #EXTGRP:Кино Русское
-  http://s.only4.tv/408/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,HTB Хит HD
   #EXTGRP:Кино Русское
   http://s.only4.tv/9860/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,HTB Хит
-  #EXTGRP:Кино Русское
-  http://s.only4.tv/412/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,Русский Детектив
   #EXTGRP:Кино Русское
   http://s.only4.tv/0277/video.m3u8?token=tUQhQrkBPo
@@ -1110,12 +1071,6 @@
 #EXTINF:-1,Домашний HD
   #EXTGRP:Кино Русское
   http://s.only4.tv/6254/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,Домашний (+2)
-  #EXTGRP:Кино Русское
-  http://s.only4.tv/6296/video.m3u8?token=tUQhQrkBPo
-#EXTINF:-1,Домашний (+4)
-  #EXTGRP:Кино Русское
-  http://s.only4.tv/6297/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,Советская КиноКлассика
   #EXTGRP:Кино Русское
   http://s.only4.tv/10769/video.m3u8?token=tUQhQrkBPo
@@ -1267,7 +1222,7 @@
   #EXTGRP:Кино Русское
   http://s.only4.tv/9375/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,UZ-Союз Фильмы HD
-  #EXTGRP:Кино UZ 
+  #EXTGRP:Кино Русское 
   http://s.only4.tv/6625/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,UZ-Фантастика HD
   #EXTGRP:Кино UZ 
