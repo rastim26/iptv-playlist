@@ -1404,7 +1404,6 @@ http://s.only4.tv/9238/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,KLI Сериал HD
 #EXTGRP:Кино KLI 
 http://s.only4.tv/9970/video.m3u8?token=tUQhQrkBPo
-
 #EXTINF:-1,TVPlay Латинские Сериалы Ретро
 #EXTGRP:Кино TVPlay 
 http://s.only4.tv/9151/video.m3u8?token=tUQhQrkBPo
@@ -3289,4 +3288,355 @@ http://s.only4.tv/10806/video.m3u8?token=tUQhQrkBPo
 #EXTINF:-1,Qyzyljar [KZ]
 #EXTGRP:Казахские 
 http://s.only4.tv/10807/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Haber 61 TV [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6886/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TV4 Canli [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6889/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Galatasaray TV [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6899/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Sports TV [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6900/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Movies Action HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6951/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,360 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6952/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,A Spor HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6953/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,A2 TV HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6954/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,ATV HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6955/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,BBC Earth HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6956/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TRT Avaz [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6958/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN IZ HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6959/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Movies Action 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6960/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Series 1 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6961/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Movies Family HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6962/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Movies Premiere 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6963/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Movies Premiere HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6964/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Movies Stars HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6965/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Movies Turk HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6966/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Series 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6967/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beiN Series 3 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6968/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Bloomberg HT HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6969/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,CNN Turk HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6970/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Series 4 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6971/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Discovery Channel HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6972/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Investigation Discovery HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6973/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Disney Jr. HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6975/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,DiziSmart Max HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6976/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Dmax HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6977/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Docu-Screen HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6978/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Dream Türk [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6979/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,FB TV HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6981/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Semerkand TV HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6982/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Film-Screen HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6983/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Now TV HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6984/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,HaberTürk TV HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6986/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Kanal 7 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6987/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Kanal D HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6988/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Minika Çocuk [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6990/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Minika GO [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6991/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,MovieSmart Türk HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6994/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,NBA TV [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6995/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,NTV HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6996/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,S Sport HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6997/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,S Sport 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6998/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Show TV HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/6999/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,ShowMax TV HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7000/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Sinema 1001 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7001/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Sinema 1002 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7002/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Sinema Aile 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7003/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Sinema Aile HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7004/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Sinema Aksiyon 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7005/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Sinema Komedi 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7006/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Sinema Komedi HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7007/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Spor Smart TV HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7008/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Star TV HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7009/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Teve 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7010/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TLC HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7011/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TRT Belgesel HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7012/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TRT Çocuk HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7013/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TRT Haber HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7014/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TRT Muzik HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7015/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TRT Spor HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7016/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TRT Turk HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7017/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TRT World HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7018/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TRT 1 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7019/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TRT 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/10545/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TV 100 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7020/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TV 4 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7021/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TV 24 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7022/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TV 8 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7023/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Sports 1 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7200/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Sports 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7201/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Sports 3 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7202/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TGRT Haber  HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7883/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TV 8.5 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7884/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Cartoonito HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7885/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Beyaz TV HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7886/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Box Office 1 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7887/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Box Office 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7888/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Box Office 3 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7889/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Sports Haber HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7890/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Spotrs 4 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7891/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Spotrs MAX 1 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7892/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,beIN Spotrs MAX 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7893/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Investigation Discovery [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7894/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,FX HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7896/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Global Haber HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7897/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,NR 1 [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7898/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,BluTV Play 1 [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7899/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,BluTV Play 2 [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7900/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,National Geographic Wild HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7901/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,NR 1 Turk HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7902/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Power Turk HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7903/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Sinema Aksiyon HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7904/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Sinema Yerli [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7905/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Sinema Yerli 2 [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7906/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,National Geographic HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7907/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,TRT 4K UHD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7908/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Tivibuspor 1 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7909/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Tivibuspor 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7910/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Tivibuspor 3 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/7911/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Exxen 1 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/9030/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Exxen 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/9031/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Exxen 3 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/9032/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Exxen 4 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/9033/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Exxen 5 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/9034/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Exxen 6 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/9035/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Exxen 7 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/9036/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Exxen 8 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/9037/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Yaban TV [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/9777/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,BRT 1 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/10537/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,BRT 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/10538/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Bengü Türk TV [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/10539/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,EuroSport 1 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/10542/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,EuroSport 2 HD [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/10543/video.m3u8?token=tUQhQrkBPo
+#EXTINF:-1,Sozcu TV [TR]
+#EXTGRP:Turkish 
+http://s.only4.tv/10544/video.m3u8?token=tUQhQrkBPo
 #EXT-X-ENDLIST
