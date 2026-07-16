@@ -1,982 +1,982 @@
 #EXTM3U generation-date="2026.07.12 03:44:12 MSK" url-tvg="https://rus.epg.team/3.1.xml"
-#EXTINF:0 tvg-id="ch1014" tvg-name="UK: 5 Star" tvg-logo="https://rus.hls.gd/images/chIcons/1014.png" tvg-rec="6", UK: 5 Star
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1014/mono.m3u8?token=rast875.v2_mxGfq4k4Os3EEJpyM7YaAhyhssSg9Wgca5zvONgPlZE42iUt2u8v2CphJecm-5VIA6MOZamd2mSK&nostub=1
-#EXTINF:0 tvg-id="ch1022" tvg-name="UK: 5 USA HD" tvg-logo="https://rus.hls.gd/images/chIcons/1022.png" tvg-rec="6", UK: 5 USA HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1022/mono.m3u8?token=rast875.v2__408SBLK1chy8eAjTFviY2cwa010F2XhYksyETqwN0d6HgEY_5vS7bQ_GTVRvv0QRw0yqVlBc_5y&nostub=1
-#EXTINF:0 tvg-id="ch1012" tvg-name="UK: Alibi HD" tvg-logo="https://rus.hls.gd/images/chIcons/1012.png" tvg-rec="7", UK: Alibi HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1012/mono.m3u8?token=rast875.v2__1feVfsfbJeV9o7m6HBZaQuZzP6yS2nezTglIm4NVwFnSnlpWBn07Uk8YdLgNWdmbW9L4j5jP_V8&nostub=1
-#EXTINF:0 tvg-id="ch2094" tvg-name="UK: BBC One HD" tvg-logo="https://rus.hls.gd/images/chIcons/2094.png" tvg-rec="6", UK: BBC One HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2094/mono.m3u8?token=rast875.v2_KY6EK9IeOdrtsVVyJu8FWbHRR_VLwt47oQqsLbJkcfqmCcVDf2aCgC2odWE9cf6ZvaY7zgg37u-q&nostub=1
-#EXTINF:0 tvg-id="ch2095" tvg-name="UK: BBC Two HD" tvg-logo="https://rus.hls.gd/images/chIcons/2095.png" tvg-rec="6", UK: BBC Two HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2095/mono.m3u8?token=rast875.v2_xjvr2GMFKLYhEnD6jXMzuomPRfbJs71jrKGBbuqD-1pO3qxTIxs3b5rRzkGI3CNzdGoJ47j9LUpZ&nostub=1
-#EXTINF:0 tvg-id="ch2162" tvg-name="UK: Channel 4 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2162.png" tvg-rec="6", UK: Channel 4 HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2162/mono.m3u8?token=rast875.v2_z2xg-T948bzzhspPuv6Zm0UNokeqWX8bKKBcjLyOje0ROJPC8CmLovasvoy-rFjnBS8ScqSSk6to&nostub=1
-#EXTINF:0 tvg-id="ch2163" tvg-name="UK: Channel 5 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2163.png" tvg-rec="6", UK: Channel 5 HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2163/mono.m3u8?token=rast875.v2_wfDA5VeQawEQRnjXQUbmDDVEHIkjWN6OdhiPu40zqoOgH7bJOQY37x-jKJEhPKe2NTHgX-Rg1rHP&nostub=1
-#EXTINF:0 tvg-id="ch1006" tvg-name="UK: Comedy Central" tvg-logo="https://rus.hls.gd/images/chIcons/1006.png" tvg-rec="6", UK: Comedy Central
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1006/mono.m3u8?token=rast875.v2_O6TqPO5dydAS9I5byvMG8OCWH7V00pJnH-IeFzQPQGFaDyc640hfqRGZ6Co_DGsJvxglsxh6RUSN&nostub=1
-#EXTINF:0 tvg-id="ch1007" tvg-name="UK: Crime+ Inv HD" tvg-logo="https://rus.hls.gd/images/chIcons/1007.png" tvg-rec="6", UK: Crime+ Inv HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1007/mono.m3u8?token=rast875.v2_h-lZloeSxHIhd40pqb43A1D2KusWmXtx5KLV-7GDUzwsbIiEmtP9ommb_y42mTj2s6luNN_XPTu9&nostub=1
-#EXTINF:0 tvg-id="ch1013" tvg-name="UK: Colors HD" tvg-logo="https://rus.hls.gd/images/chIcons/1013.png" tvg-rec="7", UK: Colors HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1013/mono.m3u8?token=rast875.v2_s07IfYTSXp2WMA31EAkNcxFlHFpXFqVKyPBCexNOpuSnd8hZlNoxPPrgD9JglIRffc68eyB9M7TP&nostub=1
-#EXTINF:0 tvg-id="ch1015" tvg-name="UK: Dave HD" tvg-logo="https://rus.hls.gd/images/chIcons/1015.png" tvg-rec="7", UK: Dave HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1015/mono.m3u8?token=rast875.v2_ll8uMWE6QjR2xb5uE_cgj-ljX87hj0-PAL3qCn7Z7r0qCTvRc9KxUgjkqDt21zk--yLe3LvRohOB&nostub=1
-#EXTINF:0 tvg-id="ch1021" tvg-name="UK: E4 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1021.png" tvg-rec="7", UK: E4 HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1021/mono.m3u8?token=rast875.v2_KwJwgmgdo8EHKFZW58l_LaOJCmNXldpKV-k7Od5_Os6lnJVRb7G5X3ZDEkfMaaRLwRGGBxM6g2rB&nostub=1
 #EXTINF:0 tvg-id="ch1016" tvg-name="UK: Film4 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1016.png" tvg-rec="7", UK: Film4 HD
-#EXTGRP:United Kingdom
+#EXTGRP:1. Movies
 https://15.hls.gd/ch1016/mono.m3u8?token=rast875.v2_NVl2th7Q9K8-Im5FEckP5-MlFS70RL1FXg3c1eIy9hrhbGVslcqN4VCjk3tAfUI2CyYOQZcNDJXI&nostub=1
-#EXTINF:0 tvg-id="ch1017" tvg-name="UK: Gold HD" tvg-logo="https://rus.hls.gd/images/chIcons/1017.png" tvg-rec="7", UK: Gold HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1017/mono.m3u8?token=rast875.v2_7LlRXh8_Rn385wnUW-PSNcAJAU-pvhYdfVtJ-bQaYhp4NZjRxllrs2lafcKVAWbQMa4BE_Fia1if&nostub=1
-#EXTINF:0 tvg-id="ch1197" tvg-name="UK: ITV HD" tvg-logo="https://rus.hls.gd/images/chIcons/1197.png" tvg-rec="7", UK: ITV HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1197/mono.m3u8?token=rast875.v2_CXgL_-Gd1MFFPIC_lOulTvcCneC5RF5Bu720WikaEm-Vn__rVKwVbP_bqByCFZl0TY6Rq3mnyt0i&nostub=1
-#EXTINF:0 tvg-id="ch1157" tvg-name="UK: ITV 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1157.png" tvg-rec="7", UK: ITV 2 HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1157/mono.m3u8?token=rast875.v2_6BuP-l_LYXdFpmUJzo2jUdeYJQeRB8nWWxLeuzxHM7r0TvKUkedVnq-LkRpuIjjvHheyzCfIB6Xt&nostub=1
-#EXTINF:0 tvg-id="ch1004" tvg-name="UK: ITV 3 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1004.png" tvg-rec="6", UK: ITV 3 HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1004/mono.m3u8?token=rast875.v2_yvVqH7_zFrsbM3Y4hAkAyEXXiXeXVHQ_HsnX71m5KLExprEDUazhogFdHZsKz7L4uXRig-hKLcBW&nostub=1
-#EXTINF:0 tvg-id="ch1005" tvg-name="UK: ITV 4 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1005.png" tvg-rec="6", UK: ITV 4 HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1005/mono.m3u8?token=rast875.v2_fOqAznLiY7E02VxNdHz0i95iNFUo0C0BOXfoYXCfhRIoCVO48iupbLJlXWs6lWqqko7EJcH9BSIe&nostub=1
-#EXTINF:0 tvg-id="ch2750" tvg-name="UK: Now 70s" tvg-logo="https://rus.hls.gd/images/chIcons/2750.png" tvg-rec="0", UK: Now 70s
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2750/mono.m3u8?token=rast875.v2_UJeINS3DldJeLn5JNCGxk00POJLRIydc-DlEbvRKU0FHU8kGUdhQb4hCF-2O6tMTQkSiHTZI2eRq&nostub=1
-#EXTINF:0 tvg-id="ch2751" tvg-name="UK: Now 80s" tvg-logo="https://rus.hls.gd/images/chIcons/2751.png" tvg-rec="0", UK: Now 80s
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2751/mono.m3u8?token=rast875.v2__C-3EIKBU2QXhIp--jzSnsgbxSCZpfWRq_1wBBiYkHD1n17NJ8CU3VO2S7APgm8pS8bbRf6qOTcR&nostub=1
-#EXTINF:0 tvg-id="ch2440" tvg-name="IE: Premier Sports 1 HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2440.png" tvg-rec="7", IE: Premier Sports 1 HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2440/mono.m3u8?token=rast875.v2_cLhpd3Zf1_vR9qWuStP7urwQQXDc94uk2UwkZxqeqKqI6ECnWmjuaK48FE0Ymo-SKlAQzC6weBZR&nostub=1
-#EXTINF:0 tvg-id="ch2441" tvg-name="IE: Premier Sports 2 HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2441.png" tvg-rec="7", IE: Premier Sports 2 HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2441/mono.m3u8?token=rast875.v2_bZBP0O7U9PT4rCy_jp_MKleYiPmeiUWBjWst0ExRlTlsm8LQUWnqpoBm7aGAx_G68xuKW7dxJzn_&nostub=1
-#EXTINF:0 tvg-id="ch2442" tvg-name="UK: RTE One HD" tvg-logo="https://rus.hls.gd/images/chIcons/2442.png" tvg-rec="6", UK: RTE One HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2442/mono.m3u8?token=rast875.v2__aRemzpddN_YuUp6j_Tr30rAkTg_RmEWoOKZciukKBh6gs7mUu09SzlnR1srwQDDcHet-1ICYSI7&nostub=1
-#EXTINF:0 tvg-id="ch2105" tvg-name="UK: RTE TWO HD" tvg-logo="https://rus.hls.gd/images/chIcons/2105.png" tvg-rec="6", UK: RTE TWO HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2105/mono.m3u8?token=rast875.v2_j_OLdIdfPCPa6WoeUBFk6CHoXCdnQC7QuapMB5N8NbZPLeX9RL0FaFPehgohodeJ8mX8qgmLYyQ3&nostub=1
-#EXTINF:0 tvg-id="ch1516" tvg-name="UK: Sky Sports 1 UHD" tvg-logo="https://rus.hls.gd/images/chIcons/1516.png" tvg-rec="0", UK: Sky Sports 1 UHD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1516/mono.m3u8?token=rast875.v2_PSp56P5zwzYnSODenXmKceiJCOSoqqjj9pg3fBjerIUhPfmaNrM6xvbtzWkgtWPELW_pA0diEix2&nostub=1
-#EXTINF:0 tvg-id="ch2714" tvg-name="UK: Sky Sports 2 UHD" tvg-logo="https://rus.hls.gd/images/chIcons/2714.png" tvg-rec="0", UK: Sky Sports 2 UHD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2714/mono.m3u8?token=rast875.v2_z06UZd_-joE2r2JIuxvn0kpcwYlFNSaQ2VNmTn9zfoTRZOdmpRryt0QfI_BMDu4DdgT2V2ba-rbo&nostub=1
-#EXTINF:0 tvg-id="ch2451" tvg-name="UK: Sky Sports Premier League HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2451.png" tvg-rec="7", UK: Sky Sports Premier League HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2451/mono.m3u8?token=rast875.v2_jHor5ctmxVB0NNUAPUACyDnQR403mpX-7klHYZ84X_0CviJEEWFelzutRdEmaScoLFa3AvMPBNYr&nostub=1
-#EXTINF:0 tvg-id="ch1554" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="https://rus.hls.gd/images/chIcons/1554.png" tvg-rec="6", UK: Sky Sports Premier League HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1554/mono.m3u8?token=rast875.v2_BTk9oSdzA2BXIybMFjHZWzlhwRELxJx4yM4cTUadaP5N49MwwdECAEA0syi_SGFU9VoMRdPhgMKJ&nostub=1
-#EXTINF:0 tvg-id="ch2450" tvg-name="UK: Sky Sports News HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2450.png" tvg-rec="6", UK: Sky Sports News HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2450/mono.m3u8?token=rast875.v2_fEARM_Zlu6mIF08VA5LCbyFFoupRlB--8QYs8AZzqrV9hrAmajqyccilUjN8c1pZNkj2zl2r_qLg&nostub=1
-#EXTINF:0 tvg-id="ch1061" tvg-name="UK: Sky Sports News HD" tvg-logo="https://rus.hls.gd/images/chIcons/1061.png" tvg-rec="6", UK: Sky Sports News HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1061/mono.m3u8?token=rast875.v2_daxHjZRFSBD16FpnLWAE53L83nzq7_NnOOLdhGoPyuxA8AVkdBREB2F9NxjTgP8yJ94n6UWh-jxj&nostub=1
-#EXTINF:0 tvg-id="ch2446" tvg-name="UK: Sky Sports Football HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2446.png" tvg-rec="6", UK: Sky Sports Football HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2446/mono.m3u8?token=rast875.v2_B0gD4j4ykEimV6wwJ3XEXBmFYprSMNLfXBPmg8j7p2wmHbI-ws2vJeM-6-Sh_UCayYVsvzhH9MJJ&nostub=1
-#EXTINF:0 tvg-id="ch314" tvg-name="UK: Sky Sports Football HD" tvg-logo="https://rus.hls.gd/images/chIcons/314.png" tvg-rec="6", UK: Sky Sports Football HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch314/mono.m3u8?token=rast875.v2_YJrMzauqdVHFTQ0FVzJgd0uSpWuF_ZO7n0DL4M8X3rms-kpL0wP874ilPD2v3Fc25eHpi-mpMj8&nostub=1
-#EXTINF:0 tvg-id="ch2449" tvg-name="UK: Sky Sports Mix HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2449.png" tvg-rec="7", UK: Sky Sports Mix HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2449/mono.m3u8?token=rast875.v2_Tse0GtQ-fbS0PMKmOwPc1HGE-LWXAZMAers2yuoQHwoQRPXHjehcILC_YlTP3-dvGU9m9be49Dxf&nostub=1
-#EXTINF:0 tvg-id="ch234" tvg-name="UK: Sky Sports Mix HD" tvg-logo="https://rus.hls.gd/images/chIcons/234.png" tvg-rec="6", UK: Sky Sports Mix HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch234/mono.m3u8?token=rast875.v2_tt3Umk8uWZuIdcDY7sDX4aCPTl7_friKXu2vGY9MAtjM_NAmbUgw8WihbUmc4CJ7j3S5N0p17UM&nostub=1
-#EXTINF:0 tvg-id="ch2444" tvg-name="UK: Sky Sports Cricket HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2444.png" tvg-rec="6", UK: Sky Sports Cricket HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2444/mono.m3u8?token=rast875.v2_Jc3OAENDEK1A2Eb703XvyL_qY0bVjqN5EERPcmICj3fVqRhbvhFhtglBFJ_e0NuUtX8Jd18BDYbm&nostub=1
-#EXTINF:0 tvg-id="ch235" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="https://rus.hls.gd/images/chIcons/235.png" tvg-rec="6", UK: Sky Sports Cricket HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch235/mono.m3u8?token=rast875.v2_icW_Mqxn7fZe-st83jyKTsFTiovQJUajGuw4gS7T3mVphwkGUWekpFqFwniazi7HybkuJgeAW5s&nostub=1
-#EXTINF:0 tvg-id="ch1508" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://rus.hls.gd/images/chIcons/1508.png" tvg-rec="6", UK: Sky Sports Main Event UHD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1508/mono.m3u8?token=rast875.v2_tcgonQG4QAzcx7nYnqA4BGAenJN-Hgs2A9CuBQg0nn2rbadezvbo_-FNmwNn7HU47KBzuulZJ05N&nostub=1
-#EXTINF:0 tvg-id="ch2448" tvg-name="Sky UK: Sports Main Event HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2448.png" tvg-rec="7", Sky UK: Sports Main Event HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2448/mono.m3u8?token=rast875.v2_mrPAvKxVsdVYEJlyUuU_oiAZRIZHhEhdomusTROzaTYwU1ua6pUynw7txS2y1QiPm2GgnmXD_i5M&nostub=1
-#EXTINF:0 tvg-id="ch335" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="https://rus.hls.gd/images/chIcons/335.png" tvg-rec="6", UK: Sky Sports Main Event HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch335/mono.m3u8?token=rast875.v2_6Q-bY5RBwz9dMBzE8KBq5fW19FUFtVI-gto6uvNNPves2lYOhaeRRDO8gCRfLsH0BQtSWpJh8FM&nostub=1
-#EXTINF:0 tvg-id="ch2447" tvg-name="UK: Sky Sports Golf HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2447.png" tvg-rec="6", UK: Sky Sports Golf HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2447/mono.m3u8?token=rast875.v2_eIA70tPYSpy3G6QsdbUbtxKHXB36Grm8Z0Agv_fkgL1SusnE9f8w8JoEZ3hF-nO8N5YXVLs_P2h6&nostub=1
-#EXTINF:0 tvg-id="ch306" tvg-name="UK: Sky Sports Golf HD" tvg-logo="https://rus.hls.gd/images/chIcons/306.png" tvg-rec="6", UK: Sky Sports Golf HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch306/mono.m3u8?token=rast875.v2_9F8EB-u1ZeqPQqaRoBPb2fP2pp5jhmzc7arFqRqb8m7gg15guih1Wre8P5kVCqQrkAnVLcri-ds&nostub=1
-#EXTINF:0 tvg-id="ch2452" tvg-name="UK: Sky Sports Racing HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2452.png" tvg-rec="6", UK: Sky Sports Racing HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2452/mono.m3u8?token=rast875.v2_aNmBRpCPZ6AD08fqE6McQ62FoBgX8FsWZzKlujek2M5SBfAoOocQTuuCMMEQzVSAs7ITzl5E-LbR&nostub=1
-#EXTINF:0 tvg-id="ch1100" tvg-name="UK: Sky Sports Racing HD" tvg-logo="https://rus.hls.gd/images/chIcons/1100.png" tvg-rec="6", UK: Sky Sports Racing HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1100/mono.m3u8?token=rast875.v2_gj0yvW4fioQt3wqw8-ZIwK22c3-w2HpGV8q-T-xEqtM-PQu7TWVz-aHzdHHY5Qj1RJTDrJLv3NG4&nostub=1
-#EXTINF:0 tvg-id="ch2443" tvg-name="UK: Sky Sports Plus HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2443.png" tvg-rec="7", UK: Sky Sports Plus HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2443/mono.m3u8?token=rast875.v2_42AOnDQN41d0bA8EOQRXnvcl3Ma290q98nULYv5yC5E4FvakHuRdAehTp_gT397ZAiycZ7jJ7LDn&nostub=1
-#EXTINF:0 tvg-id="ch074" tvg-name="UK: Sky Sports Plus HD" tvg-logo="https://rus.hls.gd/images/chIcons/74.png" tvg-rec="6", UK: Sky Sports Plus HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch074/mono.m3u8?token=rast875.v2_QmzX5dQdQlPkGEFk14B-zUHIutxH5SFMnYDP5OKtjTlrca68XosVFYftsbYoxLUQNcyobkjNYA&nostub=1
-#EXTINF:0 tvg-id="ch1517" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://rus.hls.gd/images/chIcons/1517.png" tvg-rec="0", UK: Sky Sports F1 UHD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1517/mono.m3u8?token=rast875.v2_SoSnf05jN0NQQWtHP9zCbt-ZC8I1gg5xNwf-7jbjhPTYxQLzX8a5iUtCker8R0jlNByw6tfLK_x9&nostub=1
-#EXTINF:0 tvg-id="ch2445" tvg-name="UK: Sky Sports F1 HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2445.png" tvg-rec="6", UK: Sky Sports F1 HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2445/mono.m3u8?token=rast875.v2_oH0p-eSlIf3rfixVzoP1vx9TKAM-OaOMrpeRbslIHBZR2Grlzfbc3qE7lhnsklOWTR_JvgPGeuD9&nostub=1
-#EXTINF:0 tvg-id="ch513" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/513.png" tvg-rec="6", UK: Sky Sports F1 HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch513/mono.m3u8?token=rast875.v2_MVNo6KF6qArw3UH-aWmAdOSJGGN5trixXTVU4cQeVyuQiWAUKkZiSzwPgKKpLgFwCpTVbCHzV4U&nostub=1
-#EXTINF:0 tvg-id="ch3905" tvg-name="UK: Sky Sports NFL HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/3905.png" tvg-rec="7", UK: Sky Sports NFL HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch3905/mono.m3u8?token=rast875.v2_HV6_opO_Z2n8XtklBU59xmnXriumonLCBx2jVftOYocoHHgIv5bf1QCcNQejlY3wAdGWA6jd07tB&nostub=1
-#EXTINF:0 tvg-id="ch3906" tvg-name="UK: Sky Sports NFL HD" tvg-logo="https://rus.hls.gd/images/chIcons/3906.png" tvg-rec="6", UK: Sky Sports NFL HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch3906/mono.m3u8?token=rast875.v2_Xy4ytKG-mNKO-4qUhRNjD2ZmVHu-z2O_gnV8f8Kdqs_79tWO5uG65646lZi1QVSyrPdxthSQ91Vz&nostub=1
-#EXTINF:0 tvg-id="ch1498" tvg-name="UK: Sky Sports Tennis HD" tvg-logo="https://rus.hls.gd/images/chIcons/1498.png" tvg-rec="6", UK: Sky Sports Tennis HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1498/mono.m3u8?token=rast875.v2_nqDJEegowuzir5iCiGjlrIqZZBdNcqcAqVxrZ9VLdD_xtL2FUQ4y6dKUMUM0Mv1AvTUZUi6moKlH&nostub=1
-#EXTINF:0 tvg-id="ch1018" tvg-name="UK: Sky News HD" tvg-logo="https://rus.hls.gd/images/chIcons/1018.png" tvg-rec="6", UK: Sky News HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1018/mono.m3u8?token=rast875.v2_pib1qJhrQaC4isPCkWLwCeVJdbZtrvyZrTMDlkyn1CuAfnTGgPNc2txKLqjsljVyGonvBoZSlF9U&nostub=1
-#EXTINF:0 tvg-id="ch3221" tvg-name="UK: Sky Comedy HD" tvg-logo="https://rus.hls.gd/images/chIcons/3221.png" tvg-rec="6", UK: Sky Comedy HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch3221/mono.m3u8?token=rast875.v2_CHp5c4zGyqeq9fb8yi79Z34gDrmlSoUfVDxMBUjvfb1xf4pGbmz6980YOGadRBKJaz1GTs-mRT8_&nostub=1
-#EXTINF:0 tvg-id="ch2114" tvg-name="UK: Sky Atlantic HD" tvg-logo="https://rus.hls.gd/images/chIcons/2114.png" tvg-rec="6", UK: Sky Atlantic HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2114/mono.m3u8?token=rast875.v2_LzDi7SeHQDFfqgGpyyd_sk5TwJ_AMiRh6C0aad31B7aeBzIpdizagibd1chC-_vZj3PAjOHzJHbb&nostub=1
-#EXTINF:0 tvg-id="ch1168" tvg-name="UK: Sky Max HD" tvg-logo="https://rus.hls.gd/images/chIcons/1168.png" tvg-rec="6", UK: Sky Max HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1168/mono.m3u8?token=rast875.v2_DGRgS0OTQyRNF6XQh1QmUmr1lj-EEZpRWeYw5Dp-LLtDwqgkAafvRS8CYWhynky2rAHv7-ZDQSNc&nostub=1
-#EXTINF:0 tvg-id="ch3222" tvg-name="UK: Sky Kids HD" tvg-logo="https://rus.hls.gd/images/chIcons/3222.png" tvg-rec="6", UK: Sky Kids HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch3222/mono.m3u8?token=rast875.v2_7MtCH4DR7_wjh0pGKQyipHHHPEKGTK5B2Lq4iG1Eebzmg7_DN8XGQsqchJFZk6yGlIb6DvhDc91j&nostub=1
-#EXTINF:0 tvg-id="ch1177" tvg-name="UK: Sky Arts HD" tvg-logo="https://rus.hls.gd/images/chIcons/1177.png" tvg-rec="6", UK: Sky Arts HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1177/mono.m3u8?token=rast875.v2_ez-roUF52EWlkAGXfUhpB4PoSkxBLP16knmcIqFtuOHUPhsZpiSLJJzacy2GF_sqpNu_rKhH-7hU&nostub=1
-#EXTINF:0 tvg-id="ch2134" tvg-name="UK: Sky Crime HD" tvg-logo="https://rus.hls.gd/images/chIcons/2134.png" tvg-rec="6", UK: Sky Crime HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2134/mono.m3u8?token=rast875.v2_sBNnljIvv1rBpPzpRi_TcqXu5BfxNYciA-54NN88qP4Sc7u1Wa7yX0SQVH6W6UPIsbAXDRkq_Ae0&nostub=1
-#EXTINF:0 tvg-id="ch1681" tvg-name="UK: Sky Docs HD" tvg-logo="https://rus.hls.gd/images/chIcons/1681.png" tvg-rec="6", UK: Sky Docs HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1681/mono.m3u8?token=rast875.v2_NxVGiqjs2EXuw_x_2pB3GelQ9ncVJUlJRh5mPJN5_vE74GNK2fh9h6dD2updHJMXqRyDsmSMjgJ4&nostub=1
-#EXTINF:0 tvg-id="ch2115" tvg-name="UK: Sky Nature HD" tvg-logo="https://rus.hls.gd/images/chIcons/2115.png" tvg-rec="6", UK: Sky Nature HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2115/mono.m3u8?token=rast875.v2_hDmw-BWvgRXetsT0WBmnZ7FX82x0cGudv77_mROl645nUFTMhAKlVxPvvR32XLgkDuuUvVaOxBdr&nostub=1
-#EXTINF:0 tvg-id="ch1008" tvg-name="UK: Sky Witness HD" tvg-logo="https://rus.hls.gd/images/chIcons/1008.png" tvg-rec="6", UK: Sky Witness HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1008/mono.m3u8?token=rast875.v2_H5zemSI_hyMZTUJeYRLL9aNlYg8hFRnbzPmG662Vqv_lZ5Ewqc7NUbWepP5WTvlD1s3E5Ehx7EUb&nostub=1
-#EXTINF:0 tvg-id="ch1009" tvg-name="UK: Sky Showcase HD" tvg-logo="https://rus.hls.gd/images/chIcons/1009.png" tvg-rec="0", UK: Sky Showcase HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1009/mono.m3u8?token=rast875.v2_H6nFlfuivk8zhTv13U0jJgO5NBrlz2ku4DVRTub5jHntCDIawOfoT-dlnByfz__TYGsDr98Q8dNZ&nostub=1
-#EXTINF:0 tvg-id="ch1010" tvg-name="UK: Sky History HD" tvg-logo="https://rus.hls.gd/images/chIcons/1010.png" tvg-rec="6", UK: Sky History HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1010/mono.m3u8?token=rast875.v2_gbyp_H7GsDLv5DJmf-Kszydb4vgRww_xlI8oOCLhbmiQH8aB081P2xqI5Xq-12saR_UfG-hCFt5x&nostub=1
-#EXTINF:0 tvg-id="ch1011" tvg-name="UK: Sky History 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1011.png" tvg-rec="6", UK: Sky History 2 HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1011/mono.m3u8?token=rast875.v2_8tImHfIYvhy5MUndjQir7y4Gjn2jFoVq2y-k4Uyyl7b5P1ISgOLiB7Svf2mlHdPdrhuYeTBj6RWT&nostub=1
-#EXTINF:0 tvg-id="ch2161" tvg-name="UK: Sony TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/2161.png" tvg-rec="6", UK: Sony TV HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2161/mono.m3u8?token=rast875.v2_E4Roa_gcpjGVlToTOxwftb9J3frOuULIiSqUKSfRgG9h242wHgyVfkigJnxqQE84DLKirQg9XjaG&nostub=1
-#EXTINF:0 tvg-id="ch2133" tvg-name="UK: Sky Cinema Comedy HD" tvg-logo="https://rus.hls.gd/images/chIcons/2133.png" tvg-rec="6", UK: Sky Cinema Comedy HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2133/mono.m3u8?token=rast875.v2_EJTg1yXTX9AYAp7USt8l-srue2M8APQwwINjLE5xdMwrH7rr-DftGXC9AsQcuvAMzKo4huLzThKl&nostub=1
-#EXTINF:0 tvg-id="ch2164" tvg-name="UK: Sky Cinema Action" tvg-logo="https://rus.hls.gd/images/chIcons/2164.png" tvg-rec="6", UK: Sky Cinema Action
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2164/mono.m3u8?token=rast875.v2_T8K1vaJcyTTLRcprS3t5AcZlWV6uzIoO_2NNHIwD1T1kJseKrIFzkUECqGvQxU5uRQzrATM6SI17&nostub=1
-#EXTINF:0 tvg-id="ch2165" tvg-name="UK: Sky Cinema Animation" tvg-logo="https://rus.hls.gd/images/chIcons/2165.png" tvg-rec="6", UK: Sky Cinema Animation
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2165/mono.m3u8?token=rast875.v2_7g6mMQf6rDXdQeCgvFKw348GrF0_gsbUVlg3HgvtbasqE-uO7fg7UN8AzN5L--z5OMLLRLq4IL9C&nostub=1
-#EXTINF:0 tvg-id="ch2166" tvg-name="UK: Sky Cinema Drama" tvg-logo="https://rus.hls.gd/images/chIcons/2166.png" tvg-rec="6", UK: Sky Cinema Drama
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2166/mono.m3u8?token=rast875.v2_mO30_3ve89PaxWwU-LdV9MRQDRtFdHvvYduCCJqraDGV1AVl8fzR46CmJnDDyVd-K_DFmx7NRdT_&nostub=1
-#EXTINF:0 tvg-id="ch2167" tvg-name="UK: Sky Cinema Family" tvg-logo="https://rus.hls.gd/images/chIcons/2167.png" tvg-rec="6", UK: Sky Cinema Family
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2167/mono.m3u8?token=rast875.v2_grvaqcp-zYVBfo_5VHZpq1dSYsbD4mdc61lr0nmgQUGTGEQyU5YIKgQe6paHY_5VgfTz6gzAkvw1&nostub=1
 #EXTINF:0 tvg-id="ch2168" tvg-name="UK: Sky Cinema Greats" tvg-logo="https://rus.hls.gd/images/chIcons/2168.png" tvg-rec="6", UK: Sky Cinema Greats
-#EXTGRP:United Kingdom
+#EXTGRP:1. Movies
 https://15.hls.gd/ch2168/mono.m3u8?token=rast875.v2_64NEsBgYgh95tHqxpekv5kJD4ZF7wecI4hTQqvQkmjFelW6rRQO2vdzwMPfFcwg_ctQCZFmgXP35&nostub=1
 #EXTINF:0 tvg-id="ch2169" tvg-name="UK: Sky Cinema Hits" tvg-logo="https://rus.hls.gd/images/chIcons/2169.png" tvg-rec="6", UK: Sky Cinema Hits
-#EXTGRP:United Kingdom
+#EXTGRP:1. Movies
 https://15.hls.gd/ch2169/mono.m3u8?token=rast875.v2_q1vnEO7dU5qO6LG6wZe1kzM_yRvwcUARDCNhN9cDv63ws9eeA1O6wuzHJQOWgfoVXnEcQSLVmvFs&nostub=1
 #EXTINF:0 tvg-id="ch2170" tvg-name="UK: Sky Cinema Premiere" tvg-logo="https://rus.hls.gd/images/chIcons/2170.png" tvg-rec="6", UK: Sky Cinema Premiere
-#EXTGRP:United Kingdom
+#EXTGRP:1. Movies
 https://15.hls.gd/ch2170/mono.m3u8?token=rast875.v2_is611ZnnXLW5x6X9DJqZykV9Cu8QikD-IxJy8X5skFiOPbeB4fHwfpWhde48c41jwWcxFOnIcQT1&nostub=1
 #EXTINF:0 tvg-id="ch2172" tvg-name="UK: Sky Cinema Select" tvg-logo="https://rus.hls.gd/images/chIcons/2172.png" tvg-rec="6", UK: Sky Cinema Select
-#EXTGRP:United Kingdom
+#EXTGRP:1. Movies
 https://15.hls.gd/ch2172/mono.m3u8?token=rast875.v2_OYu5SRsjkEXm9mDCIEVf8-qOBr8qRLS9sZVGRj0CkK9ycAsjUgSzvmsNB7XgOhuCXQFlPz94xSpB&nostub=1
-#EXTINF:0 tvg-id="ch2173" tvg-name="UK: Sky Cinema Thriller" tvg-logo="https://rus.hls.gd/images/chIcons/2173.png" tvg-rec="6", UK: Sky Cinema Thriller
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2173/mono.m3u8?token=rast875.v2_xwy1hYV9YFv0Gt8F1V1tNOSUkbvioevEjNkLnbGIoSdOpJz3_nzmgCG2Qw8ACnDcr4ktIco_sct6&nostub=1
-#EXTINF:0 tvg-id="ch2132" tvg-name="UK: TNT Sports Ultimate" tvg-logo="https://rus.hls.gd/images/chIcons/2132.png" tvg-rec="0", UK: TNT Sports Ultimate
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2132/mono.m3u8?token=rast875.v2_ryhlT1PX8ZMWNfpclSVgi_RNIa0mdf6K2hr6VTeuc8P5ZEOcLzg5irqRt8JQvuwl1D5pwEWwOzc5&nostub=1
-#EXTINF:0 tvg-id="ch2207" tvg-name="UK: TNT Sport 1 HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2207.png" tvg-rec="6", UK: TNT Sport 1 HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2207/mono.m3u8?token=rast875.v2_bY5Cnza6ZqSgR-5_Pu9Lf4poY-KCwXabHOR4fpMF0hIBcuSay5PNXLpSbHw5-9FiUvxYgF5NlqXS&nostub=1
-#EXTINF:0 tvg-id="ch236" tvg-name="UK: TNT Sport 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/236.png" tvg-rec="6", UK: TNT Sport 1 HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch236/mono.m3u8?token=rast875.v2_y-CWnCjJ1yNkuZKnlCibnYZWJgMP2ADAIDVzPmf24_Omxi4o88qy0yi_Ox36cMF4laYj29B4kBI&nostub=1
-#EXTINF:0 tvg-id="ch2208" tvg-name="UK: TNT Sport 2 HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2208.png" tvg-rec="6", UK: TNT Sport 2 HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2208/mono.m3u8?token=rast875.v2_u1WSsI2FhTUm-6ueKjvwh7-GxS4qM9zcbKn5cuqvyP2AODm00YH2wNLVJcw1IBFC11PC9Tei2_uT&nostub=1
-#EXTINF:0 tvg-id="ch334" tvg-name="UK: TNT Sport 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/334.png" tvg-rec="6", UK: TNT Sport 2 HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch334/mono.m3u8?token=rast875.v2_7Hh-fgdl7I4QxfTrIpyoePuGdiCw88IVSFPTkgJPgySU_XcNyP5eu0cjj-wxTzMv-T8PwA5yTPI&nostub=1
-#EXTINF:0 tvg-id="ch2209" tvg-name="UK: TNT Sport 3 HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2209.png" tvg-rec="6", UK: TNT Sport 3 HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2209/mono.m3u8?token=rast875.v2_kCsia5pfjogEeVkzYu1-5APnuWHl9_xAkeT6jdqlgDZ4HdEtBFHI5X0L_wKBorR4aeo3oAB3NkRr&nostub=1
-#EXTINF:0 tvg-id="ch233" tvg-name="UK: TNT Sport 3 HD" tvg-logo="https://rus.hls.gd/images/chIcons/233.png" tvg-rec="6", UK: TNT Sport 3 HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch233/mono.m3u8?token=rast875.v2_CqIApnLo8QuDO-0v-qns4I0ENEBH7lGd1877oB65DXkcCK_ui0HpzoTOOGbNvauxmsI1RSvfFrc&nostub=1
-#EXTINF:0 tvg-id="ch2210" tvg-name="UK: TNT Sport 4 HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2210.png" tvg-rec="6", UK: TNT Sport 4 HD 50fps
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2210/mono.m3u8?token=rast875.v2_sRdmLGHNcGtgAJmxgDzyBYRxDcuaravcD1dipmF05LRicre3_3quwPowTUTNY3XcYl2eSKyhyUtV&nostub=1
-#EXTINF:0 tvg-id="ch2002" tvg-name="UK: TNT Sport 4 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2002.png" tvg-rec="6", UK: TNT Sport 4 HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2002/mono.m3u8?token=rast875.v2_OKdwPn-3ba8WGwkemDk0r_A7RR1g8nUWpl5YNgfqGmXbhn-aU6GLVkvL3UtUgwsgZAF5NQcEXShO&nostub=1
-#EXTINF:0 tvg-id="ch2081" tvg-name="UK: TNT Sport 5 (Event Only)" tvg-logo="https://rus.hls.gd/images/chIcons/2081.png" tvg-rec="0", UK: TNT Sport 5 (Event Only)
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2081/mono.m3u8?token=rast875.v2_NrX6HfAvpsFKcEsu2riMlOE_jjxE275qo3oX3NcYyecPPGNzLTGTbGqV8nx1oXAmjfqZUwIUiGx-&nostub=1
-#EXTINF:0 tvg-id="ch2082" tvg-name="UK: TNT Sport 6 (Event Only)" tvg-logo="https://rus.hls.gd/images/chIcons/2082.png" tvg-rec="0", UK: TNT Sport 6 (Event Only)
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2082/mono.m3u8?token=rast875.v2_B8gwjn_bMmt9Nfdjnw4Mf3lOCKcl0rJL5S4KssUM4XLJcTtgS2Jw0G-WbLJWwAVhUFaoFTLocOpz&nostub=1
-#EXTINF:0 tvg-id="ch2083" tvg-name="UK: TNT Sport 7 (Event Only)" tvg-logo="https://rus.hls.gd/images/chIcons/2083.png" tvg-rec="0", UK: TNT Sport 7 (Event Only)
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2083/mono.m3u8?token=rast875.v2_8vJooZ8oz-KIn1fOUI4HkPu1xo4oNj5NzGWymCsmmOSpiZ91AfN54jBMxtaZ6GEacdca41-3xd59&nostub=1
-#EXTINF:0 tvg-id="ch2084" tvg-name="UK: TNT Sport 8 (Event Only)" tvg-logo="https://rus.hls.gd/images/chIcons/2084.png" tvg-rec="0", UK: TNT Sport 8 (Event Only)
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2084/mono.m3u8?token=rast875.v2_uiMJZRfFZFevOWKFzv3KsuDX1HD10o5tL7XL1o4Xk2UmVgIuX6zDXCJA1sBzKJFWNMtMFhnLxYjq&nostub=1
-#EXTINF:0 tvg-id="ch2085" tvg-name="UK: TNT Sport 9 (Event Only)" tvg-logo="https://rus.hls.gd/images/chIcons/2085.png" tvg-rec="0", UK: TNT Sport 9 (Event Only)
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2085/mono.m3u8?token=rast875.v2_CVK1--0SiYETV-6wK521K6hIiF8WFBmh4DzTZVuw-dzueA54b6kjWYnRGWjAyb87znyoRn0gpTFb&nostub=1
-#EXTINF:0 tvg-id="ch1019" tvg-name="UK: Talk TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/1019.png" tvg-rec="7", UK: Talk TV HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1019/mono.m3u8?token=rast875.v2_aE_Lj_xtT8M4PY9biXI5zVt0rmrUVuv_QTvnSOz5E02ATQX6-QZ-AxZFaRdIKGSsIzcNOmLvnhSR&nostub=1
-#EXTINF:0 tvg-id="ch1020" tvg-name="UK: TLC HD" tvg-logo="https://rus.hls.gd/images/chIcons/1020.png" tvg-rec="7", UK: TLC HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1020/mono.m3u8?token=rast875.v2_ViH5K6erVM7n3B92JtduYZejDVDwEy1ArQ38UZIbsANiDSxCjcR4kd1I1Jci_rqzZg-qxA8fLhUi&nostub=1
-#EXTINF:0 tvg-id="ch1023" tvg-name="UK: Utsav Gold HD" tvg-logo="https://rus.hls.gd/images/chIcons/1023.png" tvg-rec="6", UK: Utsav Gold HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1023/mono.m3u8?token=rast875.v2_KyfASrgIMDwVYY0EaZxfEUQ-Fw2RH1X9w1a_GoWTxrGkfZfqRwKnOA9lcBPXMNfoutFXr8GcbMjU&nostub=1
-#EXTINF:0 tvg-id="ch1024" tvg-name="UK: Utsav Plus HD" tvg-logo="https://rus.hls.gd/images/chIcons/1024.png" tvg-rec="6", UK: Utsav Plus HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1024/mono.m3u8?token=rast875.v2_tP-lrYr51oX9qCYwkpeF19V2rvwhezOH4aPyEha4G-7tmddgTOUNL1TdXjLvC6oqQEFjIw6sxmoj&nostub=1
-#EXTINF:0 tvg-id="ch1718" tvg-name="UK: Viaplay Sports 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1718.png" tvg-rec="6", UK: Viaplay Sports 1 HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1718/mono.m3u8?token=rast875.v2_xORX1ZzX7BOTdgv_qk42ivTGpbidiWGNFoSAiefzN0j1od4BTVzLdg8EMgx5HyAen_3cNeTcoxAg&nostub=1
-#EXTINF:0 tvg-id="ch1719" tvg-name="UK: Viaplay Sports 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1719.png" tvg-rec="6", UK: Viaplay Sports 2 HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1719/mono.m3u8?token=rast875.v2_X3jd50V6_2-JgtI958LMH_GCFDToiUuCtS3yWsrpqKZ2hR6JYB7by_hatMu1UzsnxqIYh81IUWgS&nostub=1
-#EXTINF:0 tvg-id="ch2066" tvg-name="UK: W HD" tvg-logo="https://rus.hls.gd/images/chIcons/2066.png" tvg-rec="6", UK: W HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch2066/mono.m3u8?token=rast875.v2_9eC3z2Axe30nxrHDfHZ-CaZN0vkGHuvtdQaH_-rvUMZ1hRhzmg5c7_6O4_vgn92bqcZjQRWTQKcb&nostub=1
-#EXTINF:0 tvg-id="ch1025" tvg-name="UK: Zee TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/1025.png" tvg-rec="6", UK: Zee TV HD
-#EXTGRP:United Kingdom
-https://15.hls.gd/ch1025/mono.m3u8?token=rast875.v2_Z8o9Lg0K1slXrF6Easg1zG1Llwqg9_Miyb9Tr9KfN73wUlDGE8WNfIjd2u8WabXEQHOlgKgT9FGT&nostub=1
-#EXTINF:0 tvg-id="ch3430" tvg-name="US: ABC New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/3430.png" tvg-rec="3", US: ABC New York HD
-#EXTGRP:United States
-https://15.hls.gd/ch3430/mono.m3u8?token=rast875.v2_KcynVo9AfTSFyihGwCiaYiX8r--Hb3STNN_TybBwa57O6LIqcYo1DbB3BQ5WO66B6FXUlKL_ERu3&nostub=1
-#EXTINF:0 tvg-id="ch3364" tvg-name="US: ABC News Live HD" tvg-logo="https://rus.hls.gd/images/chIcons/3364.png" tvg-rec="3", US: ABC News Live HD
-#EXTGRP:United States
-https://15.hls.gd/ch3364/mono.m3u8?token=rast875.v2_wNex72uDyer_oJ39OhgVjExaTQtXzMj3NEMwmxC0OdJ-eU3CQYzyyidFXagUjErR5RbB6Lmt1_HD&nostub=1
-#EXTINF:0 tvg-id="ch3378" tvg-name="US: A and E HD" tvg-logo="https://rus.hls.gd/images/chIcons/3378.png" tvg-rec="3", US: A and E HD
-#EXTGRP:United States
-https://15.hls.gd/ch3378/mono.m3u8?token=rast875.v2_gsKO5Yh9B-0Woc6tvS9ie6cIsHcAxv5G1j5eYKGvxW3UyHqsKKOEitHjsvulnL0RyUkGEgTou_l_&nostub=1
 #EXTINF:0 tvg-id="ch3412" tvg-name="US: AMC HD" tvg-logo="https://rus.hls.gd/images/chIcons/3412.png" tvg-rec="3", US: AMC HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3412/mono.m3u8?token=rast875.v2_93Q34aeJRc4CYdskt_Uk1jHnrqq2ouAEMNgPazEHf6VuCfVwMW0vun1P2cvyjSzOmrXT_m9HTYu6&nostub=1
-#EXTINF:0 tvg-id="ch2932" tvg-name="US: Animal Planet HD" tvg-logo="https://rus.hls.gd/images/chIcons/2932.png" tvg-rec="3", US: Animal Planet HD
-#EXTGRP:United States
-https://15.hls.gd/ch2932/mono.m3u8?token=rast875.v2_38eDaqdHM_EoiBh64nxDl8AuD_5q9o1NFivteoG6JYr88NClef4LmhDKe_NUbu3L1ONCUUwoypGm&nostub=1
-#EXTINF:0 tvg-id="ch3363" tvg-name="US: Bloomberg TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3363.png" tvg-rec="3", US: Bloomberg TV HD
-#EXTGRP:United States
-https://15.hls.gd/ch3363/mono.m3u8?token=rast875.v2_GCPsleVPr1P7PgeMExYV9VaEE7CVhsB5xwNEeZf_MIywzu_5jo-q6ZC398eN11LjkXYk2PvEIIDg&nostub=1
-#EXTINF:0 tvg-id="ch3411" tvg-name="US: BBC America HD" tvg-logo="https://rus.hls.gd/images/chIcons/3411.png" tvg-rec="3", US: BBC America HD
-#EXTGRP:United States
-https://15.hls.gd/ch3411/mono.m3u8?token=rast875.v2_yWyZPxllAxRZmOA67pFOJWgIb7smQW2ZernuOfxzu9aVCefg0Un_Wn7KkEf08br73cDRNQAnUoxn&nostub=1
-#EXTINF:0 tvg-id="ch2869" tvg-name="US: Big Ten HD" tvg-logo="https://rus.hls.gd/images/chIcons/2869.png" tvg-rec="3", US: Big Ten HD
-#EXTGRP:United States
-https://15.hls.gd/ch2869/mono.m3u8?token=rast875.v2_b4IYEBe2E2jNv4WorbeOM6VKX6iu05U1__HUmdEIkYWlKziD8Z4kFcZDV44GkVsuO1BpuHLcOyyg&nostub=1
-#EXTINF:0 tvg-id="ch2870" tvg-name="US: Big Ten Network Overflow 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2870.png" tvg-rec="3", US: Big Ten Network Overflow 2 HD
-#EXTGRP:United States
-https://15.hls.gd/ch2870/mono.m3u8?token=rast875.v2__1AyAibW4FhItA_EJp9s2Qb1T7GUGgx2ZvS7lzw1cmLdDuHEkMf2rUMCEw9Y0wv2KmEFEIhpM46v&nostub=1
-#EXTINF:0 tvg-id="ch3368" tvg-name="US: Big Ten Network Overflow 3 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3368.png" tvg-rec="3", US: Big Ten Network Overflow 3 HD
-#EXTGRP:United States
-https://15.hls.gd/ch3368/mono.m3u8?token=rast875.v2_9IHxAnEphbetOyEkNY8_KRZoj-74qikiFemlewv2pk6-W_rma9mRSILv1X06pm2k8ASgan39JHyN&nostub=1
-#EXTINF:0 tvg-id="ch3369" tvg-name="US: Big Ten Network Overflow 4 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3369.png" tvg-rec="3", US: Big Ten Network Overflow 4 HD
-#EXTGRP:United States
-https://15.hls.gd/ch3369/mono.m3u8?token=rast875.v2_qVjlQqT-grc1Wzw0af4zXBhLkWceNfgpDhBKvpiLVYQdHh81LJgxc6H7uH2mGn8hcvftUAP2_4f6&nostub=1
-#EXTINF:0 tvg-id="ch3370" tvg-name="US: Billiard TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3370.png" tvg-rec="0", US: Billiard TV HD
-#EXTGRP:United States
-https://15.hls.gd/ch3370/mono.m3u8?token=rast875.v2_jeZhwzWm0WndJI58DUtZtBr3VuZgV2EmkvBk93Y2E8Uhfuo56ViSfQzWjVtqujVUZVBW0FNiOMdG&nostub=1
-#EXTINF:0 tvg-id="ch3425" tvg-name="US: Bein Sports XTRA HD" tvg-logo="https://rus.hls.gd/images/chIcons/3425.png" tvg-rec="3", US: Bein Sports XTRA HD
-#EXTGRP:United States
-https://15.hls.gd/ch3425/mono.m3u8?token=rast875.v2_FMO2A0LwDCwDA4zXhheh_HMu7RLVmlXJlokiF6KyR-0h1Mq4UIvu_tT8dOQpDpehqJcZq9ZSVe7q&nostub=1
-#EXTINF:0 tvg-id="ch3366" tvg-name="US: CBS New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/3366.png" tvg-rec="3", US: CBS New York HD
-#EXTGRP:United States
-https://15.hls.gd/ch3366/mono.m3u8?token=rast875.v2_H-I1_4sa4f-MY9PjtjQ57Dz5uUaSIH2xxJ0Nv61rB4dnaORxkoIaGjfLY6eYSzTh3avYcNxWtaWG&nostub=1
-#EXTINF:0 tvg-id="ch1330" tvg-name="US: CBS Sports Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1330.png" tvg-rec="0", US: CBS Sports Network HD
-#EXTGRP:United States
-https://15.hls.gd/ch1330/mono.m3u8?token=rast875.v2_cTsN4lJYwkDdjkdlDIxzntY9KPbabd2VthKKH66kqampgJseBRMuRccH5FHQpjBR4sFLqmRwOw_W&nostub=1
-#EXTINF:0 tvg-id="ch2462" tvg-name="US: Cooking Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/2462.png" tvg-rec="3", US: Cooking Channel HD
-#EXTGRP:United States
-https://15.hls.gd/ch2462/mono.m3u8?token=rast875.v2_maG6XIcd5HwgD6KkxrY_WTQ7LNZXTgnGA5WjfQjRhIk8mBuHwPmg8rYGEwxMoQ43v-ougW0ZCQ1k&nostub=1
 #EXTINF:0 tvg-id="ch2267" tvg-name="US: Cinemax HD" tvg-logo="https://rus.hls.gd/images/chIcons/2267.png" tvg-rec="3", US: Cinemax HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch2267/mono.m3u8?token=rast875.v2_Z_9bC-rJ2FG75uf2y7QQO2p-105W1u91vGho-6s3_nat0RS_9Ffa61DIyOLO9cfgMrTSp91KNWsZ&nostub=1
-#EXTINF:0 tvg-id="ch2265" tvg-name="US: Cinemax Action HD" tvg-logo="https://rus.hls.gd/images/chIcons/2265.png" tvg-rec="3", US: Cinemax Action HD
-#EXTGRP:United States
-https://15.hls.gd/ch2265/mono.m3u8?token=rast875.v2_CYwVtm4auPHKk9YQ4oMBpt0x7m35KUiXLHyjqdmET67G-hx6XfhwKQ5P5O5K8foiPotPGSP9Fg_r&nostub=1
-#EXTINF:0 tvg-id="ch2268" tvg-name="US: Cinemax Hits HD" tvg-logo="https://rus.hls.gd/images/chIcons/2268.png" tvg-rec="3", US: Cinemax Hits HD
-#EXTGRP:United States
-https://15.hls.gd/ch2268/mono.m3u8?token=rast875.v2_rUHmn6cRAUqxAeQhd7wb1fkBlDQ1g_S2qFrloz85_RBzViyPjafqrve2Hzt_V9crRD_l3mdN5up6&nostub=1
-#EXTINF:0 tvg-id="ch2266" tvg-name="US: Cinemax Classics HD" tvg-logo="https://rus.hls.gd/images/chIcons/2266.png" tvg-rec="3", US: Cinemax Classics HD
-#EXTGRP:United States
-https://15.hls.gd/ch2266/mono.m3u8?token=rast875.v2_ptCFaX_QJTLXptfOulkUJsUjovT4RRiikYmJA7_7KJkiXGHXvTfpGOvqmnY4Lr6EClUhKiVMzwwI&nostub=1
-#EXTINF:0 tvg-id="ch2461" tvg-name="US: Comedy Central HD" tvg-logo="https://rus.hls.gd/images/chIcons/2461.png" tvg-rec="3", US: Comedy Central HD
-#EXTGRP:United States
-https://15.hls.gd/ch2461/mono.m3u8?token=rast875.v2_zo1jcLampbxUbbb8w8Q0sDiRWk7bLhANV60HTsCqCiNXfev5qn5NQexlSrDLRctb7DC8kG8vUdXv&nostub=1
-#EXTINF:0 tvg-id="ch2867" tvg-name="US: Comedy TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/2867.png" tvg-rec="3", US: Comedy TV HD
-#EXTGRP:United States
-https://15.hls.gd/ch2867/mono.m3u8?token=rast875.v2_uSWMgEIMunUDbwKE_nNhjja3McNcbcJb0n8suKw81De1iGZI44uq3rzf5kuxDqmRy32_TNKP9aUw&nostub=1
-#EXTINF:0 tvg-id="ch2280" tvg-name="US: Cartoon Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/2280.png" tvg-rec="3", US: Cartoon Network HD
-#EXTGRP:United States
-https://15.hls.gd/ch2280/mono.m3u8?token=rast875.v2_Z2nSwadVHcF-EkiW2SQl4u-kJySEuMra2-vf4XB7PUQm_Xyw1W2eEFlD1nJT77cR3VbRqkV00pX1&nostub=1
-#EXTINF:0 tvg-id="ch2271" tvg-name="US: Disney Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/2271.png" tvg-rec="3", US: Disney Channel HD
-#EXTGRP:United States
-https://15.hls.gd/ch2271/mono.m3u8?token=rast875.v2_kCXRNYvimwf2NbOh1KzX95qNunGrkybLota_0HQYxb3W3BjP_hFL3r2pxvMSYn6KdlpzklupLFq8&nostub=1
-#EXTINF:0 tvg-id="ch2272" tvg-name="US: Disney Junior HD" tvg-logo="https://rus.hls.gd/images/chIcons/2272.png" tvg-rec="3", US: Disney Junior HD
-#EXTGRP:United States
-https://15.hls.gd/ch2272/mono.m3u8?token=rast875.v2_4qT69hbTZJHck5e2Usgek4_5hfbF3Gbc2_F_2bUx7Qas0hcjsK8ggwu9NxJCtdzh75TVLCTnnEHD&nostub=1
-#EXTINF:0 tvg-id="ch2273" tvg-name="US: Disney XD HD" tvg-logo="https://rus.hls.gd/images/chIcons/2273.png" tvg-rec="3", US: Disney XD HD
-#EXTGRP:United States
-https://15.hls.gd/ch2273/mono.m3u8?token=rast875.v2_pAkv045JAPuyI8fe7JreNln0a78k6dg0sM6Y10ZkJby3FTA81j8TwzznWgR-EX4VGCVD_k7viG_6&nostub=1
-#EXTINF:0 tvg-id="ch2463" tvg-name="US: Discovery HD" tvg-logo="https://rus.hls.gd/images/chIcons/2463.png" tvg-rec="3", US: Discovery HD
-#EXTGRP:United States
-https://15.hls.gd/ch2463/mono.m3u8?token=rast875.v2_yQ4gkmPnGbW1sKjUnyJ4Zzm20zDKpfMyJltm-xd0SmIbufCxudlMpJk5Lb9_2qyEGnQFT3VVt40l&nostub=1
-#EXTINF:0 tvg-id="ch1625" tvg-name="US: ESPN HD" tvg-logo="https://rus.hls.gd/images/chIcons/1625.png" tvg-rec="3", US: ESPN HD
-#EXTGRP:United States
-https://15.hls.gd/ch1625/mono.m3u8?token=rast875.v2_PhafhwRJqUI86RKeZvOT0zfjx0zMZM5A68PP0o0bY44Ik3aBJrBetC56uS8tV_W5AArEgl9SsP2A&nostub=1
-#EXTINF:0 tvg-id="ch1626" tvg-name="US: ESPN 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1626.png" tvg-rec="3", US: ESPN 2 HD
-#EXTGRP:United States
-https://15.hls.gd/ch1626/mono.m3u8?token=rast875.v2_IhUsc4iPjmXSNKHr92SZgZ1gpR1G1sBEeaq9BmUpkxeEnPPBD0ZC16JjxxP7Gl_muvE16tW-XP33&nostub=1
-#EXTINF:0 tvg-id="ch1627" tvg-name="US: ESPNU HD" tvg-logo="https://rus.hls.gd/images/chIcons/1627.png" tvg-rec="3", US: ESPNU HD
-#EXTGRP:United States
-https://15.hls.gd/ch1627/mono.m3u8?token=rast875.v2_Keb844gE9--uDVERvW_qI3oJIhKJlt5JrkoRpT4duuC8n1QQhzDFnYfpMAkKOBqZeyP4KBmGlWBb&nostub=1
-#EXTINF:0 tvg-id="ch3076" tvg-name="US: E! Entertainment HD" tvg-logo="https://rus.hls.gd/images/chIcons/3076.png" tvg-rec="3", US: E! Entertainment HD
-#EXTGRP:United States
-https://15.hls.gd/ch3076/mono.m3u8?token=rast875.v2_YtMMUrNQP74qJU0BZX61aFHv15ZdJjfwYWgOzb1BiuGWPit-D3RmPm3ZEsK5IDg5-orZz4KtG_Yh&nostub=1
-#EXTINF:0 tvg-id="ch3380" tvg-name="US: EarthX HD" tvg-logo="https://rus.hls.gd/images/chIcons/3380.png" tvg-rec="3", US: EarthX HD
-#EXTGRP:United States
-https://15.hls.gd/ch3380/mono.m3u8?token=rast875.v2_2sSnWW6LZmZNoL4Rw9gUJwU1F-ikVSy3Qk_aXHOIMSq5POCFaUqLDPHyAuCkOeWLQAAwl_DsIW3P&nostub=1
-#EXTINF:0 tvg-id="ch2269" tvg-name="US: Family Entertainment Television HD" tvg-logo="https://rus.hls.gd/images/chIcons/2269.png" tvg-rec="3", US: Family Entertainment Television HD
-#EXTGRP:United States
-https://15.hls.gd/ch2269/mono.m3u8?token=rast875.v2_PVdB0MkR_9ftSIfEmvZB5uP_e44xrxpBf4CZOrp9jjaq89WzQDGBNXihAueTR8CRyWttzWvVI4XV&nostub=1
 #EXTINF:0 tvg-id="ch2275" tvg-name="US: Family Movie Classics HD" tvg-logo="https://rus.hls.gd/images/chIcons/2275.png" tvg-rec="3", US: Family Movie Classics HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch2275/mono.m3u8?token=rast875.v2_udUGriAGxNXpp1JxFkwbORKCq7TjRlQ4YtvEDC6YmIRrca32PQ6NTLJfWBIUErStKwuXp34wPqyh&nostub=1
-#EXTINF:0 tvg-id="ch2274" tvg-name="US: FanDuel TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/2274.png" tvg-rec="3", US: FanDuel TV HD
-#EXTGRP:United States
-https://15.hls.gd/ch2274/mono.m3u8?token=rast875.v2_XkIrbTEm8SQ59Xr8BzknqTCIedrFpl4qPE2zyeOrJX6J-PMLCkqXO0EGRl1GfWOyMWiTWdd4vI96&nostub=1
-#EXTINF:0 tvg-id="ch3899" tvg-name="US: FOX New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/3899.png" tvg-rec="3", US: FOX New York HD
-#EXTGRP:United States
-https://15.hls.gd/ch3899/mono.m3u8?token=rast875.v2_3aP-IyYWa_0yv0B0sSKUCpBe_n8IWqJKepRVEyimrfIQVuiFYVOr_ZJZhVVK1PlJo3eavRb2AsSI&nostub=1
-#EXTINF:0 tvg-id="ch3376" tvg-name="US: Fox Business Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/3376.png" tvg-rec="3", US: Fox Business Network HD
-#EXTGRP:United States
-https://15.hls.gd/ch3376/mono.m3u8?token=rast875.v2_gFRZ8KHgscmDoyLwYgA0SWXCs4rrNPI81c326JdLHwT1wYsAZrUeLBr8iJfYzSGg-aeD7mwMimAy&nostub=1
-#EXTINF:0 tvg-id="ch2193" tvg-name="US: FX HD" tvg-logo="https://rus.hls.gd/images/chIcons/2193.png" tvg-rec="3", US: FX HD
-#EXTGRP:United States
-https://15.hls.gd/ch2193/mono.m3u8?token=rast875.v2_g74gdpPJ4P3ioTzAHrxHmbwbg4jtGEUH5qdO5dEMGIHP3USli66_0jBhvY5eIWNsSzKExAWa4vma&nostub=1
-#EXTINF:0 tvg-id="ch2195" tvg-name="US: FXX HD" tvg-logo="https://rus.hls.gd/images/chIcons/2195.png" tvg-rec="3", US: FXX HD
-#EXTGRP:United States
-https://15.hls.gd/ch2195/mono.m3u8?token=rast875.v2_XWkCJL0v2LrcudHzIbuknKwK8bZb4B3HBrcpj4c67W4R-PKCClA8d2t93xKBwIIeYYs6t1XiROtj&nostub=1
-#EXTINF:0 tvg-id="ch1331" tvg-name="US: FOX Sports 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1331.png" tvg-rec="3", US: FOX Sports 1 HD
-#EXTGRP:United States
-https://15.hls.gd/ch1331/mono.m3u8?token=rast875.v2_53f4QXOz2TVZJy0vqBQM0lupUvuZQgeH7ANbAawEiQZQHCFIHFrPCKwX0_X-x9eprDTwR7Pfsd9c&nostub=1
-#EXTINF:0 tvg-id="ch1332" tvg-name="US: FOX Sports 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1332.png" tvg-rec="3", US: FOX Sports 2 HD
-#EXTGRP:United States
-https://15.hls.gd/ch1332/mono.m3u8?token=rast875.v2_T5ZbrAU6Sh8LPMEK-tRpirE8JlQs8K6R1CHcY_BWzfhocSCH1YicQsIsZNpVsLSLH_-GfZwmMf97&nostub=1
-#EXTINF:0 tvg-id="ch3398" tvg-name="US: FOX Soul HD" tvg-logo="https://rus.hls.gd/images/chIcons/3398.png" tvg-rec="3", US: FOX Soul HD
-#EXTGRP:United States
-https://15.hls.gd/ch3398/mono.m3u8?token=rast875.v2_of4qk-tjzGHc4kA49v2PX9IC1t_tGypRE4dnrobM7zDIKKRPagH-KIykQouppXxR1ITER-1mKR0o&nostub=1
-#EXTINF:0 tvg-id="ch1336" tvg-name="US: FUBO Sports Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1336.png" tvg-rec="3", US: FUBO Sports Network HD
-#EXTGRP:United States
-https://15.hls.gd/ch1336/mono.m3u8?token=rast875.v2_GIz0YxU2ksEs_FoRad6Squde4f5jfDQg8XpKM8DpoWOrGYwxJxcDRurbCvbVT7dF4HyJohGOt0vd&nostub=1
-#EXTINF:0 tvg-id="ch2197" tvg-name="US: Golf Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/2197.png" tvg-rec="3", US: Golf Channel HD
-#EXTGRP:United States
-https://15.hls.gd/ch2197/mono.m3u8?token=rast875.v2_dBackXWG9Z7KuJOZ1Z2z3LeVilNyGtVaiZRR4xf0nGArnnxSiuq3jCZ7wqXJOVBzXzgr6BZkBgvL&nostub=1
-#EXTINF:0 tvg-id="ch3402" tvg-name="US: GolfPass HD" tvg-logo="https://rus.hls.gd/images/chIcons/3402.png" tvg-rec="3", US: GolfPass HD
-#EXTGRP:United States
-https://15.hls.gd/ch3402/mono.m3u8?token=rast875.v2_7Mt6vzdAhlSrSReWOIGheXXCdsI94MulEsYFTzdVUUAlH71e-a8dHSehwm0cO2V92EXELg7ILVNK&nostub=1
-#EXTINF:0 tvg-id="ch3367" tvg-name="US: Hallmark Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/3367.png" tvg-rec="3", US: Hallmark Channel HD
-#EXTGRP:United States
-https://15.hls.gd/ch3367/mono.m3u8?token=rast875.v2_WHPbXhTTDPHsT896nPgM_iQ3QezhmapR7PH0lPS51WLRKTDdMJT9v4R4x0WQcdphQMbSAu5Sb4kE&nostub=1
 #EXTINF:0 tvg-id="ch3404" tvg-name="US: HBO Movies HD" tvg-logo="https://rus.hls.gd/images/chIcons/3404.png" tvg-rec="3", US: HBO Movies HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3404/mono.m3u8?token=rast875.v2_nnKyVwXigN93hFQRuTR7AOCV3hiId_uW8rbgAb1_S9j3On7sAoFtH9O-zUtgbPLKr7v5w3XCRgoE&nostub=1
 #EXTINF:0 tvg-id="ch3405" tvg-name="US: HBO Latino HD" tvg-logo="https://rus.hls.gd/images/chIcons/3405.png" tvg-rec="3", US: HBO Latino HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3405/mono.m3u8?token=rast875.v2_Knl1ZMtSeZx8lSnafHeKuGQEpoH1eQQjtXX_vQ9YWRUNti7eR_-hrX_gE9IRfRMdjO_sN-P196mw&nostub=1
 #EXTINF:0 tvg-id="ch3406" tvg-name="US: HBO Hits HD" tvg-logo="https://rus.hls.gd/images/chIcons/3406.png" tvg-rec="3", US: HBO Hits HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3406/mono.m3u8?token=rast875.v2_UlNcfu7wUuw9f9yNyHgxHBrFY6LwR143NhDniUj9gUqI27FT8NcSIdbXbTg80AhvD_xEKWla0Kqk&nostub=1
 #EXTINF:0 tvg-id="ch3407" tvg-name="US: HBO East HD" tvg-logo="https://rus.hls.gd/images/chIcons/3407.png" tvg-rec="3", US: HBO East HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3407/mono.m3u8?token=rast875.v2_seGuvjMBaQ2rpzow-wfSwnTVo2GIptOp-j30GIpB9IgpjPPLCeTZ7rk1YR8D8IfOshzjggbqb0PL&nostub=1
 #EXTINF:0 tvg-id="ch3408" tvg-name="US: HBO Drama East HD" tvg-logo="https://rus.hls.gd/images/chIcons/3408.png" tvg-rec="3", US: HBO Drama East HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3408/mono.m3u8?token=rast875.v2_EUmRARKLU7s0QhPPb8kE4NvXKghMiA60V5QlRfIeJ3W2WJnSPU2XiOa6tDfG4KXizJCIY9eUvkhq&nostub=1
 #EXTINF:0 tvg-id="ch3409" tvg-name="US: HBO Comedy East HD" tvg-logo="https://rus.hls.gd/images/chIcons/3409.png" tvg-rec="3", US: HBO Comedy East HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3409/mono.m3u8?token=rast875.v2__8pjIY_aA3MxK50lGiUMe0NQB06ssE49u9y_ZXJzWA-9B9WRyUvk-YeqwOfOZQ1dUUePT1YlpG9y&nostub=1
-#EXTINF:0 tvg-id="ch2198" tvg-name="US: HGTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/2198.png" tvg-rec="3", US: HGTV HD
-#EXTGRP:United States
-https://15.hls.gd/ch2198/mono.m3u8?token=rast875.v2_eX2gMpfdInDEGGvsNIIZdz2SQDQ5Ax5b5Qi5zkfp2g8m-2cqBBQficha0gqZ2ZQ-YdWe-qI4Nym1&nostub=1
-#EXTINF:0 tvg-id="ch2199" tvg-name="US: History HD" tvg-logo="https://rus.hls.gd/images/chIcons/2199.png" tvg-rec="3", US: History HD
-#EXTGRP:United States
-https://15.hls.gd/ch2199/mono.m3u8?token=rast875.v2_CJQGli2viFb4HflI1VQu2ZPBbgEwA0iO-rP3A3NY1CjIa_Y7fL6KKhajLwTUim5Qs2y4POBTfbjN&nostub=1
-#EXTINF:0 tvg-id="ch3377" tvg-name="US: Heroes and Icons TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3377.png" tvg-rec="3", US: Heroes and Icons TV HD
-#EXTGRP:United States
-https://15.hls.gd/ch3377/mono.m3u8?token=rast875.v2_EOjifgnNlH6ZDVUac3wRgv2VFPr9ktYATSWV-YjZI2Ol_Dg-lxpJOLwpECFEkdGoMqWC_acS3oD-&nostub=1
-#EXTINF:0 tvg-id="ch2464" tvg-name="US: Investigation Discovery HD" tvg-logo="https://rus.hls.gd/images/chIcons/2464.png" tvg-rec="3", US: Investigation Discovery HD
-#EXTGRP:United States
-https://15.hls.gd/ch2464/mono.m3u8?token=rast875.v2_EtF8rr7908_p20ILqWj_-1UV85kVwwNs7celHvZvhck6mxGHSXTsvEsE_C8rkyHR0_nBi7_NQb_W&nostub=1
-#EXTINF:0 tvg-id="ch2868" tvg-name="US: Justice Central HD" tvg-logo="https://rus.hls.gd/images/chIcons/2868.png" tvg-rec="3", US: Justice Central HD
-#EXTGRP:United States
-https://15.hls.gd/ch2868/mono.m3u8?token=rast875.v2_1oIxBt7H5KnnL_f46f_ALu-Vpz8esDuGqZCck1k4nehS_tu5ppP16YbfGOmNJEe4ubcHcqco8H8x&nostub=1
-#EXTINF:0 tvg-id="ch2704" tvg-name="US: Lifetime HD" tvg-logo="https://rus.hls.gd/images/chIcons/2704.png" tvg-rec="3", US: Lifetime HD
-#EXTGRP:United States
-https://15.hls.gd/ch2704/mono.m3u8?token=rast875.v2_B6fhWVm47A2idA6uXyEenF22Eu434LzOGFaNfYmDBIqw_DS5kICnTQc8_41jE-IpCR5qbpcZPxTS&nostub=1
-#EXTINF:0 tvg-id="ch2933" tvg-name="US: Lifetime Movie HD" tvg-logo="https://rus.hls.gd/images/chIcons/2933.png" tvg-rec="3", US: Lifetime Movie HD
-#EXTGRP:United States
-https://15.hls.gd/ch2933/mono.m3u8?token=rast875.v2__bUFfPmRKKs3Q-OcyJZpnPmWbGXcroUR-XowqTneywNxiOSp-RVWVVm9XF1dHpMIVwYrwzTW8wNE&nostub=1
-#EXTINF:0 tvg-id="ch3419" tvg-name="US: MeTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3419.png" tvg-rec="3", US: MeTV HD
-#EXTGRP:United States
-https://15.hls.gd/ch3419/mono.m3u8?token=rast875.v2_ZGoLDP3LRpyv2o19lYACaP6ySls61wb8zFhteLUudHTsROALYwkCrbknbiE5aKLkID3W5wzr6M-0&nostub=1
-#EXTINF:0 tvg-id="ch2279" tvg-name="US: MeTV Toons HD" tvg-logo="https://rus.hls.gd/images/chIcons/2279.png" tvg-rec="3", US: MeTV Toons HD
-#EXTGRP:United States
-https://15.hls.gd/ch2279/mono.m3u8?token=rast875.v2_-q7C2Zlspa0F0IoZHxi4eX0yzpMiaUe0qxDyv20j5rh90V0DpSSqfcBCQo6jqshTf71JYr66Iwby&nostub=1
-#EXTINF:0 tvg-id="ch3371" tvg-name="US: MSG HD" tvg-logo="https://rus.hls.gd/images/chIcons/3371.png" tvg-rec="3", US: MSG HD
-#EXTGRP:United States
-https://15.hls.gd/ch3371/mono.m3u8?token=rast875.v2_YYD8DNPifg2WJbwutIysEggSw5khgxkv6mHXve0yEIZpZbvXSS1xaUvwyDcrdiusMDnO_u6AMmzl&nostub=1
 #EXTINF:0 tvg-id="ch3399" tvg-name="US: MGM+ HD" tvg-logo="https://rus.hls.gd/images/chIcons/3399.png" tvg-rec="1", US: MGM+ HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3399/mono.m3u8?token=rast875.v2_lij4B3YPlfvppFErZRHXpp3iLVTET3IC-lV4l4Ji_sJSIPiAqZYN8oBgbcbQpLjkupYHLk3L2ZNz&nostub=1
 #EXTINF:0 tvg-id="ch3400" tvg-name="US: MGM+ Hits HD" tvg-logo="https://rus.hls.gd/images/chIcons/3400.png" tvg-rec="3", US: MGM+ Hits HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3400/mono.m3u8?token=rast875.v2_qir86JGRayI9APPZnMgrwNCkFVopwXH7L_xbNfi4NipUm2Dy6dwVZN1NfBstMsXxWDVXnRd7VlBe&nostub=1
 #EXTINF:0 tvg-id="ch3401" tvg-name="US: MGM+ Marquee HD" tvg-logo="https://rus.hls.gd/images/chIcons/3401.png" tvg-rec="2", US: MGM+ Marquee HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3401/mono.m3u8?token=rast875.v2_KYGs5iuLaRioSWlrAqf2eWi6aqjBUY-p1b95LILWbhFUumJkbcWTJVUIMd_nuYaWJUuWgnvfgwVF&nostub=1
-#EXTINF:0 tvg-id="ch3431" tvg-name="US: NBC New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/3431.png" tvg-rec="3", US: NBC New York HD
-#EXTGRP:United States
-https://15.hls.gd/ch3431/mono.m3u8?token=rast875.v2_MblndeEt2I0tkd4WsSqBxhG7KZzw6AqrJLfLETaJbEeMOGo6UD0zuuodBhxI1fuKbvz8hbsICiKJ&nostub=1
-#EXTINF:0 tvg-id="ch3365" tvg-name="US: NBC News Now HD" tvg-logo="https://rus.hls.gd/images/chIcons/3365.png" tvg-rec="3", US: NBC News Now HD
-#EXTGRP:United States
-https://15.hls.gd/ch3365/mono.m3u8?token=rast875.v2_P9cIn51EFSHXwEpkLqJHAhsfzPSLNYAYc3cluYw612Jz9z2r37Vhg5UyvTIKL-6fl7CCc9CiRLnQ&nostub=1
-#EXTINF:0 tvg-id="ch2276" tvg-name="US: Nickelodeon East HD" tvg-logo="https://rus.hls.gd/images/chIcons/2276.png" tvg-rec="3", US: Nickelodeon East HD
-#EXTGRP:United States
-https://15.hls.gd/ch2276/mono.m3u8?token=rast875.v2_2cQrB1WUpN6HGAjZguFS5Ua0Uxpa17iDmXxlKck6R0x8gu7rCyFAnFn5yl54wCXFLDhYQyL-WHG0&nostub=1
-#EXTINF:0 tvg-id="ch2277" tvg-name="US: Nick Jr HD" tvg-logo="https://rus.hls.gd/images/chIcons/2277.png" tvg-rec="3", US: Nick Jr HD
-#EXTGRP:United States
-https://15.hls.gd/ch2277/mono.m3u8?token=rast875.v2_zOQlvszBKIY_JcaJ_yJA2cw9scJORHL9CktXVjpDnANcFY2uDsfdSQqZ3f9YV9en2i0EKfY4x91R&nostub=1
-#EXTINF:0 tvg-id="ch2278" tvg-name="US: Nicktoons HD" tvg-logo="https://rus.hls.gd/images/chIcons/2278.png" tvg-rec="3", US: Nicktoons HD
-#EXTGRP:United States
-https://15.hls.gd/ch2278/mono.m3u8?token=rast875.v2_TqN3REzqL0-CPC3zTHYK_7oifFXiTwRgL6SDKEFSJEjKtNXIVp6zWLdPXXfNZq7b2QU9s0RSK0_d&nostub=1
-#EXTINF:0 tvg-id="ch1329" tvg-name="US: MLB Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1329.png" tvg-rec="3", US: MLB Network HD
-#EXTGRP:United States
-https://15.hls.gd/ch1329/mono.m3u8?token=rast875.v2_PouxlB9ohHC252nILTqvAZtH_6SNSuNhzytEJurd_aVDfnUytEv2vSvJZOb8nO7me5kotZlkq8KI&nostub=1
-#EXTINF:0 tvg-id="ch3432" tvg-name="US: MTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3432.png" tvg-rec="3", US: MTV HD
-#EXTGRP:United States
-https://15.hls.gd/ch3432/mono.m3u8?token=rast875.v2_tBDsMMRvpRIG7vXNG7lA4zFwkedPftlh8YQFospeksVdwmBQ1zOnKO4NVTnCC4lBhQGUuw83SSY7&nostub=1
-#EXTINF:0 tvg-id="ch3381" tvg-name="US: MTV 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3381.png" tvg-rec="3", US: MTV 2 HD
-#EXTGRP:United States
-https://15.hls.gd/ch3381/mono.m3u8?token=rast875.v2_v8FamvHofASYx3TRYU1HMYO-PDJMRIv3WGA29LttA0lGCwNmrrFTDXpDUW8deKoNy396xzH4KMuk&nostub=1
-#EXTINF:0 tvg-id="ch725" tvg-name="US: NBA TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/725.png" tvg-rec="7", US: NBA TV HD
-#EXTGRP:United States
-https://15.hls.gd/ch725/mono.m3u8?token=rast875.v2_kFpHF11edyxChYnBBIaisImgJsyzsx5VEsVoty4f8XBDq1OH-T-J82mR6hSzrrhZBoxsmiAx7n8&nostub=1
-#EXTINF:0 tvg-id="ch1067" tvg-name="US: NHL Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1067.png" tvg-rec="7", US: NHL Network HD
-#EXTGRP:United States
-https://15.hls.gd/ch1067/mono.m3u8?token=rast875.v2_kLf6x4zCBD5DyKwfLB6BlqtfQFhPDAm7uS_4aNqpBvntD-XrzWde1PIMNwufJ2dDC0SMLjQALKdO&nostub=1
-#EXTINF:0 tvg-id="ch1328" tvg-name="US: NFL Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1328.png" tvg-rec="3", US: NFL Network HD
-#EXTGRP:United States
-https://15.hls.gd/ch1328/mono.m3u8?token=rast875.v2_X2rWjIFNk0US0TZPAN4tzc-Q2A87VJV_clmPTnFKgd_9Ms_Ik0Y5VbXfn_V1aPIlviCwsqu3xm9c&nostub=1
-#EXTINF:0 tvg-id="ch108" tvg-name="US: NFL Red Zone HD" tvg-logo="https://rus.hls.gd/images/chIcons/108.png" tvg-rec="0", US: NFL Red Zone HD
-#EXTGRP:United States
-https://15.hls.gd/ch108/mono.m3u8?token=rast875.v2_C-9HKevwqk9H7NxXHDcUHc9jsJjrbYjDWK9Id73GfTE9Z8UIEOHjzCGPA1kqss_amFVQvd3eexg&nostub=1
-#EXTINF:0 tvg-id="ch1333" tvg-name="US: NBC Sports Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1333.png" tvg-rec="3", US: NBC Sports Network HD
-#EXTGRP:United States
-https://15.hls.gd/ch1333/mono.m3u8?token=rast875.v2_FtCA2aZhQbmvehUU0lKr1ABJxNHgeJba9xHKoVD1PtSIWTXf0zDgdFTd_VKG9Ow5-RZxQtIjS5Nd&nostub=1
-#EXTINF:0 tvg-id="ch3424" tvg-name="US: National Geographic HD" tvg-logo="https://rus.hls.gd/images/chIcons/3424.png" tvg-rec="3", US: National Geographic HD
-#EXTGRP:United States
-https://15.hls.gd/ch3424/mono.m3u8?token=rast875.v2_bhTQGXLGKePIsDwQ3ychTSndJNcoLUFP3S4wV8KBpZ5Lf3Rqew0Y5Tu0z-6upTgPOHMYOTfHkJdc&nostub=1
-#EXTINF:0 tvg-id="ch3372" tvg-name="US: PokerGo HD" tvg-logo="https://rus.hls.gd/images/chIcons/3372.png" tvg-rec="3", US: PokerGo HD
-#EXTGRP:United States
-https://15.hls.gd/ch3372/mono.m3u8?token=rast875.v2_-KXJ04iCJoeIyhFT14NqFsh7xd53qxi4RZFs7xBNE_HvCkN6xYy57izfhzAJNek_TOlx9gSw2tBn&nostub=1
-#EXTINF:0 tvg-id="ch3410" tvg-name="US: PBS Kids HD" tvg-logo="https://rus.hls.gd/images/chIcons/3410.png" tvg-rec="3", US: PBS Kids HD
-#EXTGRP:United States
-https://15.hls.gd/ch3410/mono.m3u8?token=rast875.v2_53STwL0eQdM6NtagrjYxT2SXKT2mG6PiOUr67jPuavkXPTSuukhHqSxjOy35zf1X0AYZgarCt5vH&nostub=1
 #EXTINF:0 tvg-id="ch2270" tvg-name="US: Paramount TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/2270.png" tvg-rec="3", US: Paramount TV HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch2270/mono.m3u8?token=rast875.v2_HmXpe-HJsq7vDuTd2Ue9XUgQjtdRuoB5gim0WJg6YT1k_wM6W-hqLEJxdLOeGzIV1MWDE8bZMpUk&nostub=1
 #EXTINF:0 tvg-id="ch2158" tvg-name="US: Paramount with Showtime East HD" tvg-logo="https://rus.hls.gd/images/chIcons/2158.png" tvg-rec="3", US: Paramount with Showtime East HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch2158/mono.m3u8?token=rast875.v2_xgDSsfd3svqssrBojJQ_wWu8MI5JuObBprAsaf-GFjt6E9Ui1lrg5pzEQKPou4HjpTTz2-yM5KFO&nostub=1
-#EXTINF:0 tvg-id="ch3421" tvg-name="US: POP HD" tvg-logo="https://rus.hls.gd/images/chIcons/3421.png" tvg-rec="3", US: POP HD
-#EXTGRP:United States
-https://15.hls.gd/ch3421/mono.m3u8?token=rast875.v2_OQtljpCNCd-k3Bv329WacFtydjIWczZbIw9xC9RY5huqZRdBmCHlgn9JhRsH1FGq8fclgmLYNpJe&nostub=1
 #EXTINF:0 tvg-id="ch3379" tvg-name="US: ReelzChannel HD" tvg-logo="https://rus.hls.gd/images/chIcons/3379.png" tvg-rec="3", US: ReelzChannel HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3379/mono.m3u8?token=rast875.v2_MgT-jYNIAQdEdRVs57Fv7VvX_jpRmbPigG_ypcoC6drxxzN7X5KV8kHDJtOpZBe4sIzpbDzyiY1W&nostub=1
 #EXTINF:0 tvg-id="ch3403" tvg-name="US: Showtime Family Zone HD" tvg-logo="https://rus.hls.gd/images/chIcons/3403.png" tvg-rec="3", US: Showtime Family Zone HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3403/mono.m3u8?token=rast875.v2_i4oPn2vlCR_hEde3mu1eGjnAy7eOvZkYP-IBKpyb1jbOuxy3swNwd_Yryyotk3jVVoMlmXi7a4k9&nostub=1
 #EXTINF:0 tvg-id="ch3358" tvg-name="US: Showtime Extreme HD" tvg-logo="https://rus.hls.gd/images/chIcons/3358.png" tvg-rec="3", US: Showtime Extreme HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3358/mono.m3u8?token=rast875.v2_XsTlyxgGSyRS7WXA3c8AP3u8XlHdOTREEnpw9puZsqDo6bQHRL1PL68ZLK06LFyPNi-nVlx8ChTX&nostub=1
 #EXTINF:0 tvg-id="ch3359" tvg-name="US: Showtime Next HD" tvg-logo="https://rus.hls.gd/images/chIcons/3359.png" tvg-rec="3", US: Showtime Next HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3359/mono.m3u8?token=rast875.v2_8Dxs7f04TymJHn9iQYtH0c0yF6kbK4nN3pCb0GVCPHW6wNeBf6KT3L51WZLZK4Kb2cCsm-ntUhq4&nostub=1
 #EXTINF:0 tvg-id="ch3360" tvg-name="US: Showtime Showcase HD" tvg-logo="https://rus.hls.gd/images/chIcons/3360.png" tvg-rec="3", US: Showtime Showcase HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3360/mono.m3u8?token=rast875.v2_dFCSWGMrgZWIasMNL3dlQ5vn8tcxAqTSGFH_cgYMpgIEpSSv0GjlCe991jKeIqIJbZ-P5zQQjrEA&nostub=1
 #EXTINF:0 tvg-id="ch3361" tvg-name="US: Showtime 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3361.png" tvg-rec="3", US: Showtime 2 HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3361/mono.m3u8?token=rast875.v2_7sbOwIinJuWbzh6ck5AQpAqGBdZhQPBd1Sn8F-qI0C_0eeHDAmmuKK4jvtUXWYENWVJVTsCV5Eat&nostub=1
 #EXTINF:0 tvg-id="ch2256" tvg-name="US: STARZ East HD" tvg-logo="https://rus.hls.gd/images/chIcons/2256.png" tvg-rec="3", US: STARZ East HD
-#EXTGRP:United States
+#EXTGRP:1. Movies
 https://15.hls.gd/ch2256/mono.m3u8?token=rast875.v2_MK9FdTexAwMvKtrYBz7_vhvrP4a1esAbKCwAeDbH2lHewS3wh-hpdft_BwCgmGjpYQ3kuKbRkydy&nostub=1
-#EXTINF:0 tvg-id="ch2159" tvg-name="US: STARZ Cinema HD" tvg-logo="https://rus.hls.gd/images/chIcons/2159.png" tvg-rec="3", US: STARZ Cinema HD
-#EXTGRP:United States
-https://15.hls.gd/ch2159/mono.m3u8?token=rast875.v2_F1zRTr5K3HnL-GLyUv7slL91vQcvP1EjRWpcncFnquKNt68dC22kHdeOxjVC_MlNQnJbA7tv8NuD&nostub=1
-#EXTINF:0 tvg-id="ch2174" tvg-name="US: STARZ Comedy HD" tvg-logo="https://rus.hls.gd/images/chIcons/2174.png" tvg-rec="3", US: STARZ Comedy HD
-#EXTGRP:United States
-https://15.hls.gd/ch2174/mono.m3u8?token=rast875.v2_8weNC5MEPXpsVRhcpVVq-VUclf4YMts_DIagPOlSik-jzc2OJIwWAjR7Luj8R94QANJW7J0--u5P&nostub=1
-#EXTINF:0 tvg-id="ch2262" tvg-name="US: STARZ Kids and Family HD" tvg-logo="https://rus.hls.gd/images/chIcons/2262.png" tvg-rec="3", US: STARZ Kids and Family HD
-#EXTGRP:United States
-https://15.hls.gd/ch2262/mono.m3u8?token=rast875.v2_iM4w43LqxLniwWqgvFEak4ozH8fFOqARYwFm2P2Ye_Wd5HB2vJ36K6HS2dwkhM9iRPtfcziterxP&nostub=1
-#EXTINF:0 tvg-id="ch2260" tvg-name="US: STARZ Edge HD" tvg-logo="https://rus.hls.gd/images/chIcons/2260.png" tvg-rec="3", US: STARZ Edge HD
-#EXTGRP:United States
-https://15.hls.gd/ch2260/mono.m3u8?token=rast875.v2_G4k4bQAHYRz462psWYRn4wUCcFTfUTcyBt6ikcz03riXVdqgMMxj_ADSPxZe0KSzwY7k2UnDHvvr&nostub=1
-#EXTINF:0 tvg-id="ch2263" tvg-name="US: STARZ in Black HD" tvg-logo="https://rus.hls.gd/images/chIcons/2263.png" tvg-rec="3", US: STARZ in Black HD
-#EXTGRP:United States
-https://15.hls.gd/ch2263/mono.m3u8?token=rast875.v2_8EFs-Y8xqfhbLkENooaB5qtycueUS0lqG_A1R1Drw7tCvJotpe26Zqqp6iHG8VH2IPY5Yr3RayuZ&nostub=1
-#EXTINF:0 tvg-id="ch2258" tvg-name="US: STARZ Encore East HD" tvg-logo="https://rus.hls.gd/images/chIcons/2258.png" tvg-rec="3", US: STARZ Encore East HD
-#EXTGRP:United States
-https://15.hls.gd/ch2258/mono.m3u8?token=rast875.v2_PtH1q1qNrF4QcCSyuC6pZXl76T6-ryszSpkXLhrf7P-gt3QTWq8QSZ0YOhytrJH5bMIGOUS6TyDZ&nostub=1
-#EXTINF:0 tvg-id="ch2257" tvg-name="US: STARZ Encore Action HD" tvg-logo="https://rus.hls.gd/images/chIcons/2257.png" tvg-rec="3", US: STARZ Encore Action HD
-#EXTGRP:United States
-https://15.hls.gd/ch2257/mono.m3u8?token=rast875.v2_mXymnYuEllKrWdXrqWZLxE5fIWZcBsFDk9SfXPK2yxGpvsBIUrsDDUJ_lStgYhVBicqzo75RDnvU&nostub=1
-#EXTINF:0 tvg-id="ch2178" tvg-name="US: STARZ Encore Classic HD" tvg-logo="https://rus.hls.gd/images/chIcons/2178.png" tvg-rec="3", US: STARZ Encore Classic HD
-#EXTGRP:United States
-https://15.hls.gd/ch2178/mono.m3u8?token=rast875.v2_yIEi88x_9NFMNMfVxdm8gs6diXEwZY0P8K_WikYfsqioVCkEJXRIa5QHsZWPNYcjR0RxTY8JZr_H&nostub=1
-#EXTINF:0 tvg-id="ch2179" tvg-name="US: STARZ Encore Suspense HD" tvg-logo="https://rus.hls.gd/images/chIcons/2179.png" tvg-rec="3", US: STARZ Encore Suspense HD
-#EXTGRP:United States
-https://15.hls.gd/ch2179/mono.m3u8?token=rast875.v2_gC3GN9kGQHXnIhQJDdVlsvmp9yj37GFYk8BKALEoyszEjrA5UmZRaIujyxKWJT9a-mOXyDaS6MGt&nostub=1
-#EXTINF:0 tvg-id="ch2177" tvg-name="US: STARZ Encore Black HD" tvg-logo="https://rus.hls.gd/images/chIcons/2177.png" tvg-rec="3", US: STARZ Encore Black HD
-#EXTGRP:United States
-https://15.hls.gd/ch2177/mono.m3u8?token=rast875.v2_zoUlSCiw9d80LJoe3IICQgOLPcqeKQPW5Klht6bkC1jWJWWyCf203qiAQOECwy4p7wMENvp3AxgR&nostub=1
-#EXTINF:0 tvg-id="ch2180" tvg-name="US: STARZ Encore West HD" tvg-logo="https://rus.hls.gd/images/chIcons/2180.png" tvg-rec="3", US: STARZ Encore West HD
-#EXTGRP:United States
-https://15.hls.gd/ch2180/mono.m3u8?token=rast875.v2_EvHIbx_78Wx_c7eTOTvbDVQcO0JijYg9NyoLUd-CNf1GKR-3QsZ4ln0wYXq5CAS03oK15MaoZFk9&nostub=1
-#EXTINF:0 tvg-id="ch2181" tvg-name="US: STARZ Encore Westerns HD" tvg-logo="https://rus.hls.gd/images/chIcons/2181.png" tvg-rec="3", US: STARZ Encore Westerns HD
-#EXTGRP:United States
-https://15.hls.gd/ch2181/mono.m3u8?token=rast875.v2_ygt5zoZQwUsmukwtmaNaS58ttdCPjZyGquzXL6bb3vlRsHBQ8PAqsTruBkCVguq-ACsEKLAkfXCE&nostub=1
-#EXTINF:0 tvg-id="ch2703" tvg-name="US: Science HD" tvg-logo="https://rus.hls.gd/images/chIcons/2703.png" tvg-rec="3", US: Science HD
-#EXTGRP:United States
-https://15.hls.gd/ch2703/mono.m3u8?token=rast875.v2_9UN31UydXWkm8IkTWVoptajLlR-SDFv8u0r4XaPmAIRWarbrYKu3YKDBwPRtyE9ved0lQ61ELOdW&nostub=1
-#EXTINF:0 tvg-id="ch3373" tvg-name="US: SportsNet New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/3373.png" tvg-rec="3", US: SportsNet New York HD
-#EXTGRP:United States
-https://15.hls.gd/ch3373/mono.m3u8?token=rast875.v2_Mu1C79flLoVF7zGJ35DQdS-pAE6wBFbK-a7M7cJ2_vLa4gb3xv25a1B_RgIdpfZygLepWBreIDuw&nostub=1
-#EXTINF:0 tvg-id="ch3362" tvg-name="US: TruTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3362.png" tvg-rec="3", US: TruTV HD
-#EXTGRP:United States
-https://15.hls.gd/ch3362/mono.m3u8?token=rast875.v2_KWq96hTwcP2AscKQAn-I4D8qRGw2ZEOYNpVsBuymQCzi9X_BcXpSQofHis1WaRAecZjY83X2GqBc&nostub=1
-#EXTINF:0 tvg-id="ch3413" tvg-name="US: TBS HD" tvg-logo="https://rus.hls.gd/images/chIcons/3413.png" tvg-rec="3", US: TBS HD
-#EXTGRP:United States
-https://15.hls.gd/ch3413/mono.m3u8?token=rast875.v2_UNuhXjDZ_gZVySyuurrv8R4WkNSYllv6n3p9C-t4FWOhsXuFn-WU2L8dmCE48TKAp1QSOwmJurtt&nostub=1
-#EXTINF:0 tvg-id="ch3414" tvg-name="US: TNT HD" tvg-logo="https://rus.hls.gd/images/chIcons/3414.png" tvg-rec="3", US: TNT HD
-#EXTGRP:United States
-https://15.hls.gd/ch3414/mono.m3u8?token=rast875.v2_WwwFuNdhEY3if49a-HW4UgG-UUE1fur2D61XXHV2T7yjnLKsGpOeGxsSFVhV7rrQHqkvzH8bboZc&nostub=1
-#EXTINF:0 tvg-id="ch2856" tvg-name="US: TLC HD" tvg-logo="https://rus.hls.gd/images/chIcons/2856.png" tvg-rec="3", US: TLC HD
-#EXTGRP:United States
-https://15.hls.gd/ch2856/mono.m3u8?token=rast875.v2_Ygnpsj_qZhTbjlkx9fUrUtacv0dX-itDe2AM0rooAIV8nvIKEEUEgPLyErFU8_hZZ_BPsg8GOypz&nostub=1
-#EXTINF:0 tvg-id="ch1623" tvg-name="US: Tennis Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/1623.png" tvg-rec="3", US: Tennis Channel HD
-#EXTGRP:United States
-https://15.hls.gd/ch1623/mono.m3u8?token=rast875.v2_NoMPtOgDsp-OJq61Fg0Ap3HDBopXFYIfYW0BX46e1aFnnKxYxsbitG_1iR0M6IUYGnIrOTjZqRcy&nostub=1
-#EXTINF:0 tvg-id="ch1624" tvg-name="US: Tennis Channel 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1624.png" tvg-rec="3", US: Tennis Channel 2 HD
-#EXTGRP:United States
-https://15.hls.gd/ch1624/mono.m3u8?token=rast875.v2_2EbkdM8OucdoypttgTRAiXlmFbcvgO8V4aDVyil1xfo0nOaEfFHokTEdwPPYFsDZ_vHMSNQlyrz1&nostub=1
-#EXTINF:0 tvg-id="ch322" tvg-name="US: UFC Fight Pass HD" tvg-logo="https://rus.hls.gd/images/chIcons/322.png" tvg-rec="7", US: UFC Fight Pass HD
-#EXTGRP:United States
-https://15.hls.gd/ch322/mono.m3u8?token=rast875.v2_7PnC0c1dPlZsoZ_se-aS94UbL6WMgn0zNgImYKXlHdpaRnVfvw1pIp3LgHdIcrVmhVmDFOE_kz0&nostub=1
-#EXTINF:0 tvg-id="ch3415" tvg-name="US: USA Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/3415.png" tvg-rec="3", US: USA Network HD
-#EXTGRP:United States
-https://15.hls.gd/ch3415/mono.m3u8?token=rast875.v2_yzGO7nuiPQgOSpZ8mC6wKJxFQJSr_e0a7g2bDLLfK03RxZB0Wg-6KQJziU5bSURGVvlYdYnlPNE5&nostub=1
-#EXTINF:0 tvg-id="ch3416" tvg-name="US: Univision New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/3416.png" tvg-rec="3", US: Univision New York HD
-#EXTGRP:United States
-https://15.hls.gd/ch3416/mono.m3u8?token=rast875.v2_wQwba6CN-X5dFpFlSGmX-auDBIVJgm_N_EGStfAQ7OIeYx6r-W7yDCTm6OK6fgT0spSQ88a4u1li&nostub=1
-#EXTINF:0 tvg-id="ch3382" tvg-name="US: VH1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3382.png" tvg-rec="0", US: VH1 HD
-#EXTGRP:United States
-https://15.hls.gd/ch3382/mono.m3u8?token=rast875.v2_Sujh5UJXEz3n7oOgZaV6FoeKkR--3YgskQtYPOELe0by1VA6GbJJdg9VnADk-Tch1YDE5khY4W_Q&nostub=1
-#EXTINF:0 tvg-id="ch3374" tvg-name="US: WE TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3374.png" tvg-rec="3", US: WE TV HD
-#EXTGRP:United States
-https://15.hls.gd/ch3374/mono.m3u8?token=rast875.v2_hb0AU1ZLtALrDu0ausOtP6UCdzfWDzRkuEuDdgaiFVBrtTZDpICxMY9I_nHD0gVLwhACnBRezlCF&nostub=1
-#EXTINF:0 tvg-id="ch3375" tvg-name="US: Willow Sports HD" tvg-logo="https://rus.hls.gd/images/chIcons/3375.png" tvg-rec="3", US: Willow Sports HD
-#EXTGRP:United States
-https://15.hls.gd/ch3375/mono.m3u8?token=rast875.v2_lJWUT4YLThxkaHJWRu8SX6zHccPNBDnx8lhPc4LfK2f9I08tfdhzO1xpU2l_pgTA6ceSyhsZFofE&nostub=1
-#EXTINF:0 tvg-id="ch1335" tvg-name="US: World Fishing Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1335.png" tvg-rec="3", US: World Fishing Network HD
-#EXTGRP:United States
-https://15.hls.gd/ch1335/mono.m3u8?token=rast875.v2_dtm6YuUStRuTR1dnoKH06HjGf8UxExSZ6WLluUyY3ph-rPZZNRlCWUGDe-WJOUVM8LrKBrzLn-Jl&nostub=1
-#EXTINF:0 tvg-id="ch1334" tvg-name="US: WWE Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1334.png" tvg-rec="3", US: WWE Network HD
-#EXTGRP:United States
-https://15.hls.gd/ch1334/mono.m3u8?token=rast875.v2_vDUyn_HHxnhG4EQw1ng1qp22ts7k4mU9O_pS10wrkvIPWynwoz6KIaOXu287ZeNx5iFaU3LUjvcY&nostub=1
-#EXTINF:0 tvg-id="ch3332" tvg-name="CA: A and E HD" tvg-logo="https://rus.hls.gd/images/chIcons/3332.png" tvg-rec="7", CA: A and E HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3332/mono.m3u8?token=rast875.v2_D0pl34Ax9BX5T6k5O_3dfVTS4GGNn1CO_iDfHgkRg4740V5-wDBGypmpB_PsKtOHBYkmmRt8anNI&nostub=1
-#EXTINF:0 tvg-id="ch4121" tvg-name="CA: Addik HD" tvg-logo="https://rus.hls.gd/images/chIcons/4121.png" tvg-rec="7", CA: Addik HD
-#EXTGRP:Canada
-https://15.hls.gd/ch4121/mono.m3u8?token=rast875.v2_8f1k6Dz0-Bb9A-ArOBoWrT1vkamdC8TpJHWECo_pKUz67jUjAaDLqwi5hEgmAZrHE7fVUlxcUdF8&nostub=1
-#EXTINF:0 tvg-id="ch3331" tvg-name="CA: Adult Swim HD" tvg-logo="https://rus.hls.gd/images/chIcons/3331.png" tvg-rec="7", CA: Adult Swim HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3331/mono.m3u8?token=rast875.v2_utoeyXTdBaFC8YYdfIbLXGMqInyNQxf4bFAI4Ds0CAyHa5F-oEIt5dFrChXnpQfTfSqZLfwj03ht&nostub=1
-#EXTINF:0 tvg-id="ch2601" tvg-name="CA: BBC First HD" tvg-logo="https://rus.hls.gd/images/chIcons/2601.png" tvg-rec="7", CA: BBC First HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2601/mono.m3u8?token=rast875.v2_GQMGURksobA1uxASQ3Dokm-fWSOOMHJrPMvI9LD1nOV7H-q6Y4WSl5WxMpDy6iAwD9_cJmGrkWMH&nostub=1
-#EXTINF:0 tvg-id="ch2504" tvg-name="CA: BBC Earth HD" tvg-logo="https://rus.hls.gd/images/chIcons/2504.png" tvg-rec="7", CA: BBC Earth HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2504/mono.m3u8?token=rast875.v2_GE5PW3Ua2BH8Wi60bpFWJzL84oeEWrt6jgbRWx-zov4ZcC6vgVg6PIVZRE70rdO3CMyIHTFdb5tQ&nostub=1
-#EXTINF:0 tvg-id="ch2875" tvg-name="CA: Boomerang Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/2875.png" tvg-rec="7", CA: Boomerang Network HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2875/mono.m3u8?token=rast875.v2_nJkC-sGAlqV8mZ2e41EyHBLxME3GWpwVBkUswrgFdr-Zdff5kvF0__dkfCO5MteENpXVdLMsSrO_&nostub=1
-#EXTINF:0 tvg-id="ch2892" tvg-name="CA: BNN Bloomberg HD" tvg-logo="https://rus.hls.gd/images/chIcons/2892.png" tvg-rec="7", CA: BNN Bloomberg HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2892/mono.m3u8?token=rast875.v2_GWjPiAhT5s7fgrZAy0nX7dPO7jJ0XrlLzADy6TdbHwad0h41qUKE9i2IZaUZO_6cS5UuEOWAFtX-&nostub=1
-#EXTINF:0 tvg-id="ch2399" tvg-name="CA: Bein Sports HD" tvg-logo="https://rus.hls.gd/images/chIcons/2399.png" tvg-rec="7", CA: Bein Sports HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2399/mono.m3u8?token=rast875.v2_o-nuI_dp9EwYfNlWzwRh1cplYDR54L9AH-_KAYLAYy0i11pcrqFk87a2gnMFUnrwDqAFNz-rRbFp&nostub=1
-#EXTINF:0 tvg-id="ch2505" tvg-name="CA: Canal D HD" tvg-logo="https://rus.hls.gd/images/chIcons/2505.png" tvg-rec="7", CA: Canal D HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2505/mono.m3u8?token=rast875.v2__dKTbu8oB8wD5Nl9hnY4HPCZUxwHAeuRI8HDcII9EEnnHsvEGuVRrhuaJs-UwLqp1g_FMqPg2iVc&nostub=1
-#EXTINF:0 tvg-id="ch519" tvg-name="CA: Cottage Life HD" tvg-logo="https://rus.hls.gd/images/chIcons/519.png" tvg-rec="7", CA: Cottage Life HD
-#EXTGRP:Canada
-https://15.hls.gd/ch519/mono.m3u8?token=rast875.v2_I3PGp1JRRCGwxpGINIT9lETUKI7hsjRVgSWvN5XaSxnYVFAfwdQ0Si36rbQzy2Y1PvnqwA1ht-k&nostub=1
-#EXTINF:0 tvg-id="ch2493" tvg-name="CA: CBC News Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/2493.png" tvg-rec="7", CA: CBC News Network HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2493/mono.m3u8?token=rast875.v2_5xxHY45LsDz1yNf0ngmXYhTTRN5mX0WCvl43yLGMPe6wsIcgnuOZPicHixrXjqC9GtQiyuZczpvZ&nostub=1
-#EXTINF:0 tvg-id="ch3346" tvg-name="CA: CBC Calgary HD" tvg-logo="https://rus.hls.gd/images/chIcons/3346.png" tvg-rec="7", CA: CBC Calgary HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3346/mono.m3u8?token=rast875.v2_DATmI_k1ur-iHaYilq29SUZt0LOIyNpvXsyUaPaPlgxnhGUc5kMxWzEAGqNgfPx5H3sVOIfUsnSn&nostub=1
-#EXTINF:0 tvg-id="ch3338" tvg-name="CA: CBC Toronto HD" tvg-logo="https://rus.hls.gd/images/chIcons/3338.png" tvg-rec="7", CA: CBC Toronto HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3338/mono.m3u8?token=rast875.v2_OxHrs1B8izm5Y1WX0BbEV5Fb4qavDjkuj-jKFKJ8A3ZvYsZpXUGIaTlr5h1okn7VMKfhjYlqZuKe&nostub=1
-#EXTINF:0 tvg-id="ch2883" tvg-name="CA: CPAC English HD" tvg-logo="https://rus.hls.gd/images/chIcons/2883.png" tvg-rec="7", CA: CPAC English HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2883/mono.m3u8?token=rast875.v2_eodpD8qY2nj0M_gaXJrsxOPXsuJdSC5ZhXcagnj7IdcKU-E-dQIEonz_bkhigBVHAIdHmiIsE7Zq&nostub=1
 #EXTINF:0 tvg-id="ch2891" tvg-name="CA: Crave 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2891.png" tvg-rec="7", CA: Crave 1 HD
-#EXTGRP:Canada
+#EXTGRP:1. Movies
 https://15.hls.gd/ch2891/mono.m3u8?token=rast875.v2_03otXha0ref4luYJ3moKQow0-sI6eDyp0kUbO3G0wAbVVpOITLYBtE0_47ufNhA2huoHw4g1fKCl&nostub=1
 #EXTINF:0 tvg-id="ch1427" tvg-name="CA: Crave 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1427.png" tvg-rec="7", CA: Crave 2 HD
-#EXTGRP:Canada
+#EXTGRP:1. Movies
 https://15.hls.gd/ch1427/mono.m3u8?token=rast875.v2_MVtoOh8PwBW1T1lLZxHpWxjbp2EJ_73KD1zdpIWv9c8QHUf5weLSgdI3SC4ggSu6x4wKpxVDOqhx&nostub=1
 #EXTINF:0 tvg-id="ch1295" tvg-name="CA: Crave 3 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1295.png" tvg-rec="7", CA: Crave 3 HD
-#EXTGRP:Canada
+#EXTGRP:1. Movies
 https://15.hls.gd/ch1295/mono.m3u8?token=rast875.v2_FuNzWyRibWKvMK24wRWTq2WmdAmhMX8u66HzgcP1-u5OS4rR9wfDjgVxsNWa-uKYojjxRTX78rUe&nostub=1
-#EXTINF:0 tvg-id="ch1272" tvg-name="CA: CTV News Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/1272.png" tvg-rec="7", CA: CTV News Channel HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1272/mono.m3u8?token=rast875.v2_7TemQmda0g31uN_FYNw2uY-cFwN_GASlFNzAsFmspSFKIWUyhwAraCBNZ5khowfpK1rcWRsLW36P&nostub=1
-#EXTINF:0 tvg-id="ch4114" tvg-name="CA: CTV Toronto HD" tvg-logo="https://rus.hls.gd/images/chIcons/4114.png" tvg-rec="7", CA: CTV Toronto HD
-#EXTGRP:Canada
-https://15.hls.gd/ch4114/mono.m3u8?token=rast875.v2__WSC4Tg2Ui7FlLxCc7kd6onmYGilwZQ_5ddaV3uAcelpWxMUM-3xIERuzcG5w9dreET5pKfB_2Za&nostub=1
-#EXTINF:0 tvg-id="ch3344" tvg-name="CA: CTV Comedy Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/3344.png" tvg-rec="7", CA: CTV Comedy Channel HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3344/mono.m3u8?token=rast875.v2_V0NzEeqwNr8AnqxMbANmxb-kG36T1cwwOsOpssvd-oBZzIbsRnX9XbA-YySSg67ecPGVD-XDMlo2&nostub=1
-#EXTINF:0 tvg-id="ch2890" tvg-name="CA: CTV Drama Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/2890.png" tvg-rec="7", CA: CTV Drama Channel HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2890/mono.m3u8?token=rast875.v2_WsFtVH50vdl0PAZup6ccu5JEAZEBY7wFerGG6bJJTTM7smNVrJy2DIzPPWSaECnmByH8iAJ58wvT&nostub=1
-#EXTINF:0 tvg-id="ch2509" tvg-name="CA: CTV Sci-Fi Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/2509.png" tvg-rec="7", CA: CTV Sci-Fi Channel HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2509/mono.m3u8?token=rast875.v2_OCVBtgpOObMCuSR52XaCYrZGQxvNboFpEaS0_TyzR4JZK2c230Cvel-b08PcTLxb7kPpxJmyHZ_n&nostub=1
-#EXTINF:0 tvg-id="ch1437" tvg-name="CA: CTV Nature HD" tvg-logo="https://rus.hls.gd/images/chIcons/1437.png" tvg-rec="7", CA: CTV Nature HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1437/mono.m3u8?token=rast875.v2_C6u_50gAZLU_jc0bdkv7skdYjyldX6dR5gkDT-YHmtZA90q7Hioy05e1og9DBqcFmCZGq_CG7FwJ&nostub=1
-#EXTINF:0 tvg-id="ch2889" tvg-name="CA: CTV Wild HD" tvg-logo="https://rus.hls.gd/images/chIcons/2889.png" tvg-rec="7", CA: CTV Wild HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2889/mono.m3u8?token=rast875.v2_MAl2C9ZOA56c80_5-NyDRh07KUTX9-sO0hoJ4Q6yas9q05M-BIetXpth9ClzQkgaDYepMtTlkGAC&nostub=1
-#EXTINF:0 tvg-id="ch2506" tvg-name="CA: CTV Speed HD" tvg-logo="https://rus.hls.gd/images/chIcons/2506.png" tvg-rec="7", CA: CTV Speed HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2506/mono.m3u8?token=rast875.v2_splWiXBKX0-yvg_0saXjFjBII9JR5J42W3fbFJDv7EwKmFiRwp4YlKGPk5KNh2b_WjmjYlBztnkh&nostub=1
-#EXTINF:0 tvg-id="ch4115" tvg-name="CA: Citytv Toronto HD" tvg-logo="https://rus.hls.gd/images/chIcons/4115.png" tvg-rec="7", CA: Citytv Toronto HD
-#EXTGRP:Canada
-https://15.hls.gd/ch4115/mono.m3u8?token=rast875.v2_Aj4BLf68yUk7YHyoqMamocoqeS9O0J8MXFf_qpOfVtOumwVqHKNpNSnBkfvVOwTD-yKwZQmDRJkV&nostub=1
-#EXTINF:0 tvg-id="ch4116" tvg-name="CA: Citytv Vancouver HD" tvg-logo="https://rus.hls.gd/images/chIcons/4116.png" tvg-rec="7", CA: Citytv Vancouver HD
-#EXTGRP:Canada
-https://15.hls.gd/ch4116/mono.m3u8?token=rast875.v2_qaTU-PM4ASiiYM_1XNSBg8I-o2QCh9wnJ__y-Crvu2gYJMFaJzdPEYw-vqd_STydNnFbS0g3mbXv&nostub=1
-#EXTINF:0 tvg-id="ch2503" tvg-name="CA: Crime + Investigation HD" tvg-logo="https://rus.hls.gd/images/chIcons/2503.png" tvg-rec="7", CA: Crime + Investigation HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2503/mono.m3u8?token=rast875.v2_NcuZ0h8HZFvTNLKiLKDyjBJIUgiLPU3SLlO7FKlMjCG6O6GCZ90yl3ENEGbIqv-af7q7UDBG5ZX0&nostub=1
-#EXTINF:0 tvg-id="ch3291" tvg-name="CA: CMT HD" tvg-logo="https://rus.hls.gd/images/chIcons/3291.png" tvg-rec="7", CA: CMT HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3291/mono.m3u8?token=rast875.v2_NdzpdMC7CEIiBm-gG8zLnfJAYNsC1J8MUgGRTUWFqtPpj9rHvjJ9Z3ju8vBaxuKakAWv-F9zIAkg&nostub=1
-#EXTINF:0 tvg-id="ch4119" tvg-name="CA: CW New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/4119.png" tvg-rec="7", CA: CW New York HD
-#EXTGRP:Canada
-https://15.hls.gd/ch4119/mono.m3u8?token=rast875.v2_3qrZ8QSxeEOuW28yPB8a2MlARWyBtS_DrETxGUYQ8Fyw9_yHC2NpZOsgCOlf1X_s4nRWbrHgVKp-&nostub=1
-#EXTINF:0 tvg-id="ch2878" tvg-name="CA: Disney HD" tvg-logo="https://rus.hls.gd/images/chIcons/2878.png" tvg-rec="7", CA: Disney HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2878/mono.m3u8?token=rast875.v2_P3kNKxOkjybosOi7N5os48mepkRjRiNsvt46XjJrGT2idUEzPoPfaSzbViXQgossvG5q_Ktc-bGN&nostub=1
-#EXTINF:0 tvg-id="ch1438" tvg-name="CA: Documentary HD" tvg-logo="https://rus.hls.gd/images/chIcons/1438.png" tvg-rec="7", CA: Documentary HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1438/mono.m3u8?token=rast875.v2_UOOGej3F0t5zNJVTO-mGT1aJ7NdMPZ6kXk85Pk7ipi6gQY0MJzj6vcUCZoTtLWlchRt7n916ZPQX&nostub=1
-#EXTINF:0 tvg-id="ch3341" tvg-name="CA: Dejaview HD" tvg-logo="https://rus.hls.gd/images/chIcons/3341.png" tvg-rec="7", CA: Dejaview HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3341/mono.m3u8?token=rast875.v2_vxoKJmfwemnQS_bDD45caIaSv-I-gl8MWSyzZ67-yfxEo4VLTHoKpntSk5JBT36Me3H_EueTjRbQ&nostub=1
-#EXTINF:0 tvg-id="ch2893" tvg-name="CA: Dtour HD" tvg-logo="https://rus.hls.gd/images/chIcons/2893.png" tvg-rec="7", CA: Dtour HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2893/mono.m3u8?token=rast875.v2_jGNw47HUMALCjXk8Q6e-pM_8HzdFxw2nFxjm_OopZXHU0Gwf3B0PtoyDVY-lOQdsRmNdM-JNhFg5&nostub=1
-#EXTINF:0 tvg-id="ch3343" tvg-name="CA: FX HD" tvg-logo="https://rus.hls.gd/images/chIcons/3343.png" tvg-rec="7", CA: FX HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3343/mono.m3u8?token=rast875.v2_J9bR2OBRoEirQw0zdkUPtJN6jBxJS0ncRTo1dNhhmb4UQbsTiVKIHjbxhI0QuoRoyHfRZYri7yqV&nostub=1
-#EXTINF:0 tvg-id="ch1187" tvg-name="CA: FXX HD" tvg-logo="https://rus.hls.gd/images/chIcons/1187.png" tvg-rec="7", CA: FXX HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1187/mono.m3u8?token=rast875.v2_qT-EOuXEuyjbHaDsyjUPTw9AHPlF77LQccGK7XPR6oO0rOXUhg1hP6yAwbVrCd9z2zFd_rATDXet&nostub=1
-#EXTINF:0 tvg-id="ch1180" tvg-name="CA: Flavour Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1180.png" tvg-rec="7", CA: Flavour Network HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1180/mono.m3u8?token=rast875.v2_MN941M_eKPlh9kIo0Fo7lm2ufhUdIfWTWIHO0eqsx-SdfrdMZKv5BXqoFgxRQkPGwwDIlZvN4SLl&nostub=1
-#EXTINF:0 tvg-id="ch3290" tvg-name="CA: GSN HD" tvg-logo="https://rus.hls.gd/images/chIcons/3290.png" tvg-rec="7", CA: GSN HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3290/mono.m3u8?token=rast875.v2_KJyjApViFNVujdp6lGt75AafHHxH7enJwACzOCZRPXUo3K3PRKDaFFBr6oGo3ptkw-1Zq8iGZR4T&nostub=1
-#EXTINF:0 tvg-id="ch2507" tvg-name="CA: Global Toronto HD" tvg-logo="https://rus.hls.gd/images/chIcons/2507.png" tvg-rec="7", CA: Global Toronto HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2507/mono.m3u8?token=rast875.v2_ZRJ7i45aqAlhYA3XKysIpS-8W0VLOZKpsBjY6ALNGPBGVHEaEbrL5zgDAGc5D43JFm1FD79n1RY-&nostub=1
-#EXTINF:0 tvg-id="ch128" tvg-name="CA: GameTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/128.png" tvg-rec="7", CA: GameTV HD
-#EXTGRP:Canada
-https://15.hls.gd/ch128/mono.m3u8?token=rast875.v2_n2nrOcjaaJUO8Yqu7C3iWEem9NMOrrpD1NVOc7Pj3SsRSPro9y3Wu4bov-FkEMLvVufrGhLXkvI&nostub=1
-#EXTINF:0 tvg-id="ch2492" tvg-name="CA: HLN HD" tvg-logo="https://rus.hls.gd/images/chIcons/2492.png" tvg-rec="7", CA: HLN HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2492/mono.m3u8?token=rast875.v2_F7-TzgQ1HyQfbMZL5EFTjPBXjrx1BGzHdl5S_Kv4d-RPxA26DRJDUp2LrZCiyY7pWhU_UvrSWxI5&nostub=1
 #EXTINF:0 tvg-id="ch2887" tvg-name="CA: HBO 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2887.png" tvg-rec="7", CA: HBO 1 HD
-#EXTGRP:Canada
+#EXTGRP:1. Movies
 https://15.hls.gd/ch2887/mono.m3u8?token=rast875.v2__RMOMpJ0V3BYIhx0iszmRK1qWFpAxPVqVZW53rj-7f8dhu3RnFaAvDY1MSDca-Oxj2jfwpCXHeWm&nostub=1
 #EXTINF:0 tvg-id="ch3348" tvg-name="CA: HBO 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3348.png" tvg-rec="7", CA: HBO 2 HD
-#EXTGRP:Canada
+#EXTGRP:1. Movies
 https://15.hls.gd/ch3348/mono.m3u8?token=rast875.v2_CpsZuXdz_Banm_UZUwrWs9bjyvN6k3_4qBoDR19wR6OnJifyXjNoxrDskQcpsfrIyjDIASQ0tb_w&nostub=1
-#EXTINF:0 tvg-id="ch2621" tvg-name="CA: Hollywood Suite 70s HD" tvg-logo="https://rus.hls.gd/images/chIcons/2621.png" tvg-rec="7", CA: Hollywood Suite 70s HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2621/mono.m3u8?token=rast875.v2__WbBY-bSV7m8_mczBrQj9SnU3ZUrz9mRNgMUN-V9mwFDBNN9uLoDFCFwbt3v-cfSqUriGXzZWEgp&nostub=1
-#EXTINF:0 tvg-id="ch3345" tvg-name="CA: Hollywood Suite 80s HD" tvg-logo="https://rus.hls.gd/images/chIcons/3345.png" tvg-rec="7", CA: Hollywood Suite 80s HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3345/mono.m3u8?token=rast875.v2_QRB_F8oT_htXrdU_07-W1Em36blOehjUSqteOK_YKmNHdk2CG5LWMjCqYecHQNWsrJanwZ78wvdo&nostub=1
-#EXTINF:0 tvg-id="ch1179" tvg-name="CA: Hollywood Suite 90s HD" tvg-logo="https://rus.hls.gd/images/chIcons/1179.png" tvg-rec="7", CA: Hollywood Suite 90s HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1179/mono.m3u8?token=rast875.v2_YCTa7Pz1LpUAVXE-jFsSqCdau7zD2a6F0Z9E1AVro0BEcy7SXVEk5V4_RbDE3U3ZP5_nuobifTU2&nostub=1
-#EXTINF:0 tvg-id="ch1435" tvg-name="CA: Hollywood Suite 2000s HD" tvg-logo="https://rus.hls.gd/images/chIcons/1435.png" tvg-rec="7", CA: Hollywood Suite 2000s HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1435/mono.m3u8?token=rast875.v2_VNwrwkKG874hJC9Mq6-LlrIFO8K0aldfA9T6UWp9s0-azMSePTWyTFIbkf4riRvzLOfHrdzTSPtb&nostub=1
-#EXTINF:0 tvg-id="ch2888" tvg-name="CA: H2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2888.png" tvg-rec="7", CA: H2 HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2888/mono.m3u8?token=rast875.v2_ppeIGMa9aLH3GmGMQxzpazvuQCARvpxRoNof8MTWNgewaa1Ug6T3vUkhhDDuKC5uTcsfkXEqnRN-&nostub=1
-#EXTINF:0 tvg-id="ch2508" tvg-name="CA: Historia HD" tvg-logo="https://rus.hls.gd/images/chIcons/2508.png" tvg-rec="7", CA: Historia HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2508/mono.m3u8?token=rast875.v2_DJhYa2YwUj3Ngu4MsDUxwUbwBGkCMhnpFT_0bMF5fqCd1wuJr7gRYwEJApfZ7g0lCTQsCFnirPPV&nostub=1
-#EXTINF:0 tvg-id="ch2927" tvg-name="CA: Inultra 4K" tvg-logo="https://rus.hls.gd/images/chIcons/2927.png" tvg-rec="0", CA: Inultra 4K
-#EXTGRP:Canada
-https://15.hls.gd/ch2927/mono.m3u8?token=rast875.v2_vQ6hHH2RRrV7oGz-lyqzfzXlh-csnOEmaYQjVb1ufYBUY66Y-pb2bdXfes7lde49_h9QtrHVTyzQ&nostub=1
-#EXTINF:0 tvg-id="ch1550" tvg-name="CA: MSNBC HD" tvg-logo="https://rus.hls.gd/images/chIcons/1550.png" tvg-rec="7", CA: MSNBC HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1550/mono.m3u8?token=rast875.v2_Ps0fddc3xHYQsgvtqyHkkoHJT0166b2UYofjjLUYohqlyhO-jt6OFCxsZrngRX-Lq8kcodbS09aw&nostub=1
-#EXTINF:0 tvg-id="ch3347" tvg-name="CA: MotorSport 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3347.png" tvg-rec="0", CA: MotorSport 1 HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3347/mono.m3u8?token=rast875.v2_IN2SH2hM2BAujR_B3xdFCCciz-fgljddxhT50cFihBMcHvDiYGl9SmiLK-xF6PgFkCFZFhMu9CXU&nostub=1
-#EXTINF:0 tvg-id="ch3330" tvg-name="CA: Much HD" tvg-logo="https://rus.hls.gd/images/chIcons/3330.png" tvg-rec="0", CA: Much HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3330/mono.m3u8?token=rast875.v2_s8bhRYcHsCMVfB4tUDW0rPSFn3ewcsK6ZKr67j0EjszfCm0ttqwuThYecRxq24DewLwth7MzvLUs&nostub=1
-#EXTINF:0 tvg-id="ch1551" tvg-name="CA: Museum HD" tvg-logo="https://rus.hls.gd/images/chIcons/1551.png" tvg-rec="0", CA: Museum HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1551/mono.m3u8?token=rast875.v2_XoMvOXKeOKJh0H-cZ4Gh3XkINk7yP4cmF6nHMbyb0-brtLHDwBPzYC4baBWnMXox92GDNku0ZvqV&nostub=1
-#EXTINF:0 tvg-id="ch4118" tvg-name="CA: National Geographic HD" tvg-logo="https://rus.hls.gd/images/chIcons/4118.png" tvg-rec="7", CA: National Geographic HD
-#EXTGRP:Canada
-https://15.hls.gd/ch4118/mono.m3u8?token=rast875.v2_2OZokV3pxVnWdasVHS9kCCt2TNi5bUoj_aLL7d1DpN7ZJJMLqXFNRV4kXDqAAYcKK3XnxS8cD4NN&nostub=1
-#EXTINF:0 tvg-id="ch2895" tvg-name="CA: National Geographic Wild HD" tvg-logo="https://rus.hls.gd/images/chIcons/2895.png" tvg-rec="7", CA: National Geographic Wild HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2895/mono.m3u8?token=rast875.v2_iXURpS2m5lJuaMPkoxNNEdC1gVvySIBMqhp7e-ZvaNoJtBVRYY2vKePNCzFQqykGfVkq_ZpZfbv5&nostub=1
-#EXTINF:0 tvg-id="ch3340" tvg-name="CA: NTV St John HD" tvg-logo="https://rus.hls.gd/images/chIcons/3340.png" tvg-rec="7", CA: NTV St John HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3340/mono.m3u8?token=rast875.v2_seWB_mIup8jeZI9Z4dq-ODK-iPaZNRHqiXmEXwvdcupN7XZsS4n-8X4HP_NVgZxDZm2-ZwikpBH8&nostub=1
-#EXTINF:0 tvg-id="ch1196" tvg-name="CA: NBA TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/1196.png" tvg-rec="7", CA: NBA TV HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1196/mono.m3u8?token=rast875.v2_OxguRfxsnTzQ9gl-p2u2kL-74YPYvPex0E_-7sLIXXE1oNNHWfg2xOb-kZSJA9jMD4ANFOBRDcC9&nostub=1
-#EXTINF:0 tvg-id="ch2740" tvg-name="CA: Now 70s HD" tvg-logo="https://rus.hls.gd/images/chIcons/2740.png" tvg-rec="0", CA: Now 70s HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2740/mono.m3u8?token=rast875.v2_U18bbQJlEEBwT2hbxlXG7YI9tREbk_f1_l_79yqA9B8jQgWQz2eBryVVUzt8T4odQ3eh3Gf6qQsC&nostub=1
-#EXTINF:0 tvg-id="ch2739" tvg-name="CA: Now 80s HD" tvg-logo="https://rus.hls.gd/images/chIcons/2739.png" tvg-rec="0", CA: Now 80s HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2739/mono.m3u8?token=rast875.v2_Fcq0uBQmzCUNDbwQFxDdPsahumUlOeLiDQMyQpi2PYB2Tq5-pN3nKfvRqMuv3zp_9vNY3A3FZW1c&nostub=1
-#EXTINF:0 tvg-id="ch2738" tvg-name="CA: Now Rock HD" tvg-logo="https://rus.hls.gd/images/chIcons/2738.png" tvg-rec="0", CA: Now Rock HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2738/mono.m3u8?token=rast875.v2_mlnkJ1dCTgnjO1IRpryRDWdOSHwvGXMH4hDgui2yss-yWTNvxhSc71UVvGo6YbKC2eiZQaP7K5Lq&nostub=1
-#EXTINF:0 tvg-id="ch3292" tvg-name="CA: One HD" tvg-logo="https://rus.hls.gd/images/chIcons/3292.png" tvg-rec="7", CA: One HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3292/mono.m3u8?token=rast875.v2_T7IlKT_j09n0XzWv4EGQy5RdLqTyOB7wX9i0xPb0FyNxW3Z17N35W8pffsGhGS9rC3q-EQAdxd6G&nostub=1
-#EXTINF:0 tvg-id="ch1434" tvg-name="CA: One Soccer HD" tvg-logo="https://rus.hls.gd/images/chIcons/1434.png" tvg-rec="7", CA: One Soccer HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1434/mono.m3u8?token=rast875.v2_ABgTk3gkbRmcq72Vn9Dgd6y3k49dmbmaiTYQ1QRYzVym4GFbJKeayxl46WcNLJWiRQp3Dmdf6-uH&nostub=1
-#EXTINF:0 tvg-id="ch3173" tvg-name="CA: Oxygen True Crime HD" tvg-logo="https://rus.hls.gd/images/chIcons/3173.png" tvg-rec="7", CA: Oxygen True Crime HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3173/mono.m3u8?token=rast875.v2_D22BWRBbMr_k478e1Cap5J7Gv9sMeU_dyJigQ7IQD9Hcbm4lxqTr_xBHUgcLgw7pSrLaVmuJZOrB&nostub=1
-#EXTINF:0 tvg-id="ch4120" tvg-name="CA: PBS Boston HD" tvg-logo="https://rus.hls.gd/images/chIcons/4120.png" tvg-rec="0", CA: PBS Boston HD
-#EXTGRP:Canada
-https://15.hls.gd/ch4120/mono.m3u8?token=rast875.v2_U5sP--v-FT5BFkmeQWX8vB64E4LW9-Gs0t6I_X9d4t8-Ly4H86DXyYLEoJiQDfC4fXglIlSmrf1a&nostub=1
-#EXTINF:0 tvg-id="ch3293" tvg-name="CA: Peachtree HD" tvg-logo="https://rus.hls.gd/images/chIcons/3293.png" tvg-rec="7", CA: Peachtree HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3293/mono.m3u8?token=rast875.v2_uS5s06gRg0wl1hEWyqoVZK16ggZir5pbY84xbxJjSx-Qq4fSm12veWEzQw_hotIAZ5ldqEOlf7GG&nostub=1
-#EXTINF:0 tvg-id="ch2894" tvg-name="CA: REV TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/2894.png" tvg-rec="7", CA: REV TV HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2894/mono.m3u8?token=rast875.v2_unmwgsyQ0QlIPC8VNEdASMJn4Ekehtilb9Q3VdiDSOPiTyFsilUx0uQeoLbIZ701lYW2viu7vgy0&nostub=1
-#EXTINF:0 tvg-id="ch4117" tvg-name="CA: Radio-Canada Montreal HD" tvg-logo="https://rus.hls.gd/images/chIcons/4117.png" tvg-rec="7", CA: Radio-Canada Montreal HD
-#EXTGRP:Canada
-https://15.hls.gd/ch4117/mono.m3u8?token=rast875.v2_IwKm15JtSv_NxA8fN_wT2kGTSKXXiiSmIsYPVYo2roTEAmCWonWgWYai52RNBLhmS8TinqSj0pxx&nostub=1
 #EXTINF:0 tvg-id="ch2622" tvg-name="CA: Showcase HD" tvg-logo="https://rus.hls.gd/images/chIcons/2622.png" tvg-rec="7", CA: Showcase HD
-#EXTGRP:Canada
+#EXTGRP:1. Movies
 https://15.hls.gd/ch2622/mono.m3u8?token=rast875.v2_7sKrUsk-bxt1JsKLxARUUPNjWK1JHaz2oL220gh3x3kf2EGsmLNHRByHKg5hJl8SAT9Jqh1hx3qj&nostub=1
 #EXTINF:0 tvg-id="ch1294" tvg-name="CA: Super Channel Fuse HD" tvg-logo="https://rus.hls.gd/images/chIcons/1294.png" tvg-rec="7", CA: Super Channel Fuse HD
-#EXTGRP:Canada
+#EXTGRP:1. Movies
 https://15.hls.gd/ch1294/mono.m3u8?token=rast875.v2_QKdJ9AahPSqYAGi4U93_BB8E_AwZQk8zECNyi4GPqK3qfOZFnOjnLPbqW6q6RbjdSGUhfjcQYQfX&nostub=1
 #EXTINF:0 tvg-id="ch1439" tvg-name="CA: Super Channel Vault HD" tvg-logo="https://rus.hls.gd/images/chIcons/1439.png" tvg-rec="7", CA: Super Channel Vault HD
-#EXTGRP:Canada
+#EXTGRP:1. Movies
 https://15.hls.gd/ch1439/mono.m3u8?token=rast875.v2_S3BxVw7W9aCj_sKcj8J97AfbaWxrVfJ6MWL87icKSA5lGDJzRCvGzhR97rhyBwIaKtqmgylJ14kb&nostub=1
+#EXTINF:0 tvg-id="ch2164" tvg-name="UK: Sky Cinema Action" tvg-logo="https://rus.hls.gd/images/chIcons/2164.png" tvg-rec="6", UK: Sky Cinema Action
+#EXTGRP:2. Action
+https://15.hls.gd/ch2164/mono.m3u8?token=rast875.v2_T8K1vaJcyTTLRcprS3t5AcZlWV6uzIoO_2NNHIwD1T1kJseKrIFzkUECqGvQxU5uRQzrATM6SI17&nostub=1
+#EXTINF:0 tvg-id="ch2173" tvg-name="UK: Sky Cinema Thriller" tvg-logo="https://rus.hls.gd/images/chIcons/2173.png" tvg-rec="6", UK: Sky Cinema Thriller
+#EXTGRP:2. Action
+https://15.hls.gd/ch2173/mono.m3u8?token=rast875.v2_xwy1hYV9YFv0Gt8F1V1tNOSUkbvioevEjNkLnbGIoSdOpJz3_nzmgCG2Qw8ACnDcr4ktIco_sct6&nostub=1
+#EXTINF:0 tvg-id="ch2265" tvg-name="US: Cinemax Action HD" tvg-logo="https://rus.hls.gd/images/chIcons/2265.png" tvg-rec="3", US: Cinemax Action HD
+#EXTGRP:2. Action
+https://15.hls.gd/ch2265/mono.m3u8?token=rast875.v2_CYwVtm4auPHKk9YQ4oMBpt0x7m35KUiXLHyjqdmET67G-hx6XfhwKQ5P5O5K8foiPotPGSP9Fg_r&nostub=1
+#EXTINF:0 tvg-id="ch2159" tvg-name="US: STARZ Cinema HD" tvg-logo="https://rus.hls.gd/images/chIcons/2159.png" tvg-rec="3", US: STARZ Cinema HD
+#EXTGRP:2. Action
+https://15.hls.gd/ch2159/mono.m3u8?token=rast875.v2_F1zRTr5K3HnL-GLyUv7slL91vQcvP1EjRWpcncFnquKNt68dC22kHdeOxjVC_MlNQnJbA7tv8NuD&nostub=1
+#EXTINF:0 tvg-id="ch2260" tvg-name="US: STARZ Edge HD" tvg-logo="https://rus.hls.gd/images/chIcons/2260.png" tvg-rec="3", US: STARZ Edge HD
+#EXTGRP:2. Action
+https://15.hls.gd/ch2260/mono.m3u8?token=rast875.v2_G4k4bQAHYRz462psWYRn4wUCcFTfUTcyBt6ikcz03riXVdqgMMxj_ADSPxZe0KSzwY7k2UnDHvvr&nostub=1
+#EXTINF:0 tvg-id="ch2258" tvg-name="US: STARZ Encore East HD" tvg-logo="https://rus.hls.gd/images/chIcons/2258.png" tvg-rec="3", US: STARZ Encore East HD
+#EXTGRP:2. Action
+https://15.hls.gd/ch2258/mono.m3u8?token=rast875.v2_PtH1q1qNrF4QcCSyuC6pZXl76T6-ryszSpkXLhrf7P-gt3QTWq8QSZ0YOhytrJH5bMIGOUS6TyDZ&nostub=1
+#EXTINF:0 tvg-id="ch2257" tvg-name="US: STARZ Encore Action HD" tvg-logo="https://rus.hls.gd/images/chIcons/2257.png" tvg-rec="3", US: STARZ Encore Action HD
+#EXTGRP:2. Action
+https://15.hls.gd/ch2257/mono.m3u8?token=rast875.v2_mXymnYuEllKrWdXrqWZLxE5fIWZcBsFDk9SfXPK2yxGpvsBIUrsDDUJ_lStgYhVBicqzo75RDnvU&nostub=1
+#EXTINF:0 tvg-id="ch2179" tvg-name="US: STARZ Encore Suspense HD" tvg-logo="https://rus.hls.gd/images/chIcons/2179.png" tvg-rec="3", US: STARZ Encore Suspense HD
+#EXTGRP:2. Action
+https://15.hls.gd/ch2179/mono.m3u8?token=rast875.v2_gC3GN9kGQHXnIhQJDdVlsvmp9yj37GFYk8BKALEoyszEjrA5UmZRaIujyxKWJT9a-mOXyDaS6MGt&nostub=1
+#EXTINF:0 tvg-id="ch2180" tvg-name="US: STARZ Encore West HD" tvg-logo="https://rus.hls.gd/images/chIcons/2180.png" tvg-rec="3", US: STARZ Encore West HD
+#EXTGRP:2. Action
+https://15.hls.gd/ch2180/mono.m3u8?token=rast875.v2_EvHIbx_78Wx_c7eTOTvbDVQcO0JijYg9NyoLUd-CNf1GKR-3QsZ4ln0wYXq5CAS03oK15MaoZFk9&nostub=1
+#EXTINF:0 tvg-id="ch2181" tvg-name="US: STARZ Encore Westerns HD" tvg-logo="https://rus.hls.gd/images/chIcons/2181.png" tvg-rec="3", US: STARZ Encore Westerns HD
+#EXTGRP:2. Action
+https://15.hls.gd/ch2181/mono.m3u8?token=rast875.v2_ygt5zoZQwUsmukwtmaNaS58ttdCPjZyGquzXL6bb3vlRsHBQ8PAqsTruBkCVguq-ACsEKLAkfXCE&nostub=1
+#EXTINF:0 tvg-id="ch2165" tvg-name="UK: Sky Cinema Animation" tvg-logo="https://rus.hls.gd/images/chIcons/2165.png" tvg-rec="6", UK: Sky Cinema Animation
+#EXTGRP:3. Drama
+https://15.hls.gd/ch2165/mono.m3u8?token=rast875.v2_7g6mMQf6rDXdQeCgvFKw348GrF0_gsbUVlg3HgvtbasqE-uO7fg7UN8AzN5L--z5OMLLRLq4IL9C&nostub=1
+#EXTINF:0 tvg-id="ch2166" tvg-name="UK: Sky Cinema Drama" tvg-logo="https://rus.hls.gd/images/chIcons/2166.png" tvg-rec="6", UK: Sky Cinema Drama
+#EXTGRP:3. Drama
+https://15.hls.gd/ch2166/mono.m3u8?token=rast875.v2_mO30_3ve89PaxWwU-LdV9MRQDRtFdHvvYduCCJqraDGV1AVl8fzR46CmJnDDyVd-K_DFmx7NRdT_&nostub=1
+#EXTINF:0 tvg-id="ch2266" tvg-name="US: Cinemax Classics HD" tvg-logo="https://rus.hls.gd/images/chIcons/2266.png" tvg-rec="3", US: Cinemax Classics HD
+#EXTGRP:3. Drama
+https://15.hls.gd/ch2266/mono.m3u8?token=rast875.v2_ptCFaX_QJTLXptfOulkUJsUjovT4RRiikYmJA7_7KJkiXGHXvTfpGOvqmnY4Lr6EClUhKiVMzwwI&nostub=1
+#EXTINF:0 tvg-id="ch2263" tvg-name="US: STARZ in Black HD" tvg-logo="https://rus.hls.gd/images/chIcons/2263.png" tvg-rec="3", US: STARZ in Black HD
+#EXTGRP:3. Drama
+https://15.hls.gd/ch2263/mono.m3u8?token=rast875.v2_8EFs-Y8xqfhbLkENooaB5qtycueUS0lqG_A1R1Drw7tCvJotpe26Zqqp6iHG8VH2IPY5Yr3RayuZ&nostub=1
+#EXTINF:0 tvg-id="ch2178" tvg-name="US: STARZ Encore Classic HD" tvg-logo="https://rus.hls.gd/images/chIcons/2178.png" tvg-rec="3", US: STARZ Encore Classic HD
+#EXTGRP:3. Drama
+https://15.hls.gd/ch2178/mono.m3u8?token=rast875.v2_yIEi88x_9NFMNMfVxdm8gs6diXEwZY0P8K_WikYfsqioVCkEJXRIa5QHsZWPNYcjR0RxTY8JZr_H&nostub=1
+#EXTINF:0 tvg-id="ch2177" tvg-name="US: STARZ Encore Black HD" tvg-logo="https://rus.hls.gd/images/chIcons/2177.png" tvg-rec="3", US: STARZ Encore Black HD
+#EXTGRP:3. Drama
+https://15.hls.gd/ch2177/mono.m3u8?token=rast875.v2_zoUlSCiw9d80LJoe3IICQgOLPcqeKQPW5Klht6bkC1jWJWWyCf203qiAQOECwy4p7wMENvp3AxgR&nostub=1
+#EXTINF:0 tvg-id="ch3341" tvg-name="CA: Dejaview HD" tvg-logo="https://rus.hls.gd/images/chIcons/3341.png" tvg-rec="7", CA: Dejaview HD
+#EXTGRP:3. Drama
+https://15.hls.gd/ch3341/mono.m3u8?token=rast875.v2_vxoKJmfwemnQS_bDD45caIaSv-I-gl8MWSyzZ67-yfxEo4VLTHoKpntSk5JBT36Me3H_EueTjRbQ&nostub=1
+#EXTINF:0 tvg-id="ch2621" tvg-name="CA: Hollywood Suite 70s HD" tvg-logo="https://rus.hls.gd/images/chIcons/2621.png" tvg-rec="7", CA: Hollywood Suite 70s HD
+#EXTGRP:3. Drama
+https://15.hls.gd/ch2621/mono.m3u8?token=rast875.v2__WbBY-bSV7m8_mczBrQj9SnU3ZUrz9mRNgMUN-V9mwFDBNN9uLoDFCFwbt3v-cfSqUriGXzZWEgp&nostub=1
+#EXTINF:0 tvg-id="ch3345" tvg-name="CA: Hollywood Suite 80s HD" tvg-logo="https://rus.hls.gd/images/chIcons/3345.png" tvg-rec="7", CA: Hollywood Suite 80s HD
+#EXTGRP:3. Drama
+https://15.hls.gd/ch3345/mono.m3u8?token=rast875.v2_QRB_F8oT_htXrdU_07-W1Em36blOehjUSqteOK_YKmNHdk2CG5LWMjCqYecHQNWsrJanwZ78wvdo&nostub=1
+#EXTINF:0 tvg-id="ch1179" tvg-name="CA: Hollywood Suite 90s HD" tvg-logo="https://rus.hls.gd/images/chIcons/1179.png" tvg-rec="7", CA: Hollywood Suite 90s HD
+#EXTGRP:3. Drama
+https://15.hls.gd/ch1179/mono.m3u8?token=rast875.v2_YCTa7Pz1LpUAVXE-jFsSqCdau7zD2a6F0Z9E1AVro0BEcy7SXVEk5V4_RbDE3U3ZP5_nuobifTU2&nostub=1
+#EXTINF:0 tvg-id="ch1435" tvg-name="CA: Hollywood Suite 2000s HD" tvg-logo="https://rus.hls.gd/images/chIcons/1435.png" tvg-rec="7", CA: Hollywood Suite 2000s HD
+#EXTGRP:3. Drama
+https://15.hls.gd/ch1435/mono.m3u8?token=rast875.v2_VNwrwkKG874hJC9Mq6-LlrIFO8K0aldfA9T6UWp9s0-azMSePTWyTFIbkf4riRvzLOfHrdzTSPtb&nostub=1
+#EXTINF:0 tvg-id="ch3349" tvg-name="CA: TCM HD" tvg-logo="https://rus.hls.gd/images/chIcons/3349.png" tvg-rec="7", CA: TCM HD
+#EXTGRP:3. Drama
+https://15.hls.gd/ch3349/mono.m3u8?token=rast875.v2_9HiFTh-8LZ6xHpyTDRiMwkcRWZEewJ20TNT_Y96hYwuzEN0iQ5o7WPvn8g6rui2YDLcHGfrw-0Gk&nostub=1
+#EXTINF:0 tvg-id="ch1006" tvg-name="UK: Comedy Central" tvg-logo="https://rus.hls.gd/images/chIcons/1006.png" tvg-rec="6", UK: Comedy Central
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch1006/mono.m3u8?token=rast875.v2_O6TqPO5dydAS9I5byvMG8OCWH7V00pJnH-IeFzQPQGFaDyc640hfqRGZ6Co_DGsJvxglsxh6RUSN&nostub=1
+#EXTINF:0 tvg-id="ch1015" tvg-name="UK: Dave HD" tvg-logo="https://rus.hls.gd/images/chIcons/1015.png" tvg-rec="7", UK: Dave HD
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch1015/mono.m3u8?token=rast875.v2_ll8uMWE6QjR2xb5uE_cgj-ljX87hj0-PAL3qCn7Z7r0qCTvRc9KxUgjkqDt21zk--yLe3LvRohOB&nostub=1
+#EXTINF:0 tvg-id="ch1021" tvg-name="UK: E4 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1021.png" tvg-rec="7", UK: E4 HD
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch1021/mono.m3u8?token=rast875.v2_KwJwgmgdo8EHKFZW58l_LaOJCmNXldpKV-k7Od5_Os6lnJVRb7G5X3ZDEkfMaaRLwRGGBxM6g2rB&nostub=1
+#EXTINF:0 tvg-id="ch1017" tvg-name="UK: Gold HD" tvg-logo="https://rus.hls.gd/images/chIcons/1017.png" tvg-rec="7", UK: Gold HD
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch1017/mono.m3u8?token=rast875.v2_7LlRXh8_Rn385wnUW-PSNcAJAU-pvhYdfVtJ-bQaYhp4NZjRxllrs2lafcKVAWbQMa4BE_Fia1if&nostub=1
+#EXTINF:0 tvg-id="ch3221" tvg-name="UK: Sky Comedy HD" tvg-logo="https://rus.hls.gd/images/chIcons/3221.png" tvg-rec="6", UK: Sky Comedy HD
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch3221/mono.m3u8?token=rast875.v2_CHp5c4zGyqeq9fb8yi79Z34gDrmlSoUfVDxMBUjvfb1xf4pGbmz6980YOGadRBKJaz1GTs-mRT8_&nostub=1
+#EXTINF:0 tvg-id="ch2133" tvg-name="UK: Sky Cinema Comedy HD" tvg-logo="https://rus.hls.gd/images/chIcons/2133.png" tvg-rec="6", UK: Sky Cinema Comedy HD
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch2133/mono.m3u8?token=rast875.v2_EJTg1yXTX9AYAp7USt8l-srue2M8APQwwINjLE5xdMwrH7rr-DftGXC9AsQcuvAMzKo4huLzThKl&nostub=1
+#EXTINF:0 tvg-id="ch2268" tvg-name="US: Cinemax Hits HD" tvg-logo="https://rus.hls.gd/images/chIcons/2268.png" tvg-rec="3", US: Cinemax Hits HD
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch2268/mono.m3u8?token=rast875.v2_rUHmn6cRAUqxAeQhd7wb1fkBlDQ1g_S2qFrloz85_RBzViyPjafqrve2Hzt_V9crRD_l3mdN5up6&nostub=1
+#EXTINF:0 tvg-id="ch2461" tvg-name="US: Comedy Central HD" tvg-logo="https://rus.hls.gd/images/chIcons/2461.png" tvg-rec="3", US: Comedy Central HD
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch2461/mono.m3u8?token=rast875.v2_zo1jcLampbxUbbb8w8Q0sDiRWk7bLhANV60HTsCqCiNXfev5qn5NQexlSrDLRctb7DC8kG8vUdXv&nostub=1
+#EXTINF:0 tvg-id="ch2867" tvg-name="US: Comedy TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/2867.png" tvg-rec="3", US: Comedy TV HD
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch2867/mono.m3u8?token=rast875.v2_uSWMgEIMunUDbwKE_nNhjja3McNcbcJb0n8suKw81De1iGZI44uq3rzf5kuxDqmRy32_TNKP9aUw&nostub=1
+#EXTINF:0 tvg-id="ch2195" tvg-name="US: FXX HD" tvg-logo="https://rus.hls.gd/images/chIcons/2195.png" tvg-rec="3", US: FXX HD
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch2195/mono.m3u8?token=rast875.v2_XWkCJL0v2LrcudHzIbuknKwK8bZb4B3HBrcpj4c67W4R-PKCClA8d2t93xKBwIIeYYs6t1XiROtj&nostub=1
+#EXTINF:0 tvg-id="ch2174" tvg-name="US: STARZ Comedy HD" tvg-logo="https://rus.hls.gd/images/chIcons/2174.png" tvg-rec="3", US: STARZ Comedy HD
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch2174/mono.m3u8?token=rast875.v2_8weNC5MEPXpsVRhcpVVq-VUclf4YMts_DIagPOlSik-jzc2OJIwWAjR7Luj8R94QANJW7J0--u5P&nostub=1
+#EXTINF:0 tvg-id="ch3362" tvg-name="US: TruTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3362.png" tvg-rec="3", US: TruTV HD
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch3362/mono.m3u8?token=rast875.v2_KWq96hTwcP2AscKQAn-I4D8qRGw2ZEOYNpVsBuymQCzi9X_BcXpSQofHis1WaRAecZjY83X2GqBc&nostub=1
+#EXTINF:0 tvg-id="ch3331" tvg-name="CA: Adult Swim HD" tvg-logo="https://rus.hls.gd/images/chIcons/3331.png" tvg-rec="7", CA: Adult Swim HD
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch3331/mono.m3u8?token=rast875.v2_utoeyXTdBaFC8YYdfIbLXGMqInyNQxf4bFAI4Ds0CAyHa5F-oEIt5dFrChXnpQfTfSqZLfwj03ht&nostub=1
+#EXTINF:0 tvg-id="ch3344" tvg-name="CA: CTV Comedy Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/3344.png" tvg-rec="7", CA: CTV Comedy Channel HD
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch3344/mono.m3u8?token=rast875.v2_V0NzEeqwNr8AnqxMbANmxb-kG36T1cwwOsOpssvd-oBZzIbsRnX9XbA-YySSg67ecPGVD-XDMlo2&nostub=1
+#EXTINF:0 tvg-id="ch1187" tvg-name="CA: FXX HD" tvg-logo="https://rus.hls.gd/images/chIcons/1187.png" tvg-rec="7", CA: FXX HD
+#EXTGRP:4. Comedy
+https://15.hls.gd/ch1187/mono.m3u8?token=rast875.v2_qT-EOuXEuyjbHaDsyjUPTw9AHPlF77LQccGK7XPR6oO0rOXUhg1hP6yAwbVrCd9z2zFd_rATDXet&nostub=1
+#EXTINF:0 tvg-id="ch1022" tvg-name="UK: 5 USA HD" tvg-logo="https://rus.hls.gd/images/chIcons/1022.png" tvg-rec="6", UK: 5 USA HD
+#EXTGRP:5. Crime
+https://15.hls.gd/ch1022/mono.m3u8?token=rast875.v2__408SBLK1chy8eAjTFviY2cwa010F2XhYksyETqwN0d6HgEY_5vS7bQ_GTVRvv0QRw0yqVlBc_5y&nostub=1
+#EXTINF:0 tvg-id="ch1012" tvg-name="UK: Alibi HD" tvg-logo="https://rus.hls.gd/images/chIcons/1012.png" tvg-rec="7", UK: Alibi HD
+#EXTGRP:5. Crime
+https://15.hls.gd/ch1012/mono.m3u8?token=rast875.v2__1feVfsfbJeV9o7m6HBZaQuZzP6yS2nezTglIm4NVwFnSnlpWBn07Uk8YdLgNWdmbW9L4j5jP_V8&nostub=1
+#EXTINF:0 tvg-id="ch1007" tvg-name="UK: Crime+ Inv HD" tvg-logo="https://rus.hls.gd/images/chIcons/1007.png" tvg-rec="6", UK: Crime+ Inv HD
+#EXTGRP:5. Crime
+https://15.hls.gd/ch1007/mono.m3u8?token=rast875.v2_h-lZloeSxHIhd40pqb43A1D2KusWmXtx5KLV-7GDUzwsbIiEmtP9ommb_y42mTj2s6luNN_XPTu9&nostub=1
+#EXTINF:0 tvg-id="ch2134" tvg-name="UK: Sky Crime HD" tvg-logo="https://rus.hls.gd/images/chIcons/2134.png" tvg-rec="6", UK: Sky Crime HD
+#EXTGRP:5. Crime
+https://15.hls.gd/ch2134/mono.m3u8?token=rast875.v2_sBNnljIvv1rBpPzpRi_TcqXu5BfxNYciA-54NN88qP4Sc7u1Wa7yX0SQVH6W6UPIsbAXDRkq_Ae0&nostub=1
+#EXTINF:0 tvg-id="ch1008" tvg-name="UK: Sky Witness HD" tvg-logo="https://rus.hls.gd/images/chIcons/1008.png" tvg-rec="6", UK: Sky Witness HD
+#EXTGRP:5. Crime
+https://15.hls.gd/ch1008/mono.m3u8?token=rast875.v2_H5zemSI_hyMZTUJeYRLL9aNlYg8hFRnbzPmG662Vqv_lZ5Ewqc7NUbWepP5WTvlD1s3E5Ehx7EUb&nostub=1
+#EXTINF:0 tvg-id="ch3378" tvg-name="US: A and E HD" tvg-logo="https://rus.hls.gd/images/chIcons/3378.png" tvg-rec="3", US: A and E HD
+#EXTGRP:5. Crime
+https://15.hls.gd/ch3378/mono.m3u8?token=rast875.v2_gsKO5Yh9B-0Woc6tvS9ie6cIsHcAxv5G1j5eYKGvxW3UyHqsKKOEitHjsvulnL0RyUkGEgTou_l_&nostub=1
+#EXTINF:0 tvg-id="ch2464" tvg-name="US: Investigation Discovery HD" tvg-logo="https://rus.hls.gd/images/chIcons/2464.png" tvg-rec="3", US: Investigation Discovery HD
+#EXTGRP:5. Crime
+https://15.hls.gd/ch2464/mono.m3u8?token=rast875.v2_EtF8rr7908_p20ILqWj_-1UV85kVwwNs7celHvZvhck6mxGHSXTsvEsE_C8rkyHR0_nBi7_NQb_W&nostub=1
+#EXTINF:0 tvg-id="ch2868" tvg-name="US: Justice Central HD" tvg-logo="https://rus.hls.gd/images/chIcons/2868.png" tvg-rec="3", US: Justice Central HD
+#EXTGRP:5. Crime
+https://15.hls.gd/ch2868/mono.m3u8?token=rast875.v2_1oIxBt7H5KnnL_f46f_ALu-Vpz8esDuGqZCck1k4nehS_tu5ppP16YbfGOmNJEe4ubcHcqco8H8x&nostub=1
+#EXTINF:0 tvg-id="ch3332" tvg-name="CA: A and E HD" tvg-logo="https://rus.hls.gd/images/chIcons/3332.png" tvg-rec="7", CA: A and E HD
+#EXTGRP:5. Crime
+https://15.hls.gd/ch3332/mono.m3u8?token=rast875.v2_D0pl34Ax9BX5T6k5O_3dfVTS4GGNn1CO_iDfHgkRg4740V5-wDBGypmpB_PsKtOHBYkmmRt8anNI&nostub=1
+#EXTINF:0 tvg-id="ch2503" tvg-name="CA: Crime + Investigation HD" tvg-logo="https://rus.hls.gd/images/chIcons/2503.png" tvg-rec="7", CA: Crime + Investigation HD
+#EXTGRP:5. Crime
+https://15.hls.gd/ch2503/mono.m3u8?token=rast875.v2_NcuZ0h8HZFvTNLKiLKDyjBJIUgiLPU3SLlO7FKlMjCG6O6GCZ90yl3ENEGbIqv-af7q7UDBG5ZX0&nostub=1
+#EXTINF:0 tvg-id="ch3173" tvg-name="CA: Oxygen True Crime HD" tvg-logo="https://rus.hls.gd/images/chIcons/3173.png" tvg-rec="7", CA: Oxygen True Crime HD
+#EXTGRP:5. Crime
+https://15.hls.gd/ch3173/mono.m3u8?token=rast875.v2_D22BWRBbMr_k478e1Cap5J7Gv9sMeU_dyJigQ7IQD9Hcbm4lxqTr_xBHUgcLgw7pSrLaVmuJZOrB&nostub=1
+#EXTINF:0 tvg-id="ch2167" tvg-name="UK: Sky Cinema Family" tvg-logo="https://rus.hls.gd/images/chIcons/2167.png" tvg-rec="6", UK: Sky Cinema Family
+#EXTGRP:6. Family
+https://15.hls.gd/ch2167/mono.m3u8?token=rast875.v2_grvaqcp-zYVBfo_5VHZpq1dSYsbD4mdc61lr0nmgQUGTGEQyU5YIKgQe6paHY_5VgfTz6gzAkvw1&nostub=1
+#EXTINF:0 tvg-id="ch2269" tvg-name="US: Family Entertainment Television HD" tvg-logo="https://rus.hls.gd/images/chIcons/2269.png" tvg-rec="3", US: Family Entertainment Television HD
+#EXTGRP:6. Family
+https://15.hls.gd/ch2269/mono.m3u8?token=rast875.v2_PVdB0MkR_9ftSIfEmvZB5uP_e44xrxpBf4CZOrp9jjaq89WzQDGBNXihAueTR8CRyWttzWvVI4XV&nostub=1
+#EXTINF:0 tvg-id="ch3367" tvg-name="US: Hallmark Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/3367.png" tvg-rec="3", US: Hallmark Channel HD
+#EXTGRP:6. Family
+https://15.hls.gd/ch3367/mono.m3u8?token=rast875.v2_WHPbXhTTDPHsT896nPgM_iQ3QezhmapR7PH0lPS51WLRKTDdMJT9v4R4x0WQcdphQMbSAu5Sb4kE&nostub=1
+#EXTINF:0 tvg-id="ch2704" tvg-name="US: Lifetime HD" tvg-logo="https://rus.hls.gd/images/chIcons/2704.png" tvg-rec="3", US: Lifetime HD
+#EXTGRP:6. Family
+https://15.hls.gd/ch2704/mono.m3u8?token=rast875.v2_B6fhWVm47A2idA6uXyEenF22Eu434LzOGFaNfYmDBIqw_DS5kICnTQc8_41jE-IpCR5qbpcZPxTS&nostub=1
+#EXTINF:0 tvg-id="ch2933" tvg-name="US: Lifetime Movie HD" tvg-logo="https://rus.hls.gd/images/chIcons/2933.png" tvg-rec="3", US: Lifetime Movie HD
+#EXTGRP:6. Family
+https://15.hls.gd/ch2933/mono.m3u8?token=rast875.v2__bUFfPmRKKs3Q-OcyJZpnPmWbGXcroUR-XowqTneywNxiOSp-RVWVVm9XF1dHpMIVwYrwzTW8wNE&nostub=1
+#EXTINF:0 tvg-id="ch3421" tvg-name="US: POP HD" tvg-logo="https://rus.hls.gd/images/chIcons/3421.png" tvg-rec="3", US: POP HD
+#EXTGRP:6. Family
+https://15.hls.gd/ch3421/mono.m3u8?token=rast875.v2_OQtljpCNCd-k3Bv329WacFtydjIWczZbIw9xC9RY5huqZRdBmCHlgn9JhRsH1FGq8fclgmLYNpJe&nostub=1
+#EXTINF:0 tvg-id="ch2262" tvg-name="US: STARZ Kids and Family HD" tvg-logo="https://rus.hls.gd/images/chIcons/2262.png" tvg-rec="3", US: STARZ Kids and Family HD
+#EXTGRP:6. Family
+https://15.hls.gd/ch2262/mono.m3u8?token=rast875.v2_iM4w43LqxLniwWqgvFEak4ozH8fFOqARYwFm2P2Ye_Wd5HB2vJ36K6HS2dwkhM9iRPtfcziterxP&nostub=1
+#EXTINF:0 tvg-id="ch3374" tvg-name="US: WE TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3374.png" tvg-rec="3", US: WE TV HD
+#EXTGRP:6. Family
+https://15.hls.gd/ch3374/mono.m3u8?token=rast875.v2_hb0AU1ZLtALrDu0ausOtP6UCdzfWDzRkuEuDdgaiFVBrtTZDpICxMY9I_nHD0gVLwhACnBRezlCF&nostub=1
 #EXTINF:0 tvg-id="ch1123" tvg-name="CA: Super Channel Heart And Home HD" tvg-logo="https://rus.hls.gd/images/chIcons/1123.png" tvg-rec="7", CA: Super Channel Heart And Home HD
-#EXTGRP:Canada
+#EXTGRP:6. Family
 https://15.hls.gd/ch1123/mono.m3u8?token=rast875.v2_YOe-HT1GFTj5OVzmIhHdeOuTW-1f2KW3APhb48JB4ZOIEaciEtAD3SLKmnWgDPvk8tsj7yRowMHP&nostub=1
-#EXTINF:0 tvg-id="ch451" tvg-name="CA: Sportsnet 4K" tvg-logo="https://rus.hls.gd/images/chIcons/451.png" tvg-rec="7", CA: Sportsnet 4K
-#EXTGRP:Canada
-https://15.hls.gd/ch451/mono.m3u8?token=rast875.v2_tT8klH9tBjAK-uHmZ3_X7ot-JkXJKNhQjjZ91F9Yp0wmrrbW7h55qWlRjcfVArwhuQjDly-bNDk&nostub=1
-#EXTINF:0 tvg-id="ch545" tvg-name="CA: Sportsnet One 4K" tvg-logo="https://rus.hls.gd/images/chIcons/545.png" tvg-rec="7", CA: Sportsnet One 4K
-#EXTGRP:Canada
-https://15.hls.gd/ch545/mono.m3u8?token=rast875.v2_Vpq2XFdlO-3i63weYlwYIJepm3_dUbuglEYt0TZSZ1svcn2vjP8lrnOjT8tLkTiL_-Knk1G07V0&nostub=1
-#EXTINF:0 tvg-id="ch1042" tvg-name="CA: Sportsnet 360 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1042.png" tvg-rec="7", CA: Sportsnet 360 HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1042/mono.m3u8?token=rast875.v2_Hj3eeFYlG3zPI3I-3t30DC5t6pYs8UseyUgUXUBl_Y_8P6uiVkduN_aa7uBIn3lmzpStpQ70mb5j&nostub=1
-#EXTINF:0 tvg-id="ch1440" tvg-name="CA: Sportsnet East HD" tvg-logo="https://rus.hls.gd/images/chIcons/1440.png" tvg-rec="7", CA: Sportsnet East HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1440/mono.m3u8?token=rast875.v2_yF7kFDeIwCfTyRqfkJSgElpEbBztqgr6XSN0fl3k04ceusKE3PiN5QBmnWxVNlX0dlbGOwaTQrmq&nostub=1
-#EXTINF:0 tvg-id="ch2602" tvg-name="CA: Sportsnet West HD" tvg-logo="https://rus.hls.gd/images/chIcons/2602.png" tvg-rec="7", CA: Sportsnet West HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2602/mono.m3u8?token=rast875.v2_auxpPaxIz_eetnvQf05ZyjFNJZEtw1SLubUdzQvD_x6mGkgO5jjsJ2Jwi3laewhPyCPACkyiXs1p&nostub=1
-#EXTINF:0 tvg-id="ch2404" tvg-name="CA: Sportsnet Ontario HD" tvg-logo="https://rus.hls.gd/images/chIcons/2404.png" tvg-rec="7", CA: Sportsnet Ontario HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2404/mono.m3u8?token=rast875.v2_q-8wQJHtJrcR4oTfFBYHija5jgVSVKVKAw-raeaDROOlKcNx1svdQb1Xo1DNXAb90Uw_WjC17lnZ&nostub=1
-#EXTINF:0 tvg-id="ch2885" tvg-name="CA: Sportsnet Pacific HD" tvg-logo="https://rus.hls.gd/images/chIcons/2885.png" tvg-rec="7", CA: Sportsnet Pacific HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2885/mono.m3u8?token=rast875.v2_jO8HYNqdlHHOkHTeuuVNC5akaetlDWv9hjOk8oCX2j85YmJ4087PJ1rMw52VL5EKyYRRWdFMbcwh&nostub=1
-#EXTINF:0 tvg-id="ch3342" tvg-name="CA: Sportsnet Flames HD" tvg-logo="https://rus.hls.gd/images/chIcons/3342.png" tvg-rec="7", CA: Sportsnet Flames HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3342/mono.m3u8?token=rast875.v2_QZFi3h27zrrduWPBF2WjaxvmK2dkPPpLa2KDD5z8sQG9GP55k1dL-z-xJLgOV75tZx4hvZLToFTz&nostub=1
-#EXTINF:0 tvg-id="ch1441" tvg-name="CA: Sportsnet Oilers HD" tvg-logo="https://rus.hls.gd/images/chIcons/1441.png" tvg-rec="7", CA: Sportsnet Oilers HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1441/mono.m3u8?token=rast875.v2_gSHVYE9ENyCA7ar7eF1hbEvbE5_Q-CcSeZ822EYs9ztM-AoolbzqxXujOeN-x1CSS4y0moSh2wF8&nostub=1
+#EXTINF:0 tvg-id="ch1127" tvg-name="CA: W Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1127.png" tvg-rec="7", CA: W Network HD
+#EXTGRP:6. Family
+https://15.hls.gd/ch1127/mono.m3u8?token=rast875.v2_Z5RNnTEd36hoTDxBRi0kX2ZORS8JsIwKbkaaDEnM89Igp-PHIbTJMPoyA-HrOQN4Bo8DmUdD0g6P&nostub=1
+#EXTINF:0 tvg-id="ch3222" tvg-name="UK: Sky Kids HD" tvg-logo="https://rus.hls.gd/images/chIcons/3222.png" tvg-rec="6", UK: Sky Kids HD
+#EXTGRP:7. Kids
+https://15.hls.gd/ch3222/mono.m3u8?token=rast875.v2_7MtCH4DR7_wjh0pGKQyipHHHPEKGTK5B2Lq4iG1Eebzmg7_DN8XGQsqchJFZk6yGlIb6DvhDc91j&nostub=1
+#EXTINF:0 tvg-id="ch2280" tvg-name="US: Cartoon Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/2280.png" tvg-rec="3", US: Cartoon Network HD
+#EXTGRP:7. Kids
+https://15.hls.gd/ch2280/mono.m3u8?token=rast875.v2_Z2nSwadVHcF-EkiW2SQl4u-kJySEuMra2-vf4XB7PUQm_Xyw1W2eEFlD1nJT77cR3VbRqkV00pX1&nostub=1
+#EXTINF:0 tvg-id="ch2271" tvg-name="US: Disney Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/2271.png" tvg-rec="3", US: Disney Channel HD
+#EXTGRP:7. Kids
+https://15.hls.gd/ch2271/mono.m3u8?token=rast875.v2_kCXRNYvimwf2NbOh1KzX95qNunGrkybLota_0HQYxb3W3BjP_hFL3r2pxvMSYn6KdlpzklupLFq8&nostub=1
+#EXTINF:0 tvg-id="ch2272" tvg-name="US: Disney Junior HD" tvg-logo="https://rus.hls.gd/images/chIcons/2272.png" tvg-rec="3", US: Disney Junior HD
+#EXTGRP:7. Kids
+https://15.hls.gd/ch2272/mono.m3u8?token=rast875.v2_4qT69hbTZJHck5e2Usgek4_5hfbF3Gbc2_F_2bUx7Qas0hcjsK8ggwu9NxJCtdzh75TVLCTnnEHD&nostub=1
+#EXTINF:0 tvg-id="ch2273" tvg-name="US: Disney XD HD" tvg-logo="https://rus.hls.gd/images/chIcons/2273.png" tvg-rec="3", US: Disney XD HD
+#EXTGRP:7. Kids
+https://15.hls.gd/ch2273/mono.m3u8?token=rast875.v2_pAkv045JAPuyI8fe7JreNln0a78k6dg0sM6Y10ZkJby3FTA81j8TwzznWgR-EX4VGCVD_k7viG_6&nostub=1
+#EXTINF:0 tvg-id="ch2279" tvg-name="US: MeTV Toons HD" tvg-logo="https://rus.hls.gd/images/chIcons/2279.png" tvg-rec="3", US: MeTV Toons HD
+#EXTGRP:7. Kids
+https://15.hls.gd/ch2279/mono.m3u8?token=rast875.v2_-q7C2Zlspa0F0IoZHxi4eX0yzpMiaUe0qxDyv20j5rh90V0DpSSqfcBCQo6jqshTf71JYr66Iwby&nostub=1
+#EXTINF:0 tvg-id="ch2276" tvg-name="US: Nickelodeon East HD" tvg-logo="https://rus.hls.gd/images/chIcons/2276.png" tvg-rec="3", US: Nickelodeon East HD
+#EXTGRP:7. Kids
+https://15.hls.gd/ch2276/mono.m3u8?token=rast875.v2_2cQrB1WUpN6HGAjZguFS5Ua0Uxpa17iDmXxlKck6R0x8gu7rCyFAnFn5yl54wCXFLDhYQyL-WHG0&nostub=1
+#EXTINF:0 tvg-id="ch2277" tvg-name="US: Nick Jr HD" tvg-logo="https://rus.hls.gd/images/chIcons/2277.png" tvg-rec="3", US: Nick Jr HD
+#EXTGRP:7. Kids
+https://15.hls.gd/ch2277/mono.m3u8?token=rast875.v2_zOQlvszBKIY_JcaJ_yJA2cw9scJORHL9CktXVjpDnANcFY2uDsfdSQqZ3f9YV9en2i0EKfY4x91R&nostub=1
+#EXTINF:0 tvg-id="ch2278" tvg-name="US: Nicktoons HD" tvg-logo="https://rus.hls.gd/images/chIcons/2278.png" tvg-rec="3", US: Nicktoons HD
+#EXTGRP:7. Kids
+https://15.hls.gd/ch2278/mono.m3u8?token=rast875.v2_TqN3REzqL0-CPC3zTHYK_7oifFXiTwRgL6SDKEFSJEjKtNXIVp6zWLdPXXfNZq7b2QU9s0RSK0_d&nostub=1
+#EXTINF:0 tvg-id="ch3410" tvg-name="US: PBS Kids HD" tvg-logo="https://rus.hls.gd/images/chIcons/3410.png" tvg-rec="3", US: PBS Kids HD
+#EXTGRP:7. Kids
+https://15.hls.gd/ch3410/mono.m3u8?token=rast875.v2_53STwL0eQdM6NtagrjYxT2SXKT2mG6PiOUr67jPuavkXPTSuukhHqSxjOy35zf1X0AYZgarCt5vH&nostub=1
+#EXTINF:0 tvg-id="ch2875" tvg-name="CA: Boomerang Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/2875.png" tvg-rec="7", CA: Boomerang Network HD
+#EXTGRP:7. Kids
+https://15.hls.gd/ch2875/mono.m3u8?token=rast875.v2_nJkC-sGAlqV8mZ2e41EyHBLxME3GWpwVBkUswrgFdr-Zdff5kvF0__dkfCO5MteENpXVdLMsSrO_&nostub=1
+#EXTINF:0 tvg-id="ch2878" tvg-name="CA: Disney HD" tvg-logo="https://rus.hls.gd/images/chIcons/2878.png" tvg-rec="7", CA: Disney HD
+#EXTGRP:7. Kids
+https://15.hls.gd/ch2878/mono.m3u8?token=rast875.v2_P3kNKxOkjybosOi7N5os48mepkRjRiNsvt46XjJrGT2idUEzPoPfaSzbViXQgossvG5q_Ktc-bGN&nostub=1
+#EXTINF:0 tvg-id="ch2930" tvg-name="CA: Treehouse HD" tvg-logo="https://rus.hls.gd/images/chIcons/2930.png" tvg-rec="7", CA: Treehouse HD
+#EXTGRP:7. Kids
+https://15.hls.gd/ch2930/mono.m3u8?token=rast875.v2_jD3E0xFKYixPdBj4j_eAukHmn48fqYnn80-3ThK0_UP89wWc_8eIKwv2J1O4NePI3FQGb3LQxl2N&nostub=1
+#EXTINF:0 tvg-id="ch2928" tvg-name="CA: YTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/2928.png" tvg-rec="7", CA: YTV HD
+#EXTGRP:7. Kids
+https://15.hls.gd/ch2928/mono.m3u8?token=rast875.v2_7BYgdMIKksHqf27F2RSs-mEjHzoegmpUaWbFVd0F0VSY4OHTT4nZDVFNTM_w1SQ6COe1GvgQtgfW&nostub=1
+#EXTINF:0 tvg-id="ch1014" tvg-name="UK: 5 Star" tvg-logo="https://rus.hls.gd/images/chIcons/1014.png" tvg-rec="6", UK: 5 Star
+#EXTGRP:8. General TV
+https://15.hls.gd/ch1014/mono.m3u8?token=rast875.v2_mxGfq4k4Os3EEJpyM7YaAhyhssSg9Wgca5zvONgPlZE42iUt2u8v2CphJecm-5VIA6MOZamd2mSK&nostub=1
+#EXTINF:0 tvg-id="ch2094" tvg-name="UK: BBC One HD" tvg-logo="https://rus.hls.gd/images/chIcons/2094.png" tvg-rec="6", UK: BBC One HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch2094/mono.m3u8?token=rast875.v2_KY6EK9IeOdrtsVVyJu8FWbHRR_VLwt47oQqsLbJkcfqmCcVDf2aCgC2odWE9cf6ZvaY7zgg37u-q&nostub=1
+#EXTINF:0 tvg-id="ch2095" tvg-name="UK: BBC Two HD" tvg-logo="https://rus.hls.gd/images/chIcons/2095.png" tvg-rec="6", UK: BBC Two HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch2095/mono.m3u8?token=rast875.v2_xjvr2GMFKLYhEnD6jXMzuomPRfbJs71jrKGBbuqD-1pO3qxTIxs3b5rRzkGI3CNzdGoJ47j9LUpZ&nostub=1
+#EXTINF:0 tvg-id="ch2162" tvg-name="UK: Channel 4 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2162.png" tvg-rec="6", UK: Channel 4 HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch2162/mono.m3u8?token=rast875.v2_z2xg-T948bzzhspPuv6Zm0UNokeqWX8bKKBcjLyOje0ROJPC8CmLovasvoy-rFjnBS8ScqSSk6to&nostub=1
+#EXTINF:0 tvg-id="ch2163" tvg-name="UK: Channel 5 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2163.png" tvg-rec="6", UK: Channel 5 HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch2163/mono.m3u8?token=rast875.v2_wfDA5VeQawEQRnjXQUbmDDVEHIkjWN6OdhiPu40zqoOgH7bJOQY37x-jKJEhPKe2NTHgX-Rg1rHP&nostub=1
+#EXTINF:0 tvg-id="ch1013" tvg-name="UK: Colors HD" tvg-logo="https://rus.hls.gd/images/chIcons/1013.png" tvg-rec="7", UK: Colors HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch1013/mono.m3u8?token=rast875.v2_s07IfYTSXp2WMA31EAkNcxFlHFpXFqVKyPBCexNOpuSnd8hZlNoxPPrgD9JglIRffc68eyB9M7TP&nostub=1
+#EXTINF:0 tvg-id="ch1197" tvg-name="UK: ITV HD" tvg-logo="https://rus.hls.gd/images/chIcons/1197.png" tvg-rec="7", UK: ITV HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch1197/mono.m3u8?token=rast875.v2_CXgL_-Gd1MFFPIC_lOulTvcCneC5RF5Bu720WikaEm-Vn__rVKwVbP_bqByCFZl0TY6Rq3mnyt0i&nostub=1
+#EXTINF:0 tvg-id="ch1157" tvg-name="UK: ITV 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1157.png" tvg-rec="7", UK: ITV 2 HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch1157/mono.m3u8?token=rast875.v2_6BuP-l_LYXdFpmUJzo2jUdeYJQeRB8nWWxLeuzxHM7r0TvKUkedVnq-LkRpuIjjvHheyzCfIB6Xt&nostub=1
+#EXTINF:0 tvg-id="ch1004" tvg-name="UK: ITV 3 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1004.png" tvg-rec="6", UK: ITV 3 HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch1004/mono.m3u8?token=rast875.v2_yvVqH7_zFrsbM3Y4hAkAyEXXiXeXVHQ_HsnX71m5KLExprEDUazhogFdHZsKz7L4uXRig-hKLcBW&nostub=1
+#EXTINF:0 tvg-id="ch1005" tvg-name="UK: ITV 4 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1005.png" tvg-rec="6", UK: ITV 4 HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch1005/mono.m3u8?token=rast875.v2_fOqAznLiY7E02VxNdHz0i95iNFUo0C0BOXfoYXCfhRIoCVO48iupbLJlXWs6lWqqko7EJcH9BSIe&nostub=1
+#EXTINF:0 tvg-id="ch2442" tvg-name="UK: RTE One HD" tvg-logo="https://rus.hls.gd/images/chIcons/2442.png" tvg-rec="6", UK: RTE One HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch2442/mono.m3u8?token=rast875.v2__aRemzpddN_YuUp6j_Tr30rAkTg_RmEWoOKZciukKBh6gs7mUu09SzlnR1srwQDDcHet-1ICYSI7&nostub=1
+#EXTINF:0 tvg-id="ch2105" tvg-name="UK: RTE TWO HD" tvg-logo="https://rus.hls.gd/images/chIcons/2105.png" tvg-rec="6", UK: RTE TWO HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch2105/mono.m3u8?token=rast875.v2_j_OLdIdfPCPa6WoeUBFk6CHoXCdnQC7QuapMB5N8NbZPLeX9RL0FaFPehgohodeJ8mX8qgmLYyQ3&nostub=1
+#EXTINF:0 tvg-id="ch2114" tvg-name="UK: Sky Atlantic HD" tvg-logo="https://rus.hls.gd/images/chIcons/2114.png" tvg-rec="6", UK: Sky Atlantic HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch2114/mono.m3u8?token=rast875.v2_LzDi7SeHQDFfqgGpyyd_sk5TwJ_AMiRh6C0aad31B7aeBzIpdizagibd1chC-_vZj3PAjOHzJHbb&nostub=1
+#EXTINF:0 tvg-id="ch1177" tvg-name="UK: Sky Arts HD" tvg-logo="https://rus.hls.gd/images/chIcons/1177.png" tvg-rec="6", UK: Sky Arts HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch1177/mono.m3u8?token=rast875.v2_ez-roUF52EWlkAGXfUhpB4PoSkxBLP16knmcIqFtuOHUPhsZpiSLJJzacy2GF_sqpNu_rKhH-7hU&nostub=1
+#EXTINF:0 tvg-id="ch1009" tvg-name="UK: Sky Showcase HD" tvg-logo="https://rus.hls.gd/images/chIcons/1009.png" tvg-rec="0", UK: Sky Showcase HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch1009/mono.m3u8?token=rast875.v2_H6nFlfuivk8zhTv13U0jJgO5NBrlz2ku4DVRTub5jHntCDIawOfoT-dlnByfz__TYGsDr98Q8dNZ&nostub=1
+#EXTINF:0 tvg-id="ch2161" tvg-name="UK: Sony TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/2161.png" tvg-rec="6", UK: Sony TV HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch2161/mono.m3u8?token=rast875.v2_E4Roa_gcpjGVlToTOxwftb9J3frOuULIiSqUKSfRgG9h242wHgyVfkigJnxqQE84DLKirQg9XjaG&nostub=1
+#EXTINF:0 tvg-id="ch1023" tvg-name="UK: Utsav Gold HD" tvg-logo="https://rus.hls.gd/images/chIcons/1023.png" tvg-rec="6", UK: Utsav Gold HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch1023/mono.m3u8?token=rast875.v2_KyfASrgIMDwVYY0EaZxfEUQ-Fw2RH1X9w1a_GoWTxrGkfZfqRwKnOA9lcBPXMNfoutFXr8GcbMjU&nostub=1
+#EXTINF:0 tvg-id="ch1024" tvg-name="UK: Utsav Plus HD" tvg-logo="https://rus.hls.gd/images/chIcons/1024.png" tvg-rec="6", UK: Utsav Plus HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch1024/mono.m3u8?token=rast875.v2_tP-lrYr51oX9qCYwkpeF19V2rvwhezOH4aPyEha4G-7tmddgTOUNL1TdXjLvC6oqQEFjIw6sxmoj&nostub=1
+#EXTINF:0 tvg-id="ch2066" tvg-name="UK: W HD" tvg-logo="https://rus.hls.gd/images/chIcons/2066.png" tvg-rec="6", UK: W HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch2066/mono.m3u8?token=rast875.v2_9eC3z2Axe30nxrHDfHZ-CaZN0vkGHuvtdQaH_-rvUMZ1hRhzmg5c7_6O4_vgn92bqcZjQRWTQKcb&nostub=1
+#EXTINF:0 tvg-id="ch1025" tvg-name="UK: Zee TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/1025.png" tvg-rec="6", UK: Zee TV HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch1025/mono.m3u8?token=rast875.v2_Z8o9Lg0K1slXrF6Easg1zG1Llwqg9_Miyb9Tr9KfN73wUlDGE8WNfIjd2u8WabXEQHOlgKgT9FGT&nostub=1
+#EXTINF:0 tvg-id="ch3411" tvg-name="US: BBC America HD" tvg-logo="https://rus.hls.gd/images/chIcons/3411.png" tvg-rec="3", US: BBC America HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch3411/mono.m3u8?token=rast875.v2_yWyZPxllAxRZmOA67pFOJWgIb7smQW2ZernuOfxzu9aVCefg0Un_Wn7KkEf08br73cDRNQAnUoxn&nostub=1
+#EXTINF:0 tvg-id="ch2193" tvg-name="US: FX HD" tvg-logo="https://rus.hls.gd/images/chIcons/2193.png" tvg-rec="3", US: FX HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch2193/mono.m3u8?token=rast875.v2_g74gdpPJ4P3ioTzAHrxHmbwbg4jtGEUH5qdO5dEMGIHP3USli66_0jBhvY5eIWNsSzKExAWa4vma&nostub=1
+#EXTINF:0 tvg-id="ch3419" tvg-name="US: MeTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3419.png" tvg-rec="3", US: MeTV HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch3419/mono.m3u8?token=rast875.v2_ZGoLDP3LRpyv2o19lYACaP6ySls61wb8zFhteLUudHTsROALYwkCrbknbiE5aKLkID3W5wzr6M-0&nostub=1
+#EXTINF:0 tvg-id="ch3413" tvg-name="US: TBS HD" tvg-logo="https://rus.hls.gd/images/chIcons/3413.png" tvg-rec="3", US: TBS HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch3413/mono.m3u8?token=rast875.v2_UNuhXjDZ_gZVySyuurrv8R4WkNSYllv6n3p9C-t4FWOhsXuFn-WU2L8dmCE48TKAp1QSOwmJurtt&nostub=1
+#EXTINF:0 tvg-id="ch3414" tvg-name="US: TNT HD" tvg-logo="https://rus.hls.gd/images/chIcons/3414.png" tvg-rec="3", US: TNT HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch3414/mono.m3u8?token=rast875.v2_WwwFuNdhEY3if49a-HW4UgG-UUE1fur2D61XXHV2T7yjnLKsGpOeGxsSFVhV7rrQHqkvzH8bboZc&nostub=1
+#EXTINF:0 tvg-id="ch3415" tvg-name="US: USA Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/3415.png" tvg-rec="3", US: USA Network HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch3415/mono.m3u8?token=rast875.v2_yzGO7nuiPQgOSpZ8mC6wKJxFQJSr_e0a7g2bDLLfK03RxZB0Wg-6KQJziU5bSURGVvlYdYnlPNE5&nostub=1
+#EXTINF:0 tvg-id="ch3416" tvg-name="US: Univision New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/3416.png" tvg-rec="3", US: Univision New York HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch3416/mono.m3u8?token=rast875.v2_wQwba6CN-X5dFpFlSGmX-auDBIVJgm_N_EGStfAQ7OIeYx6r-W7yDCTm6OK6fgT0spSQ88a4u1li&nostub=1
+#EXTINF:0 tvg-id="ch4121" tvg-name="CA: Addik HD" tvg-logo="https://rus.hls.gd/images/chIcons/4121.png" tvg-rec="7", CA: Addik HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch4121/mono.m3u8?token=rast875.v2_8f1k6Dz0-Bb9A-ArOBoWrT1vkamdC8TpJHWECo_pKUz67jUjAaDLqwi5hEgmAZrHE7fVUlxcUdF8&nostub=1
+#EXTINF:0 tvg-id="ch3346" tvg-name="CA: CBC Calgary HD" tvg-logo="https://rus.hls.gd/images/chIcons/3346.png" tvg-rec="7", CA: CBC Calgary HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch3346/mono.m3u8?token=rast875.v2_DATmI_k1ur-iHaYilq29SUZt0LOIyNpvXsyUaPaPlgxnhGUc5kMxWzEAGqNgfPx5H3sVOIfUsnSn&nostub=1
+#EXTINF:0 tvg-id="ch3338" tvg-name="CA: CBC Toronto HD" tvg-logo="https://rus.hls.gd/images/chIcons/3338.png" tvg-rec="7", CA: CBC Toronto HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch3338/mono.m3u8?token=rast875.v2_OxHrs1B8izm5Y1WX0BbEV5Fb4qavDjkuj-jKFKJ8A3ZvYsZpXUGIaTlr5h1okn7VMKfhjYlqZuKe&nostub=1
+#EXTINF:0 tvg-id="ch4114" tvg-name="CA: CTV Toronto HD" tvg-logo="https://rus.hls.gd/images/chIcons/4114.png" tvg-rec="7", CA: CTV Toronto HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch4114/mono.m3u8?token=rast875.v2__WSC4Tg2Ui7FlLxCc7kd6onmYGilwZQ_5ddaV3uAcelpWxMUM-3xIERuzcG5w9dreET5pKfB_2Za&nostub=1
+#EXTINF:0 tvg-id="ch4115" tvg-name="CA: Citytv Toronto HD" tvg-logo="https://rus.hls.gd/images/chIcons/4115.png" tvg-rec="7", CA: Citytv Toronto HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch4115/mono.m3u8?token=rast875.v2_Aj4BLf68yUk7YHyoqMamocoqeS9O0J8MXFf_qpOfVtOumwVqHKNpNSnBkfvVOwTD-yKwZQmDRJkV&nostub=1
+#EXTINF:0 tvg-id="ch4116" tvg-name="CA: Citytv Vancouver HD" tvg-logo="https://rus.hls.gd/images/chIcons/4116.png" tvg-rec="7", CA: Citytv Vancouver HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch4116/mono.m3u8?token=rast875.v2_qaTU-PM4ASiiYM_1XNSBg8I-o2QCh9wnJ__y-Crvu2gYJMFaJzdPEYw-vqd_STydNnFbS0g3mbXv&nostub=1
+#EXTINF:0 tvg-id="ch4119" tvg-name="CA: CW New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/4119.png" tvg-rec="7", CA: CW New York HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch4119/mono.m3u8?token=rast875.v2_3qrZ8QSxeEOuW28yPB8a2MlARWyBtS_DrETxGUYQ8Fyw9_yHC2NpZOsgCOlf1X_s4nRWbrHgVKp-&nostub=1
+#EXTINF:0 tvg-id="ch3343" tvg-name="CA: FX HD" tvg-logo="https://rus.hls.gd/images/chIcons/3343.png" tvg-rec="7", CA: FX HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch3343/mono.m3u8?token=rast875.v2_J9bR2OBRoEirQw0zdkUPtJN6jBxJS0ncRTo1dNhhmb4UQbsTiVKIHjbxhI0QuoRoyHfRZYri7yqV&nostub=1
+#EXTINF:0 tvg-id="ch3290" tvg-name="CA: GSN HD" tvg-logo="https://rus.hls.gd/images/chIcons/3290.png" tvg-rec="7", CA: GSN HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch3290/mono.m3u8?token=rast875.v2_KJyjApViFNVujdp6lGt75AafHHxH7enJwACzOCZRPXUo3K3PRKDaFFBr6oGo3ptkw-1Zq8iGZR4T&nostub=1
+#EXTINF:0 tvg-id="ch2507" tvg-name="CA: Global Toronto HD" tvg-logo="https://rus.hls.gd/images/chIcons/2507.png" tvg-rec="7", CA: Global Toronto HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch2507/mono.m3u8?token=rast875.v2_ZRJ7i45aqAlhYA3XKysIpS-8W0VLOZKpsBjY6ALNGPBGVHEaEbrL5zgDAGc5D43JFm1FD79n1RY-&nostub=1
+#EXTINF:0 tvg-id="ch128" tvg-name="CA: GameTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/128.png" tvg-rec="7", CA: GameTV HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch128/mono.m3u8?token=rast875.v2_n2nrOcjaaJUO8Yqu7C3iWEem9NMOrrpD1NVOc7Pj3SsRSPro9y3Wu4bov-FkEMLvVufrGhLXkvI&nostub=1
+#EXTINF:0 tvg-id="ch2927" tvg-name="CA: Inultra 4K" tvg-logo="https://rus.hls.gd/images/chIcons/2927.png" tvg-rec="0", CA: Inultra 4K
+#EXTGRP:8. General TV
+https://15.hls.gd/ch2927/mono.m3u8?token=rast875.v2_vQ6hHH2RRrV7oGz-lyqzfzXlh-csnOEmaYQjVb1ufYBUY66Y-pb2bdXfes7lde49_h9QtrHVTyzQ&nostub=1
+#EXTINF:0 tvg-id="ch3340" tvg-name="CA: NTV St John HD" tvg-logo="https://rus.hls.gd/images/chIcons/3340.png" tvg-rec="7", CA: NTV St John HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch3340/mono.m3u8?token=rast875.v2_seWB_mIup8jeZI9Z4dq-ODK-iPaZNRHqiXmEXwvdcupN7XZsS4n-8X4HP_NVgZxDZm2-ZwikpBH8&nostub=1
+#EXTINF:0 tvg-id="ch3292" tvg-name="CA: One HD" tvg-logo="https://rus.hls.gd/images/chIcons/3292.png" tvg-rec="7", CA: One HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch3292/mono.m3u8?token=rast875.v2_T7IlKT_j09n0XzWv4EGQy5RdLqTyOB7wX9i0xPb0FyNxW3Z17N35W8pffsGhGS9rC3q-EQAdxd6G&nostub=1
+#EXTINF:0 tvg-id="ch4120" tvg-name="CA: PBS Boston HD" tvg-logo="https://rus.hls.gd/images/chIcons/4120.png" tvg-rec="0", CA: PBS Boston HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch4120/mono.m3u8?token=rast875.v2_U5sP--v-FT5BFkmeQWX8vB64E4LW9-Gs0t6I_X9d4t8-Ly4H86DXyYLEoJiQDfC4fXglIlSmrf1a&nostub=1
+#EXTINF:0 tvg-id="ch3293" tvg-name="CA: Peachtree HD" tvg-logo="https://rus.hls.gd/images/chIcons/3293.png" tvg-rec="7", CA: Peachtree HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch3293/mono.m3u8?token=rast875.v2_uS5s06gRg0wl1hEWyqoVZK16ggZir5pbY84xbxJjSx-Qq4fSm12veWEzQw_hotIAZ5ldqEOlf7GG&nostub=1
+#EXTINF:0 tvg-id="ch4117" tvg-name="CA: Radio-Canada Montreal HD" tvg-logo="https://rus.hls.gd/images/chIcons/4117.png" tvg-rec="7", CA: Radio-Canada Montreal HD
+#EXTGRP:8. General TV
+https://15.hls.gd/ch4117/mono.m3u8?token=rast875.v2_IwKm15JtSv_NxA8fN_wT2kGTSKXXiiSmIsYPVYo2roTEAmCWonWgWYai52RNBLhmS8TinqSj0pxx&nostub=1
+#EXTINF:0 tvg-id="ch2450" tvg-name="UK: Sky Sports News HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2450.png" tvg-rec="6", UK: Sky Sports News HD 50fps
+#EXTGRP:9. News
+https://15.hls.gd/ch2450/mono.m3u8?token=rast875.v2_fEARM_Zlu6mIF08VA5LCbyFFoupRlB--8QYs8AZzqrV9hrAmajqyccilUjN8c1pZNkj2zl2r_qLg&nostub=1
+#EXTINF:0 tvg-id="ch1061" tvg-name="UK: Sky Sports News HD" tvg-logo="https://rus.hls.gd/images/chIcons/1061.png" tvg-rec="6", UK: Sky Sports News HD
+#EXTGRP:9. News
+https://15.hls.gd/ch1061/mono.m3u8?token=rast875.v2_daxHjZRFSBD16FpnLWAE53L83nzq7_NnOOLdhGoPyuxA8AVkdBREB2F9NxjTgP8yJ94n6UWh-jxj&nostub=1
+#EXTINF:0 tvg-id="ch1018" tvg-name="UK: Sky News HD" tvg-logo="https://rus.hls.gd/images/chIcons/1018.png" tvg-rec="6", UK: Sky News HD
+#EXTGRP:9. News
+https://15.hls.gd/ch1018/mono.m3u8?token=rast875.v2_pib1qJhrQaC4isPCkWLwCeVJdbZtrvyZrTMDlkyn1CuAfnTGgPNc2txKLqjsljVyGonvBoZSlF9U&nostub=1
+#EXTINF:0 tvg-id="ch1019" tvg-name="UK: Talk TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/1019.png" tvg-rec="7", UK: Talk TV HD
+#EXTGRP:9. News
+https://15.hls.gd/ch1019/mono.m3u8?token=rast875.v2_aE_Lj_xtT8M4PY9biXI5zVt0rmrUVuv_QTvnSOz5E02ATQX6-QZ-AxZFaRdIKGSsIzcNOmLvnhSR&nostub=1
+#EXTINF:0 tvg-id="ch3430" tvg-name="US: ABC New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/3430.png" tvg-rec="3", US: ABC New York HD
+#EXTGRP:9. News
+https://15.hls.gd/ch3430/mono.m3u8?token=rast875.v2_KcynVo9AfTSFyihGwCiaYiX8r--Hb3STNN_TybBwa57O6LIqcYo1DbB3BQ5WO66B6FXUlKL_ERu3&nostub=1
+#EXTINF:0 tvg-id="ch3364" tvg-name="US: ABC News Live HD" tvg-logo="https://rus.hls.gd/images/chIcons/3364.png" tvg-rec="3", US: ABC News Live HD
+#EXTGRP:9. News
+https://15.hls.gd/ch3364/mono.m3u8?token=rast875.v2_wNex72uDyer_oJ39OhgVjExaTQtXzMj3NEMwmxC0OdJ-eU3CQYzyyidFXagUjErR5RbB6Lmt1_HD&nostub=1
+#EXTINF:0 tvg-id="ch3363" tvg-name="US: Bloomberg TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3363.png" tvg-rec="3", US: Bloomberg TV HD
+#EXTGRP:9. News
+https://15.hls.gd/ch3363/mono.m3u8?token=rast875.v2_GCPsleVPr1P7PgeMExYV9VaEE7CVhsB5xwNEeZf_MIywzu_5jo-q6ZC398eN11LjkXYk2PvEIIDg&nostub=1
+#EXTINF:0 tvg-id="ch3366" tvg-name="US: CBS New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/3366.png" tvg-rec="3", US: CBS New York HD
+#EXTGRP:9. News
+https://15.hls.gd/ch3366/mono.m3u8?token=rast875.v2_H-I1_4sa4f-MY9PjtjQ57Dz5uUaSIH2xxJ0Nv61rB4dnaORxkoIaGjfLY6eYSzTh3avYcNxWtaWG&nostub=1
+#EXTINF:0 tvg-id="ch3899" tvg-name="US: FOX New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/3899.png" tvg-rec="3", US: FOX New York HD
+#EXTGRP:9. News
+https://15.hls.gd/ch3899/mono.m3u8?token=rast875.v2_3aP-IyYWa_0yv0B0sSKUCpBe_n8IWqJKepRVEyimrfIQVuiFYVOr_ZJZhVVK1PlJo3eavRb2AsSI&nostub=1
+#EXTINF:0 tvg-id="ch3376" tvg-name="US: Fox Business Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/3376.png" tvg-rec="3", US: Fox Business Network HD
+#EXTGRP:9. News
+https://15.hls.gd/ch3376/mono.m3u8?token=rast875.v2_gFRZ8KHgscmDoyLwYgA0SWXCs4rrNPI81c326JdLHwT1wYsAZrUeLBr8iJfYzSGg-aeD7mwMimAy&nostub=1
+#EXTINF:0 tvg-id="ch3431" tvg-name="US: NBC New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/3431.png" tvg-rec="3", US: NBC New York HD
+#EXTGRP:9. News
+https://15.hls.gd/ch3431/mono.m3u8?token=rast875.v2_MblndeEt2I0tkd4WsSqBxhG7KZzw6AqrJLfLETaJbEeMOGo6UD0zuuodBhxI1fuKbvz8hbsICiKJ&nostub=1
+#EXTINF:0 tvg-id="ch3365" tvg-name="US: NBC News Now HD" tvg-logo="https://rus.hls.gd/images/chIcons/3365.png" tvg-rec="3", US: NBC News Now HD
+#EXTGRP:9. News
+https://15.hls.gd/ch3365/mono.m3u8?token=rast875.v2_P9cIn51EFSHXwEpkLqJHAhsfzPSLNYAYc3cluYw612Jz9z2r37Vhg5UyvTIKL-6fl7CCc9CiRLnQ&nostub=1
+#EXTINF:0 tvg-id="ch2892" tvg-name="CA: BNN Bloomberg HD" tvg-logo="https://rus.hls.gd/images/chIcons/2892.png" tvg-rec="7", CA: BNN Bloomberg HD
+#EXTGRP:9. News
+https://15.hls.gd/ch2892/mono.m3u8?token=rast875.v2_GWjPiAhT5s7fgrZAy0nX7dPO7jJ0XrlLzADy6TdbHwad0h41qUKE9i2IZaUZO_6cS5UuEOWAFtX-&nostub=1
+#EXTINF:0 tvg-id="ch2493" tvg-name="CA: CBC News Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/2493.png" tvg-rec="7", CA: CBC News Network HD
+#EXTGRP:9. News
+https://15.hls.gd/ch2493/mono.m3u8?token=rast875.v2_5xxHY45LsDz1yNf0ngmXYhTTRN5mX0WCvl43yLGMPe6wsIcgnuOZPicHixrXjqC9GtQiyuZczpvZ&nostub=1
+#EXTINF:0 tvg-id="ch2883" tvg-name="CA: CPAC English HD" tvg-logo="https://rus.hls.gd/images/chIcons/2883.png" tvg-rec="7", CA: CPAC English HD
+#EXTGRP:9. News
+https://15.hls.gd/ch2883/mono.m3u8?token=rast875.v2_eodpD8qY2nj0M_gaXJrsxOPXsuJdSC5ZhXcagnj7IdcKU-E-dQIEonz_bkhigBVHAIdHmiIsE7Zq&nostub=1
+#EXTINF:0 tvg-id="ch1272" tvg-name="CA: CTV News Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/1272.png" tvg-rec="7", CA: CTV News Channel HD
+#EXTGRP:9. News
+https://15.hls.gd/ch1272/mono.m3u8?token=rast875.v2_7TemQmda0g31uN_FYNw2uY-cFwN_GASlFNzAsFmspSFKIWUyhwAraCBNZ5khowfpK1rcWRsLW36P&nostub=1
+#EXTINF:0 tvg-id="ch2492" tvg-name="CA: HLN HD" tvg-logo="https://rus.hls.gd/images/chIcons/2492.png" tvg-rec="7", CA: HLN HD
+#EXTGRP:9. News
+https://15.hls.gd/ch2492/mono.m3u8?token=rast875.v2_F7-TzgQ1HyQfbMZL5EFTjPBXjrx1BGzHdl5S_Kv4d-RPxA26DRJDUp2LrZCiyY7pWhU_UvrSWxI5&nostub=1
+#EXTINF:0 tvg-id="ch1550" tvg-name="CA: MSNBC HD" tvg-logo="https://rus.hls.gd/images/chIcons/1550.png" tvg-rec="7", CA: MSNBC HD
+#EXTGRP:9. News
+https://15.hls.gd/ch1550/mono.m3u8?token=rast875.v2_Ps0fddc3xHYQsgvtqyHkkoHJT0166b2UYofjjLUYohqlyhO-jt6OFCxsZrngRX-Lq8kcodbS09aw&nostub=1
+#EXTINF:0 tvg-id="ch1681" tvg-name="UK: Sky Docs HD" tvg-logo="https://rus.hls.gd/images/chIcons/1681.png" tvg-rec="6", UK: Sky Docs HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch1681/mono.m3u8?token=rast875.v2_NxVGiqjs2EXuw_x_2pB3GelQ9ncVJUlJRh5mPJN5_vE74GNK2fh9h6dD2updHJMXqRyDsmSMjgJ4&nostub=1
+#EXTINF:0 tvg-id="ch2115" tvg-name="UK: Sky Nature HD" tvg-logo="https://rus.hls.gd/images/chIcons/2115.png" tvg-rec="6", UK: Sky Nature HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch2115/mono.m3u8?token=rast875.v2_hDmw-BWvgRXetsT0WBmnZ7FX82x0cGudv77_mROl645nUFTMhAKlVxPvvR32XLgkDuuUvVaOxBdr&nostub=1
+#EXTINF:0 tvg-id="ch1010" tvg-name="UK: Sky History HD" tvg-logo="https://rus.hls.gd/images/chIcons/1010.png" tvg-rec="6", UK: Sky History HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch1010/mono.m3u8?token=rast875.v2_gbyp_H7GsDLv5DJmf-Kszydb4vgRww_xlI8oOCLhbmiQH8aB081P2xqI5Xq-12saR_UfG-hCFt5x&nostub=1
+#EXTINF:0 tvg-id="ch1011" tvg-name="UK: Sky History 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1011.png" tvg-rec="6", UK: Sky History 2 HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch1011/mono.m3u8?token=rast875.v2_8tImHfIYvhy5MUndjQir7y4Gjn2jFoVq2y-k4Uyyl7b5P1ISgOLiB7Svf2mlHdPdrhuYeTBj6RWT&nostub=1
+#EXTINF:0 tvg-id="ch2932" tvg-name="US: Animal Planet HD" tvg-logo="https://rus.hls.gd/images/chIcons/2932.png" tvg-rec="3", US: Animal Planet HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch2932/mono.m3u8?token=rast875.v2_38eDaqdHM_EoiBh64nxDl8AuD_5q9o1NFivteoG6JYr88NClef4LmhDKe_NUbu3L1ONCUUwoypGm&nostub=1
+#EXTINF:0 tvg-id="ch2463" tvg-name="US: Discovery HD" tvg-logo="https://rus.hls.gd/images/chIcons/2463.png" tvg-rec="3", US: Discovery HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch2463/mono.m3u8?token=rast875.v2_yQ4gkmPnGbW1sKjUnyJ4Zzm20zDKpfMyJltm-xd0SmIbufCxudlMpJk5Lb9_2qyEGnQFT3VVt40l&nostub=1
+#EXTINF:0 tvg-id="ch3380" tvg-name="US: EarthX HD" tvg-logo="https://rus.hls.gd/images/chIcons/3380.png" tvg-rec="3", US: EarthX HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch3380/mono.m3u8?token=rast875.v2_2sSnWW6LZmZNoL4Rw9gUJwU1F-ikVSy3Qk_aXHOIMSq5POCFaUqLDPHyAuCkOeWLQAAwl_DsIW3P&nostub=1
+#EXTINF:0 tvg-id="ch2199" tvg-name="US: History HD" tvg-logo="https://rus.hls.gd/images/chIcons/2199.png" tvg-rec="3", US: History HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch2199/mono.m3u8?token=rast875.v2_CJQGli2viFb4HflI1VQu2ZPBbgEwA0iO-rP3A3NY1CjIa_Y7fL6KKhajLwTUim5Qs2y4POBTfbjN&nostub=1
+#EXTINF:0 tvg-id="ch3377" tvg-name="US: Heroes and Icons TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3377.png" tvg-rec="3", US: Heroes and Icons TV HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch3377/mono.m3u8?token=rast875.v2_EOjifgnNlH6ZDVUac3wRgv2VFPr9ktYATSWV-YjZI2Ol_Dg-lxpJOLwpECFEkdGoMqWC_acS3oD-&nostub=1
+#EXTINF:0 tvg-id="ch3424" tvg-name="US: National Geographic HD" tvg-logo="https://rus.hls.gd/images/chIcons/3424.png" tvg-rec="3", US: National Geographic HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch3424/mono.m3u8?token=rast875.v2_bhTQGXLGKePIsDwQ3ychTSndJNcoLUFP3S4wV8KBpZ5Lf3Rqew0Y5Tu0z-6upTgPOHMYOTfHkJdc&nostub=1
+#EXTINF:0 tvg-id="ch2703" tvg-name="US: Science HD" tvg-logo="https://rus.hls.gd/images/chIcons/2703.png" tvg-rec="3", US: Science HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch2703/mono.m3u8?token=rast875.v2_9UN31UydXWkm8IkTWVoptajLlR-SDFv8u0r4XaPmAIRWarbrYKu3YKDBwPRtyE9ved0lQ61ELOdW&nostub=1
+#EXTINF:0 tvg-id="ch2601" tvg-name="CA: BBC First HD" tvg-logo="https://rus.hls.gd/images/chIcons/2601.png" tvg-rec="7", CA: BBC First HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch2601/mono.m3u8?token=rast875.v2_GQMGURksobA1uxASQ3Dokm-fWSOOMHJrPMvI9LD1nOV7H-q6Y4WSl5WxMpDy6iAwD9_cJmGrkWMH&nostub=1
+#EXTINF:0 tvg-id="ch2504" tvg-name="CA: BBC Earth HD" tvg-logo="https://rus.hls.gd/images/chIcons/2504.png" tvg-rec="7", CA: BBC Earth HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch2504/mono.m3u8?token=rast875.v2_GE5PW3Ua2BH8Wi60bpFWJzL84oeEWrt6jgbRWx-zov4ZcC6vgVg6PIVZRE70rdO3CMyIHTFdb5tQ&nostub=1
+#EXTINF:0 tvg-id="ch519" tvg-name="CA: Cottage Life HD" tvg-logo="https://rus.hls.gd/images/chIcons/519.png" tvg-rec="7", CA: Cottage Life HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch519/mono.m3u8?token=rast875.v2_I3PGp1JRRCGwxpGINIT9lETUKI7hsjRVgSWvN5XaSxnYVFAfwdQ0Si36rbQzy2Y1PvnqwA1ht-k&nostub=1
+#EXTINF:0 tvg-id="ch1437" tvg-name="CA: CTV Nature HD" tvg-logo="https://rus.hls.gd/images/chIcons/1437.png" tvg-rec="7", CA: CTV Nature HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch1437/mono.m3u8?token=rast875.v2_C6u_50gAZLU_jc0bdkv7skdYjyldX6dR5gkDT-YHmtZA90q7Hioy05e1og9DBqcFmCZGq_CG7FwJ&nostub=1
+#EXTINF:0 tvg-id="ch2889" tvg-name="CA: CTV Wild HD" tvg-logo="https://rus.hls.gd/images/chIcons/2889.png" tvg-rec="7", CA: CTV Wild HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch2889/mono.m3u8?token=rast875.v2_MAl2C9ZOA56c80_5-NyDRh07KUTX9-sO0hoJ4Q6yas9q05M-BIetXpth9ClzQkgaDYepMtTlkGAC&nostub=1
+#EXTINF:0 tvg-id="ch1438" tvg-name="CA: Documentary HD" tvg-logo="https://rus.hls.gd/images/chIcons/1438.png" tvg-rec="7", CA: Documentary HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch1438/mono.m3u8?token=rast875.v2_UOOGej3F0t5zNJVTO-mGT1aJ7NdMPZ6kXk85Pk7ipi6gQY0MJzj6vcUCZoTtLWlchRt7n916ZPQX&nostub=1
+#EXTINF:0 tvg-id="ch2888" tvg-name="CA: H2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2888.png" tvg-rec="7", CA: H2 HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch2888/mono.m3u8?token=rast875.v2_ppeIGMa9aLH3GmGMQxzpazvuQCARvpxRoNof8MTWNgewaa1Ug6T3vUkhhDDuKC5uTcsfkXEqnRN-&nostub=1
+#EXTINF:0 tvg-id="ch2508" tvg-name="CA: Historia HD" tvg-logo="https://rus.hls.gd/images/chIcons/2508.png" tvg-rec="7", CA: Historia HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch2508/mono.m3u8?token=rast875.v2_DJhYa2YwUj3Ngu4MsDUxwUbwBGkCMhnpFT_0bMF5fqCd1wuJr7gRYwEJApfZ7g0lCTQsCFnirPPV&nostub=1
+#EXTINF:0 tvg-id="ch1551" tvg-name="CA: Museum HD" tvg-logo="https://rus.hls.gd/images/chIcons/1551.png" tvg-rec="0", CA: Museum HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch1551/mono.m3u8?token=rast875.v2_XoMvOXKeOKJh0H-cZ4Gh3XkINk7yP4cmF6nHMbyb0-brtLHDwBPzYC4baBWnMXox92GDNku0ZvqV&nostub=1
+#EXTINF:0 tvg-id="ch4118" tvg-name="CA: National Geographic HD" tvg-logo="https://rus.hls.gd/images/chIcons/4118.png" tvg-rec="7", CA: National Geographic HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch4118/mono.m3u8?token=rast875.v2_2OZokV3pxVnWdasVHS9kCCt2TNi5bUoj_aLL7d1DpN7ZJJMLqXFNRV4kXDqAAYcKK3XnxS8cD4NN&nostub=1
+#EXTINF:0 tvg-id="ch2895" tvg-name="CA: National Geographic Wild HD" tvg-logo="https://rus.hls.gd/images/chIcons/2895.png" tvg-rec="7", CA: National Geographic Wild HD
+#EXTGRP:10. Documentary & Nature
+https://15.hls.gd/ch2895/mono.m3u8?token=rast875.v2_iXURpS2m5lJuaMPkoxNNEdC1gVvySIBMqhp7e-ZvaNoJtBVRYY2vKePNCzFQqykGfVkq_ZpZfbv5&nostub=1
 #EXTINF:0 tvg-id="ch503" tvg-name="CA: Smithsonian Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/503.png" tvg-rec="7", CA: Smithsonian Channel HD
-#EXTGRP:Canada
+#EXTGRP:10. Documentary & Nature
 https://15.hls.gd/ch503/mono.m3u8?token=rast875.v2_s2OWwE4vxSpwMgxyz1Z3UsK5VqOkPwgMfl_rtxFPptyKMKA1r6jQqr-KgqXB1CjyJPJ1QP0RE70&nostub=1
+#EXTINF:0 tvg-id="ch1168" tvg-name="UK: Sky Max HD" tvg-logo="https://rus.hls.gd/images/chIcons/1168.png" tvg-rec="6", UK: Sky Max HD
+#EXTGRP:11. Lifestyle
+https://15.hls.gd/ch1168/mono.m3u8?token=rast875.v2_DGRgS0OTQyRNF6XQh1QmUmr1lj-EEZpRWeYw5Dp-LLtDwqgkAafvRS8CYWhynky2rAHv7-ZDQSNc&nostub=1
+#EXTINF:0 tvg-id="ch1020" tvg-name="UK: TLC HD" tvg-logo="https://rus.hls.gd/images/chIcons/1020.png" tvg-rec="7", UK: TLC HD
+#EXTGRP:11. Lifestyle
+https://15.hls.gd/ch1020/mono.m3u8?token=rast875.v2_ViH5K6erVM7n3B92JtduYZejDVDwEy1ArQ38UZIbsANiDSxCjcR4kd1I1Jci_rqzZg-qxA8fLhUi&nostub=1
+#EXTINF:0 tvg-id="ch2462" tvg-name="US: Cooking Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/2462.png" tvg-rec="3", US: Cooking Channel HD
+#EXTGRP:11. Lifestyle
+https://15.hls.gd/ch2462/mono.m3u8?token=rast875.v2_maG6XIcd5HwgD6KkxrY_WTQ7LNZXTgnGA5WjfQjRhIk8mBuHwPmg8rYGEwxMoQ43v-ougW0ZCQ1k&nostub=1
+#EXTINF:0 tvg-id="ch3076" tvg-name="US: E! Entertainment HD" tvg-logo="https://rus.hls.gd/images/chIcons/3076.png" tvg-rec="3", US: E! Entertainment HD
+#EXTGRP:11. Lifestyle
+https://15.hls.gd/ch3076/mono.m3u8?token=rast875.v2_YtMMUrNQP74qJU0BZX61aFHv15ZdJjfwYWgOzb1BiuGWPit-D3RmPm3ZEsK5IDg5-orZz4KtG_Yh&nostub=1
+#EXTINF:0 tvg-id="ch3398" tvg-name="US: FOX Soul HD" tvg-logo="https://rus.hls.gd/images/chIcons/3398.png" tvg-rec="3", US: FOX Soul HD
+#EXTGRP:11. Lifestyle
+https://15.hls.gd/ch3398/mono.m3u8?token=rast875.v2_of4qk-tjzGHc4kA49v2PX9IC1t_tGypRE4dnrobM7zDIKKRPagH-KIykQouppXxR1ITER-1mKR0o&nostub=1
+#EXTINF:0 tvg-id="ch2198" tvg-name="US: HGTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/2198.png" tvg-rec="3", US: HGTV HD
+#EXTGRP:11. Lifestyle
+https://15.hls.gd/ch2198/mono.m3u8?token=rast875.v2_eX2gMpfdInDEGGvsNIIZdz2SQDQ5Ax5b5Qi5zkfp2g8m-2cqBBQficha0gqZ2ZQ-YdWe-qI4Nym1&nostub=1
+#EXTINF:0 tvg-id="ch2856" tvg-name="US: TLC HD" tvg-logo="https://rus.hls.gd/images/chIcons/2856.png" tvg-rec="3", US: TLC HD
+#EXTGRP:11. Lifestyle
+https://15.hls.gd/ch2856/mono.m3u8?token=rast875.v2_Ygnpsj_qZhTbjlkx9fUrUtacv0dX-itDe2AM0rooAIV8nvIKEEUEgPLyErFU8_hZZ_BPsg8GOypz&nostub=1
+#EXTINF:0 tvg-id="ch2505" tvg-name="CA: Canal D HD" tvg-logo="https://rus.hls.gd/images/chIcons/2505.png" tvg-rec="7", CA: Canal D HD
+#EXTGRP:11. Lifestyle
+https://15.hls.gd/ch2505/mono.m3u8?token=rast875.v2__dKTbu8oB8wD5Nl9hnY4HPCZUxwHAeuRI8HDcII9EEnnHsvEGuVRrhuaJs-UwLqp1g_FMqPg2iVc&nostub=1
+#EXTINF:0 tvg-id="ch2890" tvg-name="CA: CTV Drama Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/2890.png" tvg-rec="7", CA: CTV Drama Channel HD
+#EXTGRP:11. Lifestyle
+https://15.hls.gd/ch2890/mono.m3u8?token=rast875.v2_WsFtVH50vdl0PAZup6ccu5JEAZEBY7wFerGG6bJJTTM7smNVrJy2DIzPPWSaECnmByH8iAJ58wvT&nostub=1
+#EXTINF:0 tvg-id="ch2509" tvg-name="CA: CTV Sci-Fi Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/2509.png" tvg-rec="7", CA: CTV Sci-Fi Channel HD
+#EXTGRP:11. Lifestyle
+https://15.hls.gd/ch2509/mono.m3u8?token=rast875.v2_OCVBtgpOObMCuSR52XaCYrZGQxvNboFpEaS0_TyzR4JZK2c230Cvel-b08PcTLxb7kPpxJmyHZ_n&nostub=1
+#EXTINF:0 tvg-id="ch2893" tvg-name="CA: Dtour HD" tvg-logo="https://rus.hls.gd/images/chIcons/2893.png" tvg-rec="7", CA: Dtour HD
+#EXTGRP:11. Lifestyle
+https://15.hls.gd/ch2893/mono.m3u8?token=rast875.v2_jGNw47HUMALCjXk8Q6e-pM_8HzdFxw2nFxjm_OopZXHU0Gwf3B0PtoyDVY-lOQdsRmNdM-JNhFg5&nostub=1
+#EXTINF:0 tvg-id="ch1180" tvg-name="CA: Flavour Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1180.png" tvg-rec="7", CA: Flavour Network HD
+#EXTGRP:11. Lifestyle
+https://15.hls.gd/ch1180/mono.m3u8?token=rast875.v2_MN941M_eKPlh9kIo0Fo7lm2ufhUdIfWTWIHO0eqsx-SdfrdMZKv5BXqoFgxRQkPGwwDIlZvN4SLl&nostub=1
 #EXTINF:0 tvg-id="ch1166" tvg-name="CA: Slice HD" tvg-logo="https://rus.hls.gd/images/chIcons/1166.png" tvg-rec="7", CA: Slice HD
-#EXTGRP:Canada
+#EXTGRP:11. Lifestyle
 https://15.hls.gd/ch1166/mono.m3u8?token=rast875.v2_rtxWGmOfaeXSYBU5mAAodqocSdY1ZEvtvtEqjP_2rZftzoU3MW_sgSQ8f2DHpJpxrjpXqlayCAF4&nostub=1
+#EXTINF:0 tvg-id="ch2750" tvg-name="UK: Now 70s" tvg-logo="https://rus.hls.gd/images/chIcons/2750.png" tvg-rec="0", UK: Now 70s
+#EXTGRP:12. Music
+https://15.hls.gd/ch2750/mono.m3u8?token=rast875.v2_UJeINS3DldJeLn5JNCGxk00POJLRIydc-DlEbvRKU0FHU8kGUdhQb4hCF-2O6tMTQkSiHTZI2eRq&nostub=1
+#EXTINF:0 tvg-id="ch2751" tvg-name="UK: Now 80s" tvg-logo="https://rus.hls.gd/images/chIcons/2751.png" tvg-rec="0", UK: Now 80s
+#EXTGRP:12. Music
+https://15.hls.gd/ch2751/mono.m3u8?token=rast875.v2__C-3EIKBU2QXhIp--jzSnsgbxSCZpfWRq_1wBBiYkHD1n17NJ8CU3VO2S7APgm8pS8bbRf6qOTcR&nostub=1
+#EXTINF:0 tvg-id="ch3432" tvg-name="US: MTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3432.png" tvg-rec="3", US: MTV HD
+#EXTGRP:12. Music
+https://15.hls.gd/ch3432/mono.m3u8?token=rast875.v2_tBDsMMRvpRIG7vXNG7lA4zFwkedPftlh8YQFospeksVdwmBQ1zOnKO4NVTnCC4lBhQGUuw83SSY7&nostub=1
+#EXTINF:0 tvg-id="ch3381" tvg-name="US: MTV 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3381.png" tvg-rec="3", US: MTV 2 HD
+#EXTGRP:12. Music
+https://15.hls.gd/ch3381/mono.m3u8?token=rast875.v2_v8FamvHofASYx3TRYU1HMYO-PDJMRIv3WGA29LttA0lGCwNmrrFTDXpDUW8deKoNy396xzH4KMuk&nostub=1
+#EXTINF:0 tvg-id="ch3382" tvg-name="US: VH1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3382.png" tvg-rec="0", US: VH1 HD
+#EXTGRP:12. Music
+https://15.hls.gd/ch3382/mono.m3u8?token=rast875.v2_Sujh5UJXEz3n7oOgZaV6FoeKkR--3YgskQtYPOELe0by1VA6GbJJdg9VnADk-Tch1YDE5khY4W_Q&nostub=1
+#EXTINF:0 tvg-id="ch3291" tvg-name="CA: CMT HD" tvg-logo="https://rus.hls.gd/images/chIcons/3291.png" tvg-rec="7", CA: CMT HD
+#EXTGRP:12. Music
+https://15.hls.gd/ch3291/mono.m3u8?token=rast875.v2_NdzpdMC7CEIiBm-gG8zLnfJAYNsC1J8MUgGRTUWFqtPpj9rHvjJ9Z3ju8vBaxuKakAWv-F9zIAkg&nostub=1
+#EXTINF:0 tvg-id="ch3330" tvg-name="CA: Much HD" tvg-logo="https://rus.hls.gd/images/chIcons/3330.png" tvg-rec="0", CA: Much HD
+#EXTGRP:12. Music
+https://15.hls.gd/ch3330/mono.m3u8?token=rast875.v2_s8bhRYcHsCMVfB4tUDW0rPSFn3ewcsK6ZKr67j0EjszfCm0ttqwuThYecRxq24DewLwth7MzvLUs&nostub=1
+#EXTINF:0 tvg-id="ch2740" tvg-name="CA: Now 70s HD" tvg-logo="https://rus.hls.gd/images/chIcons/2740.png" tvg-rec="0", CA: Now 70s HD
+#EXTGRP:12. Music
+https://15.hls.gd/ch2740/mono.m3u8?token=rast875.v2_U18bbQJlEEBwT2hbxlXG7YI9tREbk_f1_l_79yqA9B8jQgWQz2eBryVVUzt8T4odQ3eh3Gf6qQsC&nostub=1
+#EXTINF:0 tvg-id="ch2739" tvg-name="CA: Now 80s HD" tvg-logo="https://rus.hls.gd/images/chIcons/2739.png" tvg-rec="0", CA: Now 80s HD
+#EXTGRP:12. Music
+https://15.hls.gd/ch2739/mono.m3u8?token=rast875.v2_Fcq0uBQmzCUNDbwQFxDdPsahumUlOeLiDQMyQpi2PYB2Tq5-pN3nKfvRqMuv3zp_9vNY3A3FZW1c&nostub=1
+#EXTINF:0 tvg-id="ch2738" tvg-name="CA: Now Rock HD" tvg-logo="https://rus.hls.gd/images/chIcons/2738.png" tvg-rec="0", CA: Now Rock HD
+#EXTGRP:12. Music
+https://15.hls.gd/ch2738/mono.m3u8?token=rast875.v2_mlnkJ1dCTgnjO1IRpryRDWdOSHwvGXMH4hDgui2yss-yWTNvxhSc71UVvGo6YbKC2eiZQaP7K5Lq&nostub=1
 #EXTINF:0 tvg-id="ch660" tvg-name="CA: Stingray Festival 4K" tvg-logo="https://rus.hls.gd/images/chIcons/660.png" tvg-rec="0", CA: Stingray Festival 4K
-#EXTGRP:Canada
+#EXTGRP:12. Music
 https://15.hls.gd/ch660/mono.m3u8?token=rast875.v2_Adkp5TrMBi9MJrtXgksU7Tpk55e-5SDZxwZEi5je3AnaPBn7gx_yL0KACQExHZfPp3Qi4n7vBOc&nostub=1
 #EXTINF:0 tvg-id="ch2761" tvg-name="CA: Stingray Now 4K" tvg-logo="https://rus.hls.gd/images/chIcons/2761.png" tvg-rec="0", CA: Stingray Now 4K
-#EXTGRP:Canada
+#EXTGRP:12. Music
 https://15.hls.gd/ch2761/mono.m3u8?token=rast875.v2_5Com4co-FiFIupdWy-Ly06oShOZ5kYrFTlYdnFWRelGAV-b2ad1DDuqyzHa55sjhbzvDJJNFImfW&nostub=1
 #EXTINF:0 tvg-id="ch2763" tvg-name="CA: Stingray Ambiance 4k" tvg-logo="https://rus.hls.gd/images/chIcons/2763.png" tvg-rec="0", CA: Stingray Ambiance 4k
-#EXTGRP:Canada
+#EXTGRP:12. Music
 https://15.hls.gd/ch2763/mono.m3u8?token=rast875.v2_QMXfzAo35chY8bjh2CIZ-4e2wXeUJYCpnL8CSzH0jCkuya6hDL8AtvsvcX8IAS-YF3OKFOzxB7ju&nostub=1
 #EXTINF:0 tvg-id="ch1923" tvg-name="CA: Stingray Classica HD" tvg-logo="https://rus.hls.gd/images/chIcons/1923.png" tvg-rec="0", CA: Stingray Classica HD
-#EXTGRP:Canada
+#EXTGRP:12. Music
 https://15.hls.gd/ch1923/mono.m3u8?token=rast875.v2_mFnUCgozw6iwVIphB3rd91A1xYrtwCzT7rbTXdnECF6A1Vx6D0gvaxIM1B0EP6iECT2CKQnXsae9&nostub=1
 #EXTINF:0 tvg-id="ch2759" tvg-name="CA: Stingray Hits HD" tvg-logo="https://rus.hls.gd/images/chIcons/2759.png" tvg-rec="0", CA: Stingray Hits HD
-#EXTGRP:Canada
+#EXTGRP:12. Music
 https://15.hls.gd/ch2759/mono.m3u8?token=rast875.v2_TMipP_9CkpYy9rO53QvQy1iJlLQd6SAtEC344iJrShuXbDu5HN9icIgd7SaqLIs10h4bFdxBsr5r&nostub=1
 #EXTINF:0 tvg-id="ch2757" tvg-name="CA: Stingray Retro HD" tvg-logo="https://rus.hls.gd/images/chIcons/2757.png" tvg-rec="0", CA: Stingray Retro HD
-#EXTGRP:Canada
+#EXTGRP:12. Music
 https://15.hls.gd/ch2757/mono.m3u8?token=rast875.v2_VhGbJPs87ABHJ9E0fKGRgwKSn5KC9YJcbOQzxvO0OQgPsdIZ23XFHu_zZ0NL_v9Nes5oHrd8vKRx&nostub=1
 #EXTINF:0 tvg-id="ch2768" tvg-name="CA: Stingray Country HD" tvg-logo="https://rus.hls.gd/images/chIcons/2768.png" tvg-rec="0", CA: Stingray Country HD
-#EXTGRP:Canada
+#EXTGRP:12. Music
 https://15.hls.gd/ch2768/mono.m3u8?token=rast875.v2_5giWqZxHQLAR4MPtypABGft4pSOUXtl5QTL2y1deRodsoJxsi2uc3xtSDl2nPAQ-E7HpOW2a6A8D&nostub=1
 #EXTINF:0 tvg-id="ch2741" tvg-name="CA: Stingray Loud HD" tvg-logo="https://rus.hls.gd/images/chIcons/2741.png" tvg-rec="0", CA: Stingray Loud HD
-#EXTGRP:Canada
+#EXTGRP:12. Music
 https://15.hls.gd/ch2741/mono.m3u8?token=rast875.v2_sQ9LG-Xibj1Carv-75nhdeHOtaG39PNU2YJo4UiILjARJR8BywANOv0ngDLhwTs5Q-Rnm2BavNnD&nostub=1
 #EXTINF:0 tvg-id="ch2764" tvg-name="CA: Stingray Vibe HD" tvg-logo="https://rus.hls.gd/images/chIcons/2764.png" tvg-rec="0", CA: Stingray Vibe HD
-#EXTGRP:Canada
+#EXTGRP:12. Music
 https://15.hls.gd/ch2764/mono.m3u8?token=rast875.v2_lkCSiL6ITd3sQcUYa2bN1jIhlzhcnLKVBy8HRN--6XElw_6tuUo64GfsGKK_q9z-_sJvwveV-r3E&nostub=1
-#EXTINF:0 tvg-id="ch2930" tvg-name="CA: Treehouse HD" tvg-logo="https://rus.hls.gd/images/chIcons/2930.png" tvg-rec="7", CA: Treehouse HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2930/mono.m3u8?token=rast875.v2_jD3E0xFKYixPdBj4j_eAukHmn48fqYnn80-3ThK0_UP89wWc_8eIKwv2J1O4NePI3FQGb3LQxl2N&nostub=1
+#EXTINF:0 tvg-id="ch2440" tvg-name="IE: Premier Sports 1 HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2440.png" tvg-rec="7", IE: Premier Sports 1 HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2440/mono.m3u8?token=rast875.v2_cLhpd3Zf1_vR9qWuStP7urwQQXDc94uk2UwkZxqeqKqI6ECnWmjuaK48FE0Ymo-SKlAQzC6weBZR&nostub=1
+#EXTINF:0 tvg-id="ch2441" tvg-name="IE: Premier Sports 2 HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2441.png" tvg-rec="7", IE: Premier Sports 2 HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2441/mono.m3u8?token=rast875.v2_bZBP0O7U9PT4rCy_jp_MKleYiPmeiUWBjWst0ExRlTlsm8LQUWnqpoBm7aGAx_G68xuKW7dxJzn_&nostub=1
+#EXTINF:0 tvg-id="ch1516" tvg-name="UK: Sky Sports 1 UHD" tvg-logo="https://rus.hls.gd/images/chIcons/1516.png" tvg-rec="0", UK: Sky Sports 1 UHD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1516/mono.m3u8?token=rast875.v2_PSp56P5zwzYnSODenXmKceiJCOSoqqjj9pg3fBjerIUhPfmaNrM6xvbtzWkgtWPELW_pA0diEix2&nostub=1
+#EXTINF:0 tvg-id="ch2714" tvg-name="UK: Sky Sports 2 UHD" tvg-logo="https://rus.hls.gd/images/chIcons/2714.png" tvg-rec="0", UK: Sky Sports 2 UHD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2714/mono.m3u8?token=rast875.v2_z06UZd_-joE2r2JIuxvn0kpcwYlFNSaQ2VNmTn9zfoTRZOdmpRryt0QfI_BMDu4DdgT2V2ba-rbo&nostub=1
+#EXTINF:0 tvg-id="ch2451" tvg-name="UK: Sky Sports Premier League HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2451.png" tvg-rec="7", UK: Sky Sports Premier League HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2451/mono.m3u8?token=rast875.v2_jHor5ctmxVB0NNUAPUACyDnQR403mpX-7klHYZ84X_0CviJEEWFelzutRdEmaScoLFa3AvMPBNYr&nostub=1
+#EXTINF:0 tvg-id="ch1554" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="https://rus.hls.gd/images/chIcons/1554.png" tvg-rec="6", UK: Sky Sports Premier League HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1554/mono.m3u8?token=rast875.v2_BTk9oSdzA2BXIybMFjHZWzlhwRELxJx4yM4cTUadaP5N49MwwdECAEA0syi_SGFU9VoMRdPhgMKJ&nostub=1
+#EXTINF:0 tvg-id="ch2446" tvg-name="UK: Sky Sports Football HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2446.png" tvg-rec="6", UK: Sky Sports Football HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2446/mono.m3u8?token=rast875.v2_B0gD4j4ykEimV6wwJ3XEXBmFYprSMNLfXBPmg8j7p2wmHbI-ws2vJeM-6-Sh_UCayYVsvzhH9MJJ&nostub=1
+#EXTINF:0 tvg-id="ch314" tvg-name="UK: Sky Sports Football HD" tvg-logo="https://rus.hls.gd/images/chIcons/314.png" tvg-rec="6", UK: Sky Sports Football HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch314/mono.m3u8?token=rast875.v2_YJrMzauqdVHFTQ0FVzJgd0uSpWuF_ZO7n0DL4M8X3rms-kpL0wP874ilPD2v3Fc25eHpi-mpMj8&nostub=1
+#EXTINF:0 tvg-id="ch2449" tvg-name="UK: Sky Sports Mix HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2449.png" tvg-rec="7", UK: Sky Sports Mix HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2449/mono.m3u8?token=rast875.v2_Tse0GtQ-fbS0PMKmOwPc1HGE-LWXAZMAers2yuoQHwoQRPXHjehcILC_YlTP3-dvGU9m9be49Dxf&nostub=1
+#EXTINF:0 tvg-id="ch234" tvg-name="UK: Sky Sports Mix HD" tvg-logo="https://rus.hls.gd/images/chIcons/234.png" tvg-rec="6", UK: Sky Sports Mix HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch234/mono.m3u8?token=rast875.v2_tt3Umk8uWZuIdcDY7sDX4aCPTl7_friKXu2vGY9MAtjM_NAmbUgw8WihbUmc4CJ7j3S5N0p17UM&nostub=1
+#EXTINF:0 tvg-id="ch2444" tvg-name="UK: Sky Sports Cricket HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2444.png" tvg-rec="6", UK: Sky Sports Cricket HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2444/mono.m3u8?token=rast875.v2_Jc3OAENDEK1A2Eb703XvyL_qY0bVjqN5EERPcmICj3fVqRhbvhFhtglBFJ_e0NuUtX8Jd18BDYbm&nostub=1
+#EXTINF:0 tvg-id="ch235" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="https://rus.hls.gd/images/chIcons/235.png" tvg-rec="6", UK: Sky Sports Cricket HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch235/mono.m3u8?token=rast875.v2_icW_Mqxn7fZe-st83jyKTsFTiovQJUajGuw4gS7T3mVphwkGUWekpFqFwniazi7HybkuJgeAW5s&nostub=1
+#EXTINF:0 tvg-id="ch1508" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="https://rus.hls.gd/images/chIcons/1508.png" tvg-rec="6", UK: Sky Sports Main Event UHD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1508/mono.m3u8?token=rast875.v2_tcgonQG4QAzcx7nYnqA4BGAenJN-Hgs2A9CuBQg0nn2rbadezvbo_-FNmwNn7HU47KBzuulZJ05N&nostub=1
+#EXTINF:0 tvg-id="ch2448" tvg-name="Sky UK: Sports Main Event HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2448.png" tvg-rec="7", Sky UK: Sports Main Event HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2448/mono.m3u8?token=rast875.v2_mrPAvKxVsdVYEJlyUuU_oiAZRIZHhEhdomusTROzaTYwU1ua6pUynw7txS2y1QiPm2GgnmXD_i5M&nostub=1
+#EXTINF:0 tvg-id="ch335" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="https://rus.hls.gd/images/chIcons/335.png" tvg-rec="6", UK: Sky Sports Main Event HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch335/mono.m3u8?token=rast875.v2_6Q-bY5RBwz9dMBzE8KBq5fW19FUFtVI-gto6uvNNPves2lYOhaeRRDO8gCRfLsH0BQtSWpJh8FM&nostub=1
+#EXTINF:0 tvg-id="ch2447" tvg-name="UK: Sky Sports Golf HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2447.png" tvg-rec="6", UK: Sky Sports Golf HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2447/mono.m3u8?token=rast875.v2_eIA70tPYSpy3G6QsdbUbtxKHXB36Grm8Z0Agv_fkgL1SusnE9f8w8JoEZ3hF-nO8N5YXVLs_P2h6&nostub=1
+#EXTINF:0 tvg-id="ch306" tvg-name="UK: Sky Sports Golf HD" tvg-logo="https://rus.hls.gd/images/chIcons/306.png" tvg-rec="6", UK: Sky Sports Golf HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch306/mono.m3u8?token=rast875.v2_9F8EB-u1ZeqPQqaRoBPb2fP2pp5jhmzc7arFqRqb8m7gg15guih1Wre8P5kVCqQrkAnVLcri-ds&nostub=1
+#EXTINF:0 tvg-id="ch2452" tvg-name="UK: Sky Sports Racing HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2452.png" tvg-rec="6", UK: Sky Sports Racing HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2452/mono.m3u8?token=rast875.v2_aNmBRpCPZ6AD08fqE6McQ62FoBgX8FsWZzKlujek2M5SBfAoOocQTuuCMMEQzVSAs7ITzl5E-LbR&nostub=1
+#EXTINF:0 tvg-id="ch1100" tvg-name="UK: Sky Sports Racing HD" tvg-logo="https://rus.hls.gd/images/chIcons/1100.png" tvg-rec="6", UK: Sky Sports Racing HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1100/mono.m3u8?token=rast875.v2_gj0yvW4fioQt3wqw8-ZIwK22c3-w2HpGV8q-T-xEqtM-PQu7TWVz-aHzdHHY5Qj1RJTDrJLv3NG4&nostub=1
+#EXTINF:0 tvg-id="ch2443" tvg-name="UK: Sky Sports Plus HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2443.png" tvg-rec="7", UK: Sky Sports Plus HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2443/mono.m3u8?token=rast875.v2_42AOnDQN41d0bA8EOQRXnvcl3Ma290q98nULYv5yC5E4FvakHuRdAehTp_gT397ZAiycZ7jJ7LDn&nostub=1
+#EXTINF:0 tvg-id="ch074" tvg-name="UK: Sky Sports Plus HD" tvg-logo="https://rus.hls.gd/images/chIcons/74.png" tvg-rec="6", UK: Sky Sports Plus HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch074/mono.m3u8?token=rast875.v2_QmzX5dQdQlPkGEFk14B-zUHIutxH5SFMnYDP5OKtjTlrca68XosVFYftsbYoxLUQNcyobkjNYA&nostub=1
+#EXTINF:0 tvg-id="ch1517" tvg-name="UK: Sky Sports F1 UHD" tvg-logo="https://rus.hls.gd/images/chIcons/1517.png" tvg-rec="0", UK: Sky Sports F1 UHD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1517/mono.m3u8?token=rast875.v2_SoSnf05jN0NQQWtHP9zCbt-ZC8I1gg5xNwf-7jbjhPTYxQLzX8a5iUtCker8R0jlNByw6tfLK_x9&nostub=1
+#EXTINF:0 tvg-id="ch2445" tvg-name="UK: Sky Sports F1 HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2445.png" tvg-rec="6", UK: Sky Sports F1 HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2445/mono.m3u8?token=rast875.v2_oH0p-eSlIf3rfixVzoP1vx9TKAM-OaOMrpeRbslIHBZR2Grlzfbc3qE7lhnsklOWTR_JvgPGeuD9&nostub=1
+#EXTINF:0 tvg-id="ch513" tvg-name="UK: Sky Sports F1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/513.png" tvg-rec="6", UK: Sky Sports F1 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch513/mono.m3u8?token=rast875.v2_MVNo6KF6qArw3UH-aWmAdOSJGGN5trixXTVU4cQeVyuQiWAUKkZiSzwPgKKpLgFwCpTVbCHzV4U&nostub=1
+#EXTINF:0 tvg-id="ch3905" tvg-name="UK: Sky Sports NFL HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/3905.png" tvg-rec="7", UK: Sky Sports NFL HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch3905/mono.m3u8?token=rast875.v2_HV6_opO_Z2n8XtklBU59xmnXriumonLCBx2jVftOYocoHHgIv5bf1QCcNQejlY3wAdGWA6jd07tB&nostub=1
+#EXTINF:0 tvg-id="ch3906" tvg-name="UK: Sky Sports NFL HD" tvg-logo="https://rus.hls.gd/images/chIcons/3906.png" tvg-rec="6", UK: Sky Sports NFL HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch3906/mono.m3u8?token=rast875.v2_Xy4ytKG-mNKO-4qUhRNjD2ZmVHu-z2O_gnV8f8Kdqs_79tWO5uG65646lZi1QVSyrPdxthSQ91Vz&nostub=1
+#EXTINF:0 tvg-id="ch1498" tvg-name="UK: Sky Sports Tennis HD" tvg-logo="https://rus.hls.gd/images/chIcons/1498.png" tvg-rec="6", UK: Sky Sports Tennis HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1498/mono.m3u8?token=rast875.v2_nqDJEegowuzir5iCiGjlrIqZZBdNcqcAqVxrZ9VLdD_xtL2FUQ4y6dKUMUM0Mv1AvTUZUi6moKlH&nostub=1
+#EXTINF:0 tvg-id="ch2132" tvg-name="UK: TNT Sports Ultimate" tvg-logo="https://rus.hls.gd/images/chIcons/2132.png" tvg-rec="0", UK: TNT Sports Ultimate
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2132/mono.m3u8?token=rast875.v2_ryhlT1PX8ZMWNfpclSVgi_RNIa0mdf6K2hr6VTeuc8P5ZEOcLzg5irqRt8JQvuwl1D5pwEWwOzc5&nostub=1
+#EXTINF:0 tvg-id="ch2207" tvg-name="UK: TNT Sport 1 HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2207.png" tvg-rec="6", UK: TNT Sport 1 HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2207/mono.m3u8?token=rast875.v2_bY5Cnza6ZqSgR-5_Pu9Lf4poY-KCwXabHOR4fpMF0hIBcuSay5PNXLpSbHw5-9FiUvxYgF5NlqXS&nostub=1
+#EXTINF:0 tvg-id="ch236" tvg-name="UK: TNT Sport 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/236.png" tvg-rec="6", UK: TNT Sport 1 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch236/mono.m3u8?token=rast875.v2_y-CWnCjJ1yNkuZKnlCibnYZWJgMP2ADAIDVzPmf24_Omxi4o88qy0yi_Ox36cMF4laYj29B4kBI&nostub=1
+#EXTINF:0 tvg-id="ch2208" tvg-name="UK: TNT Sport 2 HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2208.png" tvg-rec="6", UK: TNT Sport 2 HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2208/mono.m3u8?token=rast875.v2_u1WSsI2FhTUm-6ueKjvwh7-GxS4qM9zcbKn5cuqvyP2AODm00YH2wNLVJcw1IBFC11PC9Tei2_uT&nostub=1
+#EXTINF:0 tvg-id="ch334" tvg-name="UK: TNT Sport 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/334.png" tvg-rec="6", UK: TNT Sport 2 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch334/mono.m3u8?token=rast875.v2_7Hh-fgdl7I4QxfTrIpyoePuGdiCw88IVSFPTkgJPgySU_XcNyP5eu0cjj-wxTzMv-T8PwA5yTPI&nostub=1
+#EXTINF:0 tvg-id="ch2209" tvg-name="UK: TNT Sport 3 HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2209.png" tvg-rec="6", UK: TNT Sport 3 HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2209/mono.m3u8?token=rast875.v2_kCsia5pfjogEeVkzYu1-5APnuWHl9_xAkeT6jdqlgDZ4HdEtBFHI5X0L_wKBorR4aeo3oAB3NkRr&nostub=1
+#EXTINF:0 tvg-id="ch233" tvg-name="UK: TNT Sport 3 HD" tvg-logo="https://rus.hls.gd/images/chIcons/233.png" tvg-rec="6", UK: TNT Sport 3 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch233/mono.m3u8?token=rast875.v2_CqIApnLo8QuDO-0v-qns4I0ENEBH7lGd1877oB65DXkcCK_ui0HpzoTOOGbNvauxmsI1RSvfFrc&nostub=1
+#EXTINF:0 tvg-id="ch2210" tvg-name="UK: TNT Sport 4 HD 50fps" tvg-logo="https://rus.hls.gd/images/chIcons/2210.png" tvg-rec="6", UK: TNT Sport 4 HD 50fps
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2210/mono.m3u8?token=rast875.v2_sRdmLGHNcGtgAJmxgDzyBYRxDcuaravcD1dipmF05LRicre3_3quwPowTUTNY3XcYl2eSKyhyUtV&nostub=1
+#EXTINF:0 tvg-id="ch2002" tvg-name="UK: TNT Sport 4 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2002.png" tvg-rec="6", UK: TNT Sport 4 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2002/mono.m3u8?token=rast875.v2_OKdwPn-3ba8WGwkemDk0r_A7RR1g8nUWpl5YNgfqGmXbhn-aU6GLVkvL3UtUgwsgZAF5NQcEXShO&nostub=1
+#EXTINF:0 tvg-id="ch2081" tvg-name="UK: TNT Sport 5 (Event Only)" tvg-logo="https://rus.hls.gd/images/chIcons/2081.png" tvg-rec="0", UK: TNT Sport 5 (Event Only)
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2081/mono.m3u8?token=rast875.v2_NrX6HfAvpsFKcEsu2riMlOE_jjxE275qo3oX3NcYyecPPGNzLTGTbGqV8nx1oXAmjfqZUwIUiGx-&nostub=1
+#EXTINF:0 tvg-id="ch2082" tvg-name="UK: TNT Sport 6 (Event Only)" tvg-logo="https://rus.hls.gd/images/chIcons/2082.png" tvg-rec="0", UK: TNT Sport 6 (Event Only)
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2082/mono.m3u8?token=rast875.v2_B8gwjn_bMmt9Nfdjnw4Mf3lOCKcl0rJL5S4KssUM4XLJcTtgS2Jw0G-WbLJWwAVhUFaoFTLocOpz&nostub=1
+#EXTINF:0 tvg-id="ch2083" tvg-name="UK: TNT Sport 7 (Event Only)" tvg-logo="https://rus.hls.gd/images/chIcons/2083.png" tvg-rec="0", UK: TNT Sport 7 (Event Only)
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2083/mono.m3u8?token=rast875.v2_8vJooZ8oz-KIn1fOUI4HkPu1xo4oNj5NzGWymCsmmOSpiZ91AfN54jBMxtaZ6GEacdca41-3xd59&nostub=1
+#EXTINF:0 tvg-id="ch2084" tvg-name="UK: TNT Sport 8 (Event Only)" tvg-logo="https://rus.hls.gd/images/chIcons/2084.png" tvg-rec="0", UK: TNT Sport 8 (Event Only)
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2084/mono.m3u8?token=rast875.v2_uiMJZRfFZFevOWKFzv3KsuDX1HD10o5tL7XL1o4Xk2UmVgIuX6zDXCJA1sBzKJFWNMtMFhnLxYjq&nostub=1
+#EXTINF:0 tvg-id="ch2085" tvg-name="UK: TNT Sport 9 (Event Only)" tvg-logo="https://rus.hls.gd/images/chIcons/2085.png" tvg-rec="0", UK: TNT Sport 9 (Event Only)
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2085/mono.m3u8?token=rast875.v2_CVK1--0SiYETV-6wK521K6hIiF8WFBmh4DzTZVuw-dzueA54b6kjWYnRGWjAyb87znyoRn0gpTFb&nostub=1
+#EXTINF:0 tvg-id="ch1718" tvg-name="UK: Viaplay Sports 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1718.png" tvg-rec="6", UK: Viaplay Sports 1 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1718/mono.m3u8?token=rast875.v2_xORX1ZzX7BOTdgv_qk42ivTGpbidiWGNFoSAiefzN0j1od4BTVzLdg8EMgx5HyAen_3cNeTcoxAg&nostub=1
+#EXTINF:0 tvg-id="ch1719" tvg-name="UK: Viaplay Sports 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1719.png" tvg-rec="6", UK: Viaplay Sports 2 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1719/mono.m3u8?token=rast875.v2_X3jd50V6_2-JgtI958LMH_GCFDToiUuCtS3yWsrpqKZ2hR6JYB7by_hatMu1UzsnxqIYh81IUWgS&nostub=1
+#EXTINF:0 tvg-id="ch2869" tvg-name="US: Big Ten HD" tvg-logo="https://rus.hls.gd/images/chIcons/2869.png" tvg-rec="3", US: Big Ten HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2869/mono.m3u8?token=rast875.v2_b4IYEBe2E2jNv4WorbeOM6VKX6iu05U1__HUmdEIkYWlKziD8Z4kFcZDV44GkVsuO1BpuHLcOyyg&nostub=1
+#EXTINF:0 tvg-id="ch2870" tvg-name="US: Big Ten Network Overflow 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2870.png" tvg-rec="3", US: Big Ten Network Overflow 2 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2870/mono.m3u8?token=rast875.v2__1AyAibW4FhItA_EJp9s2Qb1T7GUGgx2ZvS7lzw1cmLdDuHEkMf2rUMCEw9Y0wv2KmEFEIhpM46v&nostub=1
+#EXTINF:0 tvg-id="ch3368" tvg-name="US: Big Ten Network Overflow 3 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3368.png" tvg-rec="3", US: Big Ten Network Overflow 3 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch3368/mono.m3u8?token=rast875.v2_9IHxAnEphbetOyEkNY8_KRZoj-74qikiFemlewv2pk6-W_rma9mRSILv1X06pm2k8ASgan39JHyN&nostub=1
+#EXTINF:0 tvg-id="ch3369" tvg-name="US: Big Ten Network Overflow 4 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3369.png" tvg-rec="3", US: Big Ten Network Overflow 4 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch3369/mono.m3u8?token=rast875.v2_qVjlQqT-grc1Wzw0af4zXBhLkWceNfgpDhBKvpiLVYQdHh81LJgxc6H7uH2mGn8hcvftUAP2_4f6&nostub=1
+#EXTINF:0 tvg-id="ch3370" tvg-name="US: Billiard TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3370.png" tvg-rec="0", US: Billiard TV HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch3370/mono.m3u8?token=rast875.v2_jeZhwzWm0WndJI58DUtZtBr3VuZgV2EmkvBk93Y2E8Uhfuo56ViSfQzWjVtqujVUZVBW0FNiOMdG&nostub=1
+#EXTINF:0 tvg-id="ch3425" tvg-name="US: Bein Sports XTRA HD" tvg-logo="https://rus.hls.gd/images/chIcons/3425.png" tvg-rec="3", US: Bein Sports XTRA HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch3425/mono.m3u8?token=rast875.v2_FMO2A0LwDCwDA4zXhheh_HMu7RLVmlXJlokiF6KyR-0h1Mq4UIvu_tT8dOQpDpehqJcZq9ZSVe7q&nostub=1
+#EXTINF:0 tvg-id="ch1330" tvg-name="US: CBS Sports Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1330.png" tvg-rec="0", US: CBS Sports Network HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1330/mono.m3u8?token=rast875.v2_cTsN4lJYwkDdjkdlDIxzntY9KPbabd2VthKKH66kqampgJseBRMuRccH5FHQpjBR4sFLqmRwOw_W&nostub=1
+#EXTINF:0 tvg-id="ch1625" tvg-name="US: ESPN HD" tvg-logo="https://rus.hls.gd/images/chIcons/1625.png" tvg-rec="3", US: ESPN HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1625/mono.m3u8?token=rast875.v2_PhafhwRJqUI86RKeZvOT0zfjx0zMZM5A68PP0o0bY44Ik3aBJrBetC56uS8tV_W5AArEgl9SsP2A&nostub=1
+#EXTINF:0 tvg-id="ch1626" tvg-name="US: ESPN 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1626.png" tvg-rec="3", US: ESPN 2 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1626/mono.m3u8?token=rast875.v2_IhUsc4iPjmXSNKHr92SZgZ1gpR1G1sBEeaq9BmUpkxeEnPPBD0ZC16JjxxP7Gl_muvE16tW-XP33&nostub=1
+#EXTINF:0 tvg-id="ch1627" tvg-name="US: ESPNU HD" tvg-logo="https://rus.hls.gd/images/chIcons/1627.png" tvg-rec="3", US: ESPNU HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1627/mono.m3u8?token=rast875.v2_Keb844gE9--uDVERvW_qI3oJIhKJlt5JrkoRpT4duuC8n1QQhzDFnYfpMAkKOBqZeyP4KBmGlWBb&nostub=1
+#EXTINF:0 tvg-id="ch2274" tvg-name="US: FanDuel TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/2274.png" tvg-rec="3", US: FanDuel TV HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2274/mono.m3u8?token=rast875.v2_XkIrbTEm8SQ59Xr8BzknqTCIedrFpl4qPE2zyeOrJX6J-PMLCkqXO0EGRl1GfWOyMWiTWdd4vI96&nostub=1
+#EXTINF:0 tvg-id="ch1331" tvg-name="US: FOX Sports 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1331.png" tvg-rec="3", US: FOX Sports 1 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1331/mono.m3u8?token=rast875.v2_53f4QXOz2TVZJy0vqBQM0lupUvuZQgeH7ANbAawEiQZQHCFIHFrPCKwX0_X-x9eprDTwR7Pfsd9c&nostub=1
+#EXTINF:0 tvg-id="ch1332" tvg-name="US: FOX Sports 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1332.png" tvg-rec="3", US: FOX Sports 2 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1332/mono.m3u8?token=rast875.v2_T5ZbrAU6Sh8LPMEK-tRpirE8JlQs8K6R1CHcY_BWzfhocSCH1YicQsIsZNpVsLSLH_-GfZwmMf97&nostub=1
+#EXTINF:0 tvg-id="ch1336" tvg-name="US: FUBO Sports Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1336.png" tvg-rec="3", US: FUBO Sports Network HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1336/mono.m3u8?token=rast875.v2_GIz0YxU2ksEs_FoRad6Squde4f5jfDQg8XpKM8DpoWOrGYwxJxcDRurbCvbVT7dF4HyJohGOt0vd&nostub=1
+#EXTINF:0 tvg-id="ch2197" tvg-name="US: Golf Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/2197.png" tvg-rec="3", US: Golf Channel HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2197/mono.m3u8?token=rast875.v2_dBackXWG9Z7KuJOZ1Z2z3LeVilNyGtVaiZRR4xf0nGArnnxSiuq3jCZ7wqXJOVBzXzgr6BZkBgvL&nostub=1
+#EXTINF:0 tvg-id="ch3402" tvg-name="US: GolfPass HD" tvg-logo="https://rus.hls.gd/images/chIcons/3402.png" tvg-rec="3", US: GolfPass HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch3402/mono.m3u8?token=rast875.v2_7Mt6vzdAhlSrSReWOIGheXXCdsI94MulEsYFTzdVUUAlH71e-a8dHSehwm0cO2V92EXELg7ILVNK&nostub=1
+#EXTINF:0 tvg-id="ch3371" tvg-name="US: MSG HD" tvg-logo="https://rus.hls.gd/images/chIcons/3371.png" tvg-rec="3", US: MSG HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch3371/mono.m3u8?token=rast875.v2_YYD8DNPifg2WJbwutIysEggSw5khgxkv6mHXve0yEIZpZbvXSS1xaUvwyDcrdiusMDnO_u6AMmzl&nostub=1
+#EXTINF:0 tvg-id="ch1329" tvg-name="US: MLB Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1329.png" tvg-rec="3", US: MLB Network HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1329/mono.m3u8?token=rast875.v2_PouxlB9ohHC252nILTqvAZtH_6SNSuNhzytEJurd_aVDfnUytEv2vSvJZOb8nO7me5kotZlkq8KI&nostub=1
+#EXTINF:0 tvg-id="ch725" tvg-name="US: NBA TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/725.png" tvg-rec="7", US: NBA TV HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch725/mono.m3u8?token=rast875.v2_kFpHF11edyxChYnBBIaisImgJsyzsx5VEsVoty4f8XBDq1OH-T-J82mR6hSzrrhZBoxsmiAx7n8&nostub=1
+#EXTINF:0 tvg-id="ch1067" tvg-name="US: NHL Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1067.png" tvg-rec="7", US: NHL Network HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1067/mono.m3u8?token=rast875.v2_kLf6x4zCBD5DyKwfLB6BlqtfQFhPDAm7uS_4aNqpBvntD-XrzWde1PIMNwufJ2dDC0SMLjQALKdO&nostub=1
+#EXTINF:0 tvg-id="ch1328" tvg-name="US: NFL Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1328.png" tvg-rec="3", US: NFL Network HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1328/mono.m3u8?token=rast875.v2_X2rWjIFNk0US0TZPAN4tzc-Q2A87VJV_clmPTnFKgd_9Ms_Ik0Y5VbXfn_V1aPIlviCwsqu3xm9c&nostub=1
+#EXTINF:0 tvg-id="ch108" tvg-name="US: NFL Red Zone HD" tvg-logo="https://rus.hls.gd/images/chIcons/108.png" tvg-rec="0", US: NFL Red Zone HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch108/mono.m3u8?token=rast875.v2_C-9HKevwqk9H7NxXHDcUHc9jsJjrbYjDWK9Id73GfTE9Z8UIEOHjzCGPA1kqss_amFVQvd3eexg&nostub=1
+#EXTINF:0 tvg-id="ch1333" tvg-name="US: NBC Sports Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1333.png" tvg-rec="3", US: NBC Sports Network HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1333/mono.m3u8?token=rast875.v2_FtCA2aZhQbmvehUU0lKr1ABJxNHgeJba9xHKoVD1PtSIWTXf0zDgdFTd_VKG9Ow5-RZxQtIjS5Nd&nostub=1
+#EXTINF:0 tvg-id="ch3372" tvg-name="US: PokerGo HD" tvg-logo="https://rus.hls.gd/images/chIcons/3372.png" tvg-rec="3", US: PokerGo HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch3372/mono.m3u8?token=rast875.v2_-KXJ04iCJoeIyhFT14NqFsh7xd53qxi4RZFs7xBNE_HvCkN6xYy57izfhzAJNek_TOlx9gSw2tBn&nostub=1
+#EXTINF:0 tvg-id="ch3373" tvg-name="US: SportsNet New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/3373.png" tvg-rec="3", US: SportsNet New York HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch3373/mono.m3u8?token=rast875.v2_Mu1C79flLoVF7zGJ35DQdS-pAE6wBFbK-a7M7cJ2_vLa4gb3xv25a1B_RgIdpfZygLepWBreIDuw&nostub=1
+#EXTINF:0 tvg-id="ch1623" tvg-name="US: Tennis Channel HD" tvg-logo="https://rus.hls.gd/images/chIcons/1623.png" tvg-rec="3", US: Tennis Channel HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1623/mono.m3u8?token=rast875.v2_NoMPtOgDsp-OJq61Fg0Ap3HDBopXFYIfYW0BX46e1aFnnKxYxsbitG_1iR0M6IUYGnIrOTjZqRcy&nostub=1
+#EXTINF:0 tvg-id="ch1624" tvg-name="US: Tennis Channel 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1624.png" tvg-rec="3", US: Tennis Channel 2 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1624/mono.m3u8?token=rast875.v2_2EbkdM8OucdoypttgTRAiXlmFbcvgO8V4aDVyil1xfo0nOaEfFHokTEdwPPYFsDZ_vHMSNQlyrz1&nostub=1
+#EXTINF:0 tvg-id="ch322" tvg-name="US: UFC Fight Pass HD" tvg-logo="https://rus.hls.gd/images/chIcons/322.png" tvg-rec="7", US: UFC Fight Pass HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch322/mono.m3u8?token=rast875.v2_7PnC0c1dPlZsoZ_se-aS94UbL6WMgn0zNgImYKXlHdpaRnVfvw1pIp3LgHdIcrVmhVmDFOE_kz0&nostub=1
+#EXTINF:0 tvg-id="ch3375" tvg-name="US: Willow Sports HD" tvg-logo="https://rus.hls.gd/images/chIcons/3375.png" tvg-rec="3", US: Willow Sports HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch3375/mono.m3u8?token=rast875.v2_lJWUT4YLThxkaHJWRu8SX6zHccPNBDnx8lhPc4LfK2f9I08tfdhzO1xpU2l_pgTA6ceSyhsZFofE&nostub=1
+#EXTINF:0 tvg-id="ch1335" tvg-name="US: World Fishing Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1335.png" tvg-rec="3", US: World Fishing Network HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1335/mono.m3u8?token=rast875.v2_dtm6YuUStRuTR1dnoKH06HjGf8UxExSZ6WLluUyY3ph-rPZZNRlCWUGDe-WJOUVM8LrKBrzLn-Jl&nostub=1
+#EXTINF:0 tvg-id="ch1334" tvg-name="US: WWE Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1334.png" tvg-rec="3", US: WWE Network HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1334/mono.m3u8?token=rast875.v2_vDUyn_HHxnhG4EQw1ng1qp22ts7k4mU9O_pS10wrkvIPWynwoz6KIaOXu287ZeNx5iFaU3LUjvcY&nostub=1
+#EXTINF:0 tvg-id="ch2399" tvg-name="CA: Bein Sports HD" tvg-logo="https://rus.hls.gd/images/chIcons/2399.png" tvg-rec="7", CA: Bein Sports HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2399/mono.m3u8?token=rast875.v2_o-nuI_dp9EwYfNlWzwRh1cplYDR54L9AH-_KAYLAYy0i11pcrqFk87a2gnMFUnrwDqAFNz-rRbFp&nostub=1
+#EXTINF:0 tvg-id="ch2506" tvg-name="CA: CTV Speed HD" tvg-logo="https://rus.hls.gd/images/chIcons/2506.png" tvg-rec="7", CA: CTV Speed HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2506/mono.m3u8?token=rast875.v2_splWiXBKX0-yvg_0saXjFjBII9JR5J42W3fbFJDv7EwKmFiRwp4YlKGPk5KNh2b_WjmjYlBztnkh&nostub=1
+#EXTINF:0 tvg-id="ch3347" tvg-name="CA: MotorSport 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3347.png" tvg-rec="0", CA: MotorSport 1 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch3347/mono.m3u8?token=rast875.v2_IN2SH2hM2BAujR_B3xdFCCciz-fgljddxhT50cFihBMcHvDiYGl9SmiLK-xF6PgFkCFZFhMu9CXU&nostub=1
+#EXTINF:0 tvg-id="ch1196" tvg-name="CA: NBA TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/1196.png" tvg-rec="7", CA: NBA TV HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1196/mono.m3u8?token=rast875.v2_OxguRfxsnTzQ9gl-p2u2kL-74YPYvPex0E_-7sLIXXE1oNNHWfg2xOb-kZSJA9jMD4ANFOBRDcC9&nostub=1
+#EXTINF:0 tvg-id="ch1434" tvg-name="CA: One Soccer HD" tvg-logo="https://rus.hls.gd/images/chIcons/1434.png" tvg-rec="7", CA: One Soccer HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1434/mono.m3u8?token=rast875.v2_ABgTk3gkbRmcq72Vn9Dgd6y3k49dmbmaiTYQ1QRYzVym4GFbJKeayxl46WcNLJWiRQp3Dmdf6-uH&nostub=1
+#EXTINF:0 tvg-id="ch2894" tvg-name="CA: REV TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/2894.png" tvg-rec="7", CA: REV TV HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2894/mono.m3u8?token=rast875.v2_unmwgsyQ0QlIPC8VNEdASMJn4Ekehtilb9Q3VdiDSOPiTyFsilUx0uQeoLbIZ701lYW2viu7vgy0&nostub=1
+#EXTINF:0 tvg-id="ch451" tvg-name="CA: Sportsnet 4K" tvg-logo="https://rus.hls.gd/images/chIcons/451.png" tvg-rec="7", CA: Sportsnet 4K
+#EXTGRP:13. Sport
+https://15.hls.gd/ch451/mono.m3u8?token=rast875.v2_tT8klH9tBjAK-uHmZ3_X7ot-JkXJKNhQjjZ91F9Yp0wmrrbW7h55qWlRjcfVArwhuQjDly-bNDk&nostub=1
+#EXTINF:0 tvg-id="ch545" tvg-name="CA: Sportsnet One 4K" tvg-logo="https://rus.hls.gd/images/chIcons/545.png" tvg-rec="7", CA: Sportsnet One 4K
+#EXTGRP:13. Sport
+https://15.hls.gd/ch545/mono.m3u8?token=rast875.v2_Vpq2XFdlO-3i63weYlwYIJepm3_dUbuglEYt0TZSZ1svcn2vjP8lrnOjT8tLkTiL_-Knk1G07V0&nostub=1
+#EXTINF:0 tvg-id="ch1042" tvg-name="CA: Sportsnet 360 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1042.png" tvg-rec="7", CA: Sportsnet 360 HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1042/mono.m3u8?token=rast875.v2_Hj3eeFYlG3zPI3I-3t30DC5t6pYs8UseyUgUXUBl_Y_8P6uiVkduN_aa7uBIn3lmzpStpQ70mb5j&nostub=1
+#EXTINF:0 tvg-id="ch1440" tvg-name="CA: Sportsnet East HD" tvg-logo="https://rus.hls.gd/images/chIcons/1440.png" tvg-rec="7", CA: Sportsnet East HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1440/mono.m3u8?token=rast875.v2_yF7kFDeIwCfTyRqfkJSgElpEbBztqgr6XSN0fl3k04ceusKE3PiN5QBmnWxVNlX0dlbGOwaTQrmq&nostub=1
+#EXTINF:0 tvg-id="ch2602" tvg-name="CA: Sportsnet West HD" tvg-logo="https://rus.hls.gd/images/chIcons/2602.png" tvg-rec="7", CA: Sportsnet West HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2602/mono.m3u8?token=rast875.v2_auxpPaxIz_eetnvQf05ZyjFNJZEtw1SLubUdzQvD_x6mGkgO5jjsJ2Jwi3laewhPyCPACkyiXs1p&nostub=1
+#EXTINF:0 tvg-id="ch2404" tvg-name="CA: Sportsnet Ontario HD" tvg-logo="https://rus.hls.gd/images/chIcons/2404.png" tvg-rec="7", CA: Sportsnet Ontario HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2404/mono.m3u8?token=rast875.v2_q-8wQJHtJrcR4oTfFBYHija5jgVSVKVKAw-raeaDROOlKcNx1svdQb1Xo1DNXAb90Uw_WjC17lnZ&nostub=1
+#EXTINF:0 tvg-id="ch2885" tvg-name="CA: Sportsnet Pacific HD" tvg-logo="https://rus.hls.gd/images/chIcons/2885.png" tvg-rec="7", CA: Sportsnet Pacific HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch2885/mono.m3u8?token=rast875.v2_jO8HYNqdlHHOkHTeuuVNC5akaetlDWv9hjOk8oCX2j85YmJ4087PJ1rMw52VL5EKyYRRWdFMbcwh&nostub=1
+#EXTINF:0 tvg-id="ch3342" tvg-name="CA: Sportsnet Flames HD" tvg-logo="https://rus.hls.gd/images/chIcons/3342.png" tvg-rec="7", CA: Sportsnet Flames HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch3342/mono.m3u8?token=rast875.v2_QZFi3h27zrrduWPBF2WjaxvmK2dkPPpLa2KDD5z8sQG9GP55k1dL-z-xJLgOV75tZx4hvZLToFTz&nostub=1
+#EXTINF:0 tvg-id="ch1441" tvg-name="CA: Sportsnet Oilers HD" tvg-logo="https://rus.hls.gd/images/chIcons/1441.png" tvg-rec="7", CA: Sportsnet Oilers HD
+#EXTGRP:13. Sport
+https://15.hls.gd/ch1441/mono.m3u8?token=rast875.v2_gSHVYE9ENyCA7ar7eF1hbEvbE5_Q-CcSeZ822EYs9ztM-AoolbzqxXujOeN-x1CSS4y0moSh2wF8&nostub=1
 #EXTINF:0 tvg-id="ch2886" tvg-name="CA: TSN 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2886.png" tvg-rec="7", CA: TSN 1 HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch2886/mono.m3u8?token=rast875.v2_JPkvYS5xlqElVXyMyazy0G5BM_HqsuwKEJHhQbJDUsLQ9007O1TdPnPw9XI91MMvuPzKGvHjDXDX&nostub=1
 #EXTINF:0 tvg-id="ch2884" tvg-name="CA: TSN 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/2884.png" tvg-rec="7", CA: TSN 2 HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch2884/mono.m3u8?token=rast875.v2_EmXtd4LOGO9ukcFoUUGhRXZ67eJtF2CiBQG6EMjUF7Xge9nj3ggEET10nWsJp4PUak5gz_8aa540&nostub=1
 #EXTINF:0 tvg-id="ch3172" tvg-name="CA: TSN 3 HD" tvg-logo="https://rus.hls.gd/images/chIcons/3172.png" tvg-rec="7", CA: TSN 3 HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch3172/mono.m3u8?token=rast875.v2_HeW_HfO0FKVLWB8SMUDR8vxZTKh9F1Lot6hRAoAGNBRblhsWf1rZJPBoTnpud_hg9QTj0LK7MDrl&nostub=1
 #EXTINF:0 tvg-id="ch1549" tvg-name="CA: TSN 4 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1549.png" tvg-rec="7", CA: TSN 4 HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch1549/mono.m3u8?token=rast875.v2_Yt2Y7ymMOxtNQcwmB1gZagnXyrn7YFKqa8JIi9oWvUqp9LjQRy9b87tf1KOXBGsJ2w3eflzW3d9k&nostub=1
 #EXTINF:0 tvg-id="ch1436" tvg-name="CA: TSN 5 HD" tvg-logo="https://rus.hls.gd/images/chIcons/1436.png" tvg-rec="7", CA: TSN 5 HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch1436/mono.m3u8?token=rast875.v2_WfuxmFiEAox0qOeu5xIXN5Eg9pA2mAYT7yTqECkgSsoZZo4Y44y6GlHYYRuxaEVhapUClI4WUsTF&nostub=1
-#EXTINF:0 tvg-id="ch3349" tvg-name="CA: TCM HD" tvg-logo="https://rus.hls.gd/images/chIcons/3349.png" tvg-rec="7", CA: TCM HD
-#EXTGRP:Canada
-https://15.hls.gd/ch3349/mono.m3u8?token=rast875.v2_9HiFTh-8LZ6xHpyTDRiMwkcRWZEewJ20TNT_Y96hYwuzEN0iQ5o7WPvn8g6rui2YDLcHGfrw-0Gk&nostub=1
-#EXTINF:0 tvg-id="ch1127" tvg-name="CA: W Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1127.png" tvg-rec="7", CA: W Network HD
-#EXTGRP:Canada
-https://15.hls.gd/ch1127/mono.m3u8?token=rast875.v2_Z5RNnTEd36hoTDxBRi0kX2ZORS8JsIwKbkaaDEnM89Igp-PHIbTJMPoyA-HrOQN4Bo8DmUdD0g6P&nostub=1
 #EXTINF:0 tvg-id="ch3306" tvg-name="CA: Wild TV HD" tvg-logo="https://rus.hls.gd/images/chIcons/3306.png" tvg-rec="7", CA: Wild TV HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch3306/mono.m3u8?token=rast875.v2_ubaummj7iTaCfCt7OJzu4b9oiXJjAfhtXeDnh7QsiEQjVGTeRzpdjpvIuhKz_deu5C-J2FVzbdKT&nostub=1
-#EXTINF:0 tvg-id="ch2928" tvg-name="CA: YTV HD" tvg-logo="https://rus.hls.gd/images/chIcons/2928.png" tvg-rec="7", CA: YTV HD
-#EXTGRP:Canada
-https://15.hls.gd/ch2928/mono.m3u8?token=rast875.v2_7BYgdMIKksHqf27F2RSs-mEjHzoegmpUaWbFVd0F0VSY4OHTT4nZDVFNTM_w1SQ6COe1GvgQtgfW&nostub=1
 #EXTINF:0 tvg-id="ch4122" tvg-name="CA: NHL Center Ice 1 HD" tvg-logo="https://rus.hls.gd/images/chIcons/4122.png" tvg-rec="0", CA: NHL Center Ice 1 HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch4122/mono.m3u8?token=rast875.v2_kWPTtpsgivsNV6yDRIrLmpyf73vut-ie1SmNzmVzDH_N_fINvARem_4ChHiZkHZ30d69ELCy_71g&nostub=1
 #EXTINF:0 tvg-id="ch4123" tvg-name="CA: NHL Center Ice 2 HD" tvg-logo="https://rus.hls.gd/images/chIcons/4123.png" tvg-rec="0", CA: NHL Center Ice 2 HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch4123/mono.m3u8?token=rast875.v2_Ol_-yKuJ9DSir0fezslTmVQRkYPoYo2i6NU5eVcF9G69UoF46MniTX5W76NFwzmumko_Z1o-PfvE&nostub=1
 #EXTINF:0 tvg-id="ch4124" tvg-name="CA: NHL Center Ice 3 HD" tvg-logo="https://rus.hls.gd/images/chIcons/4124.png" tvg-rec="0", CA: NHL Center Ice 3 HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch4124/mono.m3u8?token=rast875.v2_4tM3qVxn6wN2CAlBhdXujFxcz7SGeTDZ2dlxprVfb_2EYegSR_U4O-8tbmmJkWyUTxQMBFfHWNIu&nostub=1
 #EXTINF:0 tvg-id="ch4125" tvg-name="CA: NHL Center Ice 4 HD" tvg-logo="https://rus.hls.gd/images/chIcons/4125.png" tvg-rec="0", CA: NHL Center Ice 4 HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch4125/mono.m3u8?token=rast875.v2_yduWvp3DFUWWm68QnQHTUVWxcHpKf-T2SoLboOfBhKW1mJM7hycRPY3m6v168BXtlZlJRKUcJGCK&nostub=1
 #EXTINF:0 tvg-id="ch4126" tvg-name="CA: NHL Center Ice 5 HD" tvg-logo="https://rus.hls.gd/images/chIcons/4126.png" tvg-rec="0", CA: NHL Center Ice 5 HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch4126/mono.m3u8?token=rast875.v2_OtBrsGlKeCUWLVEqixIzDVOyzYVHmPjbWFN-trHNwg7Y3GAAXXHTSMgrt-rCB1eMeTyKFo_up9NL&nostub=1
 #EXTINF:0 tvg-id="ch4127" tvg-name="CA: NHL Center Ice 6 HD" tvg-logo="https://rus.hls.gd/images/chIcons/4127.png" tvg-rec="0", CA: NHL Center Ice 6 HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch4127/mono.m3u8?token=rast875.v2_aBs86hwXlEY21ixEdAKA0XMja08tBlERhwtr24ZKeHGrZTjCwm7hgWUi97S8e-f_AnrsOrJtwfgV&nostub=1
 #EXTINF:0 tvg-id="ch4128" tvg-name="CA: NHL Center Ice 7 HD" tvg-logo="https://rus.hls.gd/images/chIcons/4128.png" tvg-rec="0", CA: NHL Center Ice 7 HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch4128/mono.m3u8?token=rast875.v2_p6qYV45mXojN2Dx5T7lDTN0KPAHAbqjMvk2spEFBODyRi5yynXVzaWKSGrJhvNP7WFAaLUKwsOU8&nostub=1
 #EXTINF:0 tvg-id="ch4129" tvg-name="CA: NHL Center Ice 8 HD" tvg-logo="https://rus.hls.gd/images/chIcons/4129.png" tvg-rec="0", CA: NHL Center Ice 8 HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch4129/mono.m3u8?token=rast875.v2_ODSReXXaGJ2kVHFHQsF56LCNAmWuYBAdG1nN_7j09CmEmwdMCCLr_SduScCpS2UX6WEZZQqQHmel&nostub=1
 #EXTINF:0 tvg-id="ch4130" tvg-name="CA: NHL Center Ice 9 HD" tvg-logo="https://rus.hls.gd/images/chIcons/4130.png" tvg-rec="0", CA: NHL Center Ice 9 HD
-#EXTGRP:Canada
+#EXTGRP:13. Sport
 https://15.hls.gd/ch4130/mono.m3u8?token=rast875.v2_0OKywlQ6cW2leBod9RRdp-d0lIeJMl6Sg79m6D43TVspZy56ez2XqakIFGZ5dg6vbXyVGnePMY_Y&nostub=1
