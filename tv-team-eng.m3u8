@@ -20,15 +20,9 @@ https://15.hls.gd/ch3412/mono.m3u8?token=rast875.v2_93Q34aeJRc4CYdskt_Uk1jHnrqq2
 #EXTINF:0 tvg-id="ch2267" tvg-name="US: Cinemax HD" tvg-logo="https://rus.hls.gd/images/chIcons/2267.png" tvg-rec="3", US: Cinemax HD
 #EXTGRP:1. Movies
 https://15.hls.gd/ch2267/mono.m3u8?token=rast875.v2_Z_9bC-rJ2FG75uf2y7QQO2p-105W1u91vGho-6s3_nat0RS_9Ffa61DIyOLO9cfgMrTSp91KNWsZ&nostub=1
-#EXTINF:0 tvg-id="ch2275" tvg-name="US: Family Movie Classics HD" tvg-logo="https://rus.hls.gd/images/chIcons/2275.png" tvg-rec="3", US: Family Movie Classics HD
-#EXTGRP:1. Movies
-https://15.hls.gd/ch2275/mono.m3u8?token=rast875.v2_udUGriAGxNXpp1JxFkwbORKCq7TjRlQ4YtvEDC6YmIRrca32PQ6NTLJfWBIUErStKwuXp34wPqyh&nostub=1
 #EXTINF:0 tvg-id="ch3404" tvg-name="US: HBO Movies HD" tvg-logo="https://rus.hls.gd/images/chIcons/3404.png" tvg-rec="3", US: HBO Movies HD
 #EXTGRP:1. Movies
 https://15.hls.gd/ch3404/mono.m3u8?token=rast875.v2_nnKyVwXigN93hFQRuTR7AOCV3hiId_uW8rbgAb1_S9j3On7sAoFtH9O-zUtgbPLKr7v5w3XCRgoE&nostub=1
-#EXTINF:0 tvg-id="ch3405" tvg-name="US: HBO Latino HD" tvg-logo="https://rus.hls.gd/images/chIcons/3405.png" tvg-rec="3", US: HBO Latino HD
-#EXTGRP:1. Movies
-https://15.hls.gd/ch3405/mono.m3u8?token=rast875.v2_Knl1ZMtSeZx8lSnafHeKuGQEpoH1eQQjtXX_vQ9YWRUNti7eR_-hrX_gE9IRfRMdjO_sN-P196mw&nostub=1
 #EXTINF:0 tvg-id="ch3406" tvg-name="US: HBO Hits HD" tvg-logo="https://rus.hls.gd/images/chIcons/3406.png" tvg-rec="3", US: HBO Hits HD
 #EXTGRP:1. Movies
 https://15.hls.gd/ch3406/mono.m3u8?token=rast875.v2_UlNcfu7wUuw9f9yNyHgxHBrFY6LwR143NhDniUj9gUqI27FT8NcSIdbXbTg80AhvD_xEKWla0Kqk&nostub=1
@@ -59,9 +53,6 @@ https://15.hls.gd/ch2158/mono.m3u8?token=rast875.v2_xgDSsfd3svqssrBojJQ_wWu8MI5J
 #EXTINF:0 tvg-id="ch3379" tvg-name="US: ReelzChannel HD" tvg-logo="https://rus.hls.gd/images/chIcons/3379.png" tvg-rec="3", US: ReelzChannel HD
 #EXTGRP:1. Movies
 https://15.hls.gd/ch3379/mono.m3u8?token=rast875.v2_MgT-jYNIAQdEdRVs57Fv7VvX_jpRmbPigG_ypcoC6drxxzN7X5KV8kHDJtOpZBe4sIzpbDzyiY1W&nostub=1
-#EXTINF:0 tvg-id="ch3403" tvg-name="US: Showtime Family Zone HD" tvg-logo="https://rus.hls.gd/images/chIcons/3403.png" tvg-rec="3", US: Showtime Family Zone HD
-#EXTGRP:1. Movies
-https://15.hls.gd/ch3403/mono.m3u8?token=rast875.v2_i4oPn2vlCR_hEde3mu1eGjnAy7eOvZkYP-IBKpyb1jbOuxy3swNwd_Yryyotk3jVVoMlmXi7a4k9&nostub=1
 #EXTINF:0 tvg-id="ch3358" tvg-name="US: Showtime Extreme HD" tvg-logo="https://rus.hls.gd/images/chIcons/3358.png" tvg-rec="3", US: Showtime Extreme HD
 #EXTGRP:1. Movies
 https://15.hls.gd/ch3358/mono.m3u8?token=rast875.v2_XsTlyxgGSyRS7WXA3c8AP3u8XlHdOTREEnpw9puZsqDo6bQHRL1PL68ZLK06LFyPNi-nVlx8ChTX&nostub=1
@@ -131,9 +122,6 @@ https://15.hls.gd/ch2180/mono.m3u8?token=rast875.v2_EvHIbx_78Wx_c7eTOTvbDVQcO0Ji
 #EXTINF:0 tvg-id="ch2181" tvg-name="US: STARZ Encore Westerns HD" tvg-logo="https://rus.hls.gd/images/chIcons/2181.png" tvg-rec="3", US: STARZ Encore Westerns HD
 #EXTGRP:2. Action
 https://15.hls.gd/ch2181/mono.m3u8?token=rast875.v2_ygt5zoZQwUsmukwtmaNaS58ttdCPjZyGquzXL6bb3vlRsHBQ8PAqsTruBkCVguq-ACsEKLAkfXCE&nostub=1
-#EXTINF:0 tvg-id="ch2165" tvg-name="UK: Sky Cinema Animation" tvg-logo="https://rus.hls.gd/images/chIcons/2165.png" tvg-rec="6", UK: Sky Cinema Animation
-#EXTGRP:3. Drama
-https://15.hls.gd/ch2165/mono.m3u8?token=rast875.v2_7g6mMQf6rDXdQeCgvFKw348GrF0_gsbUVlg3HgvtbasqE-uO7fg7UN8AzN5L--z5OMLLRLq4IL9C&nostub=1
 #EXTINF:0 tvg-id="ch2166" tvg-name="UK: Sky Cinema Drama" tvg-logo="https://rus.hls.gd/images/chIcons/2166.png" tvg-rec="6", UK: Sky Cinema Drama
 #EXTGRP:3. Drama
 https://15.hls.gd/ch2166/mono.m3u8?token=rast875.v2_mO30_3ve89PaxWwU-LdV9MRQDRtFdHvvYduCCJqraDGV1AVl8fzR46CmJnDDyVd-K_DFmx7NRdT_&nostub=1
@@ -245,6 +233,12 @@ https://15.hls.gd/ch2503/mono.m3u8?token=rast875.v2_NcuZ0h8HZFvTNLKiLKDyjBJIUgiL
 #EXTINF:0 tvg-id="ch3173" tvg-name="CA: Oxygen True Crime HD" tvg-logo="https://rus.hls.gd/images/chIcons/3173.png" tvg-rec="7", CA: Oxygen True Crime HD
 #EXTGRP:5. Crime
 https://15.hls.gd/ch3173/mono.m3u8?token=rast875.v2_D22BWRBbMr_k478e1Cap5J7Gv9sMeU_dyJigQ7IQD9Hcbm4lxqTr_xBHUgcLgw7pSrLaVmuJZOrB&nostub=1
+#EXTINF:0 tvg-id="ch2275" tvg-name="US: Family Movie Classics HD" tvg-logo="https://rus.hls.gd/images/chIcons/2275.png" tvg-rec="3", US: Family Movie Classics HD
+#EXTGRP:6. Family
+https://15.hls.gd/ch2275/mono.m3u8?token=rast875.v2_udUGriAGxNXpp1JxFkwbORKCq7TjRlQ4YtvEDC6YmIRrca32PQ6NTLJfWBIUErStKwuXp34wPqyh&nostub=1
+#EXTINF:0 tvg-id="ch3403" tvg-name="US: Showtime Family Zone HD" tvg-logo="https://rus.hls.gd/images/chIcons/3403.png" tvg-rec="3", US: Showtime Family Zone HD
+#EXTGRP:6. Family
+https://15.hls.gd/ch3403/mono.m3u8?token=rast875.v2_i4oPn2vlCR_hEde3mu1eGjnAy7eOvZkYP-IBKpyb1jbOuxy3swNwd_Yryyotk3jVVoMlmXi7a4k9&nostub=1
 #EXTINF:0 tvg-id="ch2167" tvg-name="UK: Sky Cinema Family" tvg-logo="https://rus.hls.gd/images/chIcons/2167.png" tvg-rec="6", UK: Sky Cinema Family
 #EXTGRP:6. Family
 https://15.hls.gd/ch2167/mono.m3u8?token=rast875.v2_grvaqcp-zYVBfo_5VHZpq1dSYsbD4mdc61lr0nmgQUGTGEQyU5YIKgQe6paHY_5VgfTz6gzAkvw1&nostub=1
@@ -275,6 +269,9 @@ https://15.hls.gd/ch1123/mono.m3u8?token=rast875.v2_YOe-HT1GFTj5OVzmIhHdeOuTW-1f
 #EXTINF:0 tvg-id="ch1127" tvg-name="CA: W Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/1127.png" tvg-rec="7", CA: W Network HD
 #EXTGRP:6. Family
 https://15.hls.gd/ch1127/mono.m3u8?token=rast875.v2_Z5RNnTEd36hoTDxBRi0kX2ZORS8JsIwKbkaaDEnM89Igp-PHIbTJMPoyA-HrOQN4Bo8DmUdD0g6P&nostub=1
+#EXTINF:0 tvg-id="ch2165" tvg-name="UK: Sky Cinema Animation" tvg-logo="https://rus.hls.gd/images/chIcons/2165.png" tvg-rec="6", UK: Sky Cinema Animation
+#EXTGRP:7. Kids
+https://15.hls.gd/ch2165/mono.m3u8?token=rast875.v2_7g6mMQf6rDXdQeCgvFKw348GrF0_gsbUVlg3HgvtbasqE-uO7fg7UN8AzN5L--z5OMLLRLq4IL9C&nostub=1
 #EXTINF:0 tvg-id="ch3222" tvg-name="UK: Sky Kids HD" tvg-logo="https://rus.hls.gd/images/chIcons/3222.png" tvg-rec="6", UK: Sky Kids HD
 #EXTGRP:7. Kids
 https://15.hls.gd/ch3222/mono.m3u8?token=rast875.v2_7MtCH4DR7_wjh0pGKQyipHHHPEKGTK5B2Lq4iG1Eebzmg7_DN8XGQsqchJFZk6yGlIb6DvhDc91j&nostub=1
@@ -395,9 +392,6 @@ https://15.hls.gd/ch3414/mono.m3u8?token=rast875.v2_WwwFuNdhEY3if49a-HW4UgG-UUE1
 #EXTINF:0 tvg-id="ch3415" tvg-name="US: USA Network HD" tvg-logo="https://rus.hls.gd/images/chIcons/3415.png" tvg-rec="3", US: USA Network HD
 #EXTGRP:8. General TV
 https://15.hls.gd/ch3415/mono.m3u8?token=rast875.v2_yzGO7nuiPQgOSpZ8mC6wKJxFQJSr_e0a7g2bDLLfK03RxZB0Wg-6KQJziU5bSURGVvlYdYnlPNE5&nostub=1
-#EXTINF:0 tvg-id="ch3416" tvg-name="US: Univision New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/3416.png" tvg-rec="3", US: Univision New York HD
-#EXTGRP:8. General TV
-https://15.hls.gd/ch3416/mono.m3u8?token=rast875.v2_wQwba6CN-X5dFpFlSGmX-auDBIVJgm_N_EGStfAQ7OIeYx6r-W7yDCTm6OK6fgT0spSQ88a4u1li&nostub=1
 #EXTINF:0 tvg-id="ch4121" tvg-name="CA: Addik HD" tvg-logo="https://rus.hls.gd/images/chIcons/4121.png" tvg-rec="7", CA: Addik HD
 #EXTGRP:8. General TV
 https://15.hls.gd/ch4121/mono.m3u8?token=rast875.v2_8f1k6Dz0-Bb9A-ArOBoWrT1vkamdC8TpJHWECo_pKUz67jUjAaDLqwi5hEgmAZrHE7fVUlxcUdF8&nostub=1
@@ -980,3 +974,9 @@ https://15.hls.gd/ch4129/mono.m3u8?token=rast875.v2_ODSReXXaGJ2kVHFHQsF56LCNAmWu
 #EXTINF:0 tvg-id="ch4130" tvg-name="CA: NHL Center Ice 9 HD" tvg-logo="https://rus.hls.gd/images/chIcons/4130.png" tvg-rec="0", CA: NHL Center Ice 9 HD
 #EXTGRP:13. Sport
 https://15.hls.gd/ch4130/mono.m3u8?token=rast875.v2_0OKywlQ6cW2leBod9RRdp-d0lIeJMl6Sg79m6D43TVspZy56ez2XqakIFGZ5dg6vbXyVGnePMY_Y&nostub=1
+#EXTINF:0 tvg-id="ch3405" tvg-name="US: HBO Latino HD" tvg-logo="https://rus.hls.gd/images/chIcons/3405.png" tvg-rec="3", US: HBO Latino HD
+#EXTGRP:14. Latino
+https://15.hls.gd/ch3405/mono.m3u8?token=rast875.v2_Knl1ZMtSeZx8lSnafHeKuGQEpoH1eQQjtXX_vQ9YWRUNti7eR_-hrX_gE9IRfRMdjO_sN-P196mw&nostub=1
+#EXTINF:0 tvg-id="ch3416" tvg-name="US: Univision New York HD" tvg-logo="https://rus.hls.gd/images/chIcons/3416.png" tvg-rec="3", US: Univision New York HD
+#EXTGRP:14. Latino
+https://15.hls.gd/ch3416/mono.m3u8?token=rast875.v2_wQwba6CN-X5dFpFlSGmX-auDBIVJgm_N_EGStfAQ7OIeYx6r-W7yDCTm6OK6fgT0spSQ88a4u1li&nostub=1
